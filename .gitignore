@@ -1,0 +1,64 @@
+Backups
+*.bak
+*.xbkp
+Backup/*
+./Backup/*
+*.zip
+*.exe
+*.foo
+*.7z
+
+# Audio Files
+*.mp3
+*.wav
+*.flac
+*.mp4
+*.m4a
+Audio/*
+./Audio/*
+Music/*
+./Music/*
+*/Audio/*
+*/Music/*
+
+# Light-O-Rama Files
+*.lms
+*.lsv
+*.lcs
+*.las
+
+# Compiled Sequences
+*.fseq
+*.zcpp
+
+# Desktop.ini and Customized Folder Icons
+# desktop.ini
+# */desktop.ini
+# */folder.ico
+
+# Folders
+Downloads/*
+./Downloads/*
+Backup/*
+./Backup/*
+Imports/*
+./Import/*
+RenderCache/*
+./RenderCache/*
+PreviewVids/*
+./PreviewVids/*
+Videos/*
+./Videos/*
+Presets/Paid*
+./Presets/Paid*
+Sequences/2022/*
+./Sequences/2022/*
+Sequences/Prior Versions/*
+./Sequences/Prior Versions/*
+
+
+
+
+
+#System Junk
+*/Thumbs.db
