@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="Pitch and Key Transcription" SourceVersion="2022.1">
+   <EffectLayer>
+      <Effect label="C minor" starttime="0" endtime="137850" />
+      <Effect label="C# minor" starttime="137850" endtime="144700" />
+      <Effect label="G minor" starttime="144700" endtime="148225" />
+      <Effect label="C minor" starttime="148225" endtime="156725" />
+      <Effect label="A# major" starttime="156725" endtime="168775" />
+      <Effect label="C minor" starttime="168775" endtime="182325" />
+      <Effect label="F# minor" starttime="182325" endtime="240350" />
+      <Effect label="C minor" starttime="240350" endtime="246675" />
+      <Effect label="A# minor" starttime="246675" endtime="253350" />
+      <Effect label="C minor" starttime="253350" endtime="253875" />
+      <Effect label="A# major" starttime="253875" endtime="256250" />
+      <Effect label="G# major" starttime="256250" endtime="258475" />
+      <Effect label="D# major" starttime="258475" endtime="260625" />
+      <Effect label="G# major" starttime="260625" endtime="263075" />
+      <Effect label="A# major" starttime="263075" endtime="264175" />
+      <Effect label="A# minor" starttime="264175" endtime="274200" />
+      <Effect label="F minor" starttime="274200" endtime="294425" />
+      <Effect label="A# major" starttime="294425" endtime="303300" />
+      <Effect label="D# major" starttime="303300" endtime="309625" />
+      <Effect label="G minor" starttime="309625" endtime="359219" />
+   </EffectLayer>
+</timing>

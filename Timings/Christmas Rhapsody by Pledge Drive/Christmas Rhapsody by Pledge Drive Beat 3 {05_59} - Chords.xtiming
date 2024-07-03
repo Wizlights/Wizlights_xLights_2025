@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timing name="Chords" SourceVersion="2022.1">
+   <EffectLayer>
+      <Effect label="55; 55; 70; 74; 65; 67" starttime="0" endtime="2650" />
+      <Effect label="52; 70; 72; 64; 67; 53; 69; 72; 63; 65; 48; 72; 63; 67; 53; 53; 69; 72; 63; 65" starttime="2650" endtime="5050" />
+      <Effect label="46; 70; 74; 65; 51; 70; 63; 67" starttime="11600" endtime="12100" />
+      <Effect label="46; 70; 74; 65" starttime="12100" endtime="14000" />
+      <Effect label="55; 55; 70; 74; 65; 67" starttime="14000" endtime="16475" />
+      <Effect label="46; 46; 70; 74; 65; 68" starttime="16475" endtime="19600" />
+      <Effect label="51; 51; 70; 63; 67" starttime="20275" endtime="23950" />
+      <Effect label="48; 48; 72; 63; 67" starttime="24375" endtime="27450" />
+      <Effect label="48; 70; 74; 65; 53; 69; 72; 63; 65" starttime="27450" endtime="28075" />
+      <Effect label="55; 70; 74; 67" starttime="30800" endtime="31125" />
+      <Effect label="47; 71; 63; 66" starttime="31125" endtime="31925" />
+      <Effect label="46; 70; 74; 65" starttime="31925" endtime="32750" />
+      <Effect label="45; 69; 73; 64; 70; 74; 65" starttime="32750" endtime="33150" />
+      <Effect label="47; 71; 63; 66" starttime="34675" endtime="35225" />
+      <Effect label="46; 70; 74; 65" starttime="35225" endtime="36025" />
+      <Effect label="45; 69; 73; 64" starttime="36025" endtime="36975" />
+      <Effect label="46; 70; 74; 65" starttime="36975" endtime="37800" />
+      <Effect label="51; 51; 70; 63; 67" starttime="37800" endtime="39325" />
+      <Effect label="50; 70; 74; 65" starttime="39325" endtime="41450" />
+      <Effect label="49; 49; 70; 73; 64; 68" starttime="41450" endtime="42850" />
+      <Effect label="48; 69; 72; 65" starttime="42850" endtime="45325" />
+      <Effect label="53; 53; 69; 72; 63; 65" starttime="45325" endtime="47075" />
+      <Effect label="46; 46; 70; 74; 65" starttime="47075" endtime="53075" />
+      <Effect label="46; 46; 70; 74; 65; 67" starttime="53075" endtime="53925" />
+      <Effect label="46; 46; 70; 74; 65" starttime="53925" endtime="58175" />
+      <Effect label="55; 55; 70; 74; 67" starttime="58175" endtime="61525" />
+      <Effect label="48; 48; 72; 63; 67" starttime="61525" endtime="66575" />
+      <Effect label="53; 53; 69; 72; 63; 65" starttime="66575" endtime="68200" />
+      <Effect label="46; 46; 70; 74; 65" starttime="68200" endtime="71525" />
+      <Effect label="55; 55; 70; 74; 67" starttime="71750" endtime="73400" />
+      <Effect label="55; 55; 71; 74; 67" starttime="73400" endtime="75250" />
+      <Effect label="48; 48; 70; 72; 63; 67; 47; 71; 63; 67" starttime="75250" endtime="76925" />
+      <Effect label="46; 70; 63; 67" starttime="77600" endtime="78500" />
+      <Effect label="45; 69; 74; 66" starttime="78500" endtime="78825" />
+      <Effect label="45; 45; 69; 72; 63; 67" starttime="78825" endtime="80025" />
+      <Effect label="56; 56; 72; 63; 68; 55; 71; 74; 67" starttime="80250" endtime="81225" />
+      <Effect label="51; 51; 70; 63; 67" starttime="81825" endtime="84350" />
+      <Effect label="50; 70; 74; 65" starttime="84450" endtime="85300" />
+      <Effect label="48; 48; 72; 63; 67" starttime="85300" endtime="88725" />
+      <Effect label="53; 53; 72; 65; 68" starttime="88725" endtime="90000" />
+      <Effect label="52; 52; 71; 64; 68" starttime="90000" endtime="90425" />
+      <Effect label="51; 51; 70; 63; 66" starttime="90425" endtime="91275" />
+      <Effect label="50; 50; 69; 74; 66; 46; 70; 74; 65" starttime="91275" endtime="92100" />
+      <Effect label="51; 51; 70; 63; 67" starttime="95450" endtime="97100" />
+      <Effect label="50; 70; 74; 65" starttime="97100" endtime="98825" />
+      <Effect label="48; 48; 72; 63; 67" starttime="98825" endtime="100550" />
+      <Effect label="56; 56; 71; 63; 68; 51; 70; 63; 67" starttime="100550" endtime="102225" />
+      <Effect label="51; 51; 69; 63; 66" starttime="105550" endtime="106375" />
+      <Effect label="56; 56; 72; 63; 65; 68" starttime="106375" endtime="107275" />
+      <Effect label="46; 46; 70; 74; 65" starttime="107275" endtime="108975" />
+      <Effect label="46; 46; 70; 74; 65; 67" starttime="108975" endtime="109850" />
+      <Effect label="46; 46; 70; 74; 65" starttime="109850" endtime="112425" />
+      <Effect label="46; 46; 70; 74; 65; 67" starttime="112425" endtime="113275" />
+      <Effect label="46; 46; 70; 74; 65" starttime="113275" endtime="115875" />
+      <Effect label="46; 46; 70; 74; 65; 67; 55; 70; 74; 67" starttime="115875" endtime="117750" />
+      <Effect label="48; 48; 72; 63; 67; 69; 72; 65" starttime="120975" endtime="126025" />
+      <Effect label="46; 46; 70; 74; 65" starttime="127700" endtime="128875" />
+      <Effect label="46; 46; 70; 74; 65; 67" starttime="128875" endtime="131250" />
+      <Effect label="55; 55; 71; 74; 67" starttime="131250" endtime="134450" />
+      <Effect label="48; 48; 70; 72; 63; 67" starttime="134450" endtime="136175" />
+      <Effect label="47; 47; 71; 63; 67" starttime="136175" endtime="137025" />
+      <Effect label="46; 46; 70; 74; 65; 67" starttime="137025" endtime="137875" />
+      <Effect label="45; 45; 69; 72; 64" starttime="137975" endtime="138750" />
+      <Effect label="45; 45; 69; 72; 63" starttime="138750" endtime="139575" />
+      <Effect label="56; 56; 72; 63; 68" starttime="139575" endtime="140450" />
+      <Effect label="55; 55; 71; 74; 67" starttime="140450" endtime="141325" />
+      <Effect label="51; 51; 70; 63; 67" starttime="141325" endtime="143875" />
+      <Effect label="50; 70; 74; 65" starttime="143875" endtime="144725" />
+      <Effect label="48; 48; 72; 63; 67" starttime="144725" endtime="148025" />
+      <Effect label="53; 53; 72; 65; 68" starttime="148025" endtime="149400" />
+      <Effect label="52; 52; 71; 64; 68" starttime="149400" endtime="149725" />
+      <Effect label="51; 71; 63; 65; 68" starttime="149725" endtime="150650" />
+      <Effect label="50; 50; 69; 74; 66" starttime="150650" endtime="151525" />
+      <Effect label="46; 46; 70; 74; 65" starttime="151525" endtime="152675" />
+      <Effect label="46; 46; 70; 74; 65; 67" starttime="152675" endtime="153400" />
+      <Effect label="46; 46; 70; 74; 65; 68" starttime="153625" endtime="154900" />
+      <Effect label="51; 51; 70; 63; 67" starttime="154900" endtime="156600" />
+      <Effect label="55; 70; 74; 67" starttime="156600" endtime="158275" />
+      <Effect label="48; 48; 72; 63; 67" starttime="158275" endtime="161700" />
+      <Effect label="53; 53; 72; 65; 68" starttime="161700" endtime="163050" />
+      <Effect label="52; 52; 71; 63; 64; 68; 51; 70; 63; 67" starttime="163050" endtime="163575" />
+      <Effect label="50; 50; 69; 72; 74; 66" starttime="164225" endtime="165025" />
+      <Effect label="46; 46; 70; 74; 65" starttime="165025" endtime="168450" />
+      <Effect label="51; 51; 70; 63; 67" starttime="168450" endtime="170175" />
+      <Effect label="50; 70; 74; 65" starttime="170175" endtime="171875" />
+      <Effect label="48; 48; 72; 63; 67; 53; 72; 65; 68" starttime="171875" endtime="175400" />
+      <Effect label="52; 52; 71; 64; 68" starttime="176525" endtime="176800" />
+      <Effect label="51; 72; 63; 68" starttime="177000" endtime="177850" />
+      <Effect label="50; 50; 69; 74; 65; 49; 73; 65; 68" starttime="177850" endtime="178725" />
+      <Effect label="47; 73; 65; 68; 46; 70; 73; 65" starttime="180350" endtime="181200" />
+      <Effect label="45; 69; 73; 64" starttime="181950" endtime="187025" />
+      <Effect label="50; 69; 74; 66" starttime="187025" endtime="187425" />
+      <Effect label="54; 54; 69; 73; 64; 66" starttime="187425" endtime="191825" />
+      <Effect label="49; 73; 65; 68" starttime="191825" endtime="192625" />
+      <Effect label="56; 72; 63; 68; 72; 64; 67" starttime="192625" endtime="193500" />
+      <Effect label="52; 52; 71; 64; 68" starttime="194200" endtime="195025" />
+      <Effect label="45; 45; 69; 73; 64" starttime="195025" endtime="196200" />
+      <Effect label="47; 47; 69; 71; 74; 65; 55; 70; 73; 65; 67" starttime="196200" endtime="199025" />
+      <Effect label="52; 52; 71; 64; 67" starttime="199700" endtime="201050" />
+      <Effect label="51; 51; 70; 72; 63; 67" starttime="201050" endtime="202825" />
+      <Effect label="55; 69; 73; 64" starttime="202825" endtime="203200" />
+      <Effect label="46; 70; 74; 65" starttime="203200" endtime="203675" />
+      <Effect label="47; 47; 70; 71; 63; 66" starttime="203675" endtime="204075" />
+      <Effect label="46; 70; 74; 65" starttime="204075" endtime="204475" />
+      <Effect label="45; 69; 73; 64" starttime="204475" endtime="204875" />
+      <Effect label="46; 70; 74; 65" starttime="204875" endtime="205275" />
+      <Effect label="51; 72; 63; 68" starttime="205275" endtime="205650" />
+      <Effect label="51; 70; 63; 67" starttime="205650" endtime="208450" />
+      <Effect label="56; 56; 72; 63; 68" starttime="208450" endtime="209250" />
+      <Effect label="55; 55; 70; 74; 67; 69; 72; 65; 70; 74; 65; 51; 70; 63; 67" starttime="209250" endtime="210250" />
+      <Effect label="49; 69; 73; 63; 66; 53; 53; 72; 63; 65; 68; 47; 70; 71; 63; 66" starttime="213075" endtime="213475" />
+      <Effect label="46; 46; 69; 70; 74; 65" starttime="213475" endtime="214625" />
+      <Effect label="47; 71; 63; 66" starttime="214900" endtime="215300" />
+      <Effect label="46; 46; 69; 70; 74; 65" starttime="215300" endtime="216450" />
+      <Effect label="51; 70; 63; 67" starttime="216450" endtime="225250" />
+      <Effect label="46; 70; 74; 65" starttime="225250" endtime="225650" />
+      <Effect label="53; 70; 63; 67" starttime="225650" endtime="228425" />
+      <Effect label="46; 70; 74; 65" starttime="228425" endtime="229225" />
+      <Effect label="54; 70; 73; 66" starttime="229225" endtime="232775" />
+      <Effect label="46; 46; 69; 70; 74; 65" starttime="232775" endtime="233175" />
+      <Effect label="51; 51; 70; 72; 63; 67" starttime="233175" endtime="235125" />
+      <Effect label="47; 47; 70; 71; 63; 66; 50; 72; 74; 65; 68" starttime="235125" endtime="235700" />
+      <Effect label="46; 46; 69; 70; 74; 65" starttime="236275" endtime="237100" />
+      <Effect label="51; 51; 70; 63; 67; 56; 72; 63; 68" starttime="237100" endtime="238025" />
+      <Effect label="50; 50; 69; 74; 66" starttime="238625" endtime="239425" />
+      <Effect label="55; 70; 74; 67" starttime="239525" endtime="240400" />
+      <Effect label="46; 46; 70; 74; 65; 68" starttime="240400" endtime="247100" />
+      <Effect label="51; 70; 63; 67" starttime="247100" endtime="252400" />
+      <Effect label="53; 69; 72; 65" starttime="252400" endtime="254250" />
+      <Effect label="46; 46; 70; 74; 65" starttime="254250" endtime="256850" />
+      <Effect label="51; 51; 70; 63; 67" starttime="256850" endtime="257625" />
+      <Effect label="46; 46; 70; 74; 65" starttime="257625" endtime="259400" />
+      <Effect label="49; 73; 65; 68" starttime="259400" endtime="260250" />
+      <Effect label="46; 46; 70; 74; 65" starttime="260250" endtime="262825" />
+      <Effect label="51; 51; 70; 63; 67" starttime="262825" endtime="263725" />
+      <Effect label="56; 56; 72; 63; 68" starttime="263725" endtime="265150" />
+      <Effect label="55; 55; 71; 74; 67" starttime="265150" endtime="265375" />
+      <Effect label="53; 53; 72; 65; 68" starttime="265500" endtime="267250" />
+      <Effect label="46; 46; 70; 74; 65" starttime="267250" endtime="268850" />
+      <Effect label="53; 53; 72; 65; 68" starttime="268850" endtime="270675" />
+      <Effect label="46; 46; 70; 74; 65" starttime="270675" endtime="272400" />
+      <Effect label="53; 53; 69; 72; 63; 65" starttime="272400" endtime="273275" />
+      <Effect label="46; 46; 70; 74; 65" starttime="273275" endtime="274150" />
+      <Effect label="53; 53; 69; 72; 63; 65" starttime="274150" endtime="275025" />
+      <Effect label="46; 46; 70; 74; 65" starttime="275025" endtime="275900" />
+      <Effect label="51; 70; 63; 67" starttime="275900" endtime="281100" />
+      <Effect label="53; 69; 72; 65" starttime="281100" endtime="282850" />
+      <Effect label="46; 70; 72; 63; 66" starttime="282850" endtime="284375" />
+      <Effect label="49; 73; 65; 68" starttime="284375" endtime="284700" />
+      <Effect label="47; 47; 71; 63; 66; 56; 72; 63; 66; 68" starttime="284700" endtime="286500" />
+      <Effect label="46; 46; 69; 70; 74; 65" starttime="287950" endtime="289075" />
+      <Effect label="46; 70; 63; 67" starttime="289075" endtime="290225" />
+      <Effect label="46; 46; 70; 74; 65; 67" starttime="290225" endtime="292375" />
+      <Effect label="48; 48; 70; 72; 64; 67" starttime="292375" endtime="293025" />
+      <Effect label="46; 46; 70; 74; 65" starttime="293025" endtime="294400" />
+      <Effect label="51; 51; 70; 63; 67; 70; 74; 65; 68" starttime="294400" endtime="296375" />
+      <Effect label="48; 48; 72; 63; 67" starttime="297850" endtime="299525" />
+      <Effect label="47; 71; 74; 65; 67; 48; 72; 63; 67" starttime="299525" endtime="300425" />
+      <Effect label="47; 71; 74; 65; 67" starttime="301150" endtime="301950" />
+      <Effect label="48; 48; 72; 63; 67" starttime="301950" endtime="302550" />
+      <Effect label="56; 70; 74; 65" starttime="302750" endtime="303375" />
+      <Effect label="51; 70; 63; 67; 51; 69; 63; 66" starttime="303375" endtime="304100" />
+      <Effect label="50; 50; 69; 74; 66" starttime="304425" endtime="306100" />
+      <Effect label="55; 55; 70; 74; 67" starttime="306100" endtime="307825" />
+      <Effect label="56; 56; 72; 63; 68" starttime="307825" endtime="309525" />
+      <Effect label="51; 51; 70; 63; 67" starttime="309525" endtime="311250" />
+      <Effect label="56; 56; 72; 63; 67; 68" starttime="311250" endtime="312950" />
+      <Effect label="55; 55; 70; 74; 67" starttime="312950" endtime="314700" />
+      <Effect label="48; 48; 72; 63; 67" starttime="314700" endtime="315950" />
+      <Effect label="55; 55; 70; 74; 67" starttime="315950" endtime="318150" />
+      <Effect label="48; 48; 72; 63; 67" starttime="318150" endtime="320200" />
+      <Effect label="56; 56; 71; 63; 68; 56; 72; 63; 67; 68" starttime="320200" endtime="321900" />
+      <Effect label="46; 46; 70; 74; 65" starttime="322300" endtime="322800" />
+      <Effect label="46; 70; 72; 63; 66; 70; 63; 67; 72; 63; 68" starttime="323775" endtime="325425" />
+      <Effect label="51; 70; 63; 67; 51; 51; 69; 63; 66; 46; 70; 74; 65; 73; 65; 68; 48; 72; 64; 67; 54; 70; 73; 65; 66; 49; 73; 65; 68" starttime="332000" endtime="333425" />
+      <Effect label="48; 72; 64; 67; 48; 70; 72; 64; 67; 53; 53; 69; 72; 65; 46; 70; 74; 65; 53; 69; 72; 65; 53; 53; 71; 65; 68; 51; 70; 63; 67" starttime="338025" endtime="340350" />
+      <Effect label="53; 53; 69; 72; 65" starttime="340350" endtime="359166" />
+   </EffectLayer>
+</timing>
