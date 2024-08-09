@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keybindings>
   <keybinding keycode="p" alt="FALSE" control="FALSE" shift="FALSE" type="PLAY"/>
-  <keybinding keycode="a" alt="FALSE" control="FALSE" shift="FALSE" type="PLAY"/>
-  <keybinding keycode="q" alt="FALSE" control="FALSE" shift="FALSE" type="PAUSE"/>
+  <keybinding keycode="p" alt="FALSE" control="FALSE" shift="FALSE" type="PLAY"/>
+  <keybinding keycode="F22" alt="FALSE" control="FALSE" shift="FALSE" type="PAUSE"/>
   <keybinding keycode="PAUSE" alt="FALSE" control="FALSE" shift="FALSE" type="PAUSE"/>
   <keybinding keycode="F19" alt="FALSE" control="FALSE" shift="FALSE" type="STOP"/>
   <keybinding keycode="F21" alt="FALSE" control="FALSE" shift="FALSE" type="TOGGLE_PLAY"/>
@@ -16,10 +16,10 @@
   <keybinding keycode="-" alt="FALSE" control="FALSE" shift="FALSE" type="ZOOM_OUT"/>
   <keybinding keycode="F20" alt="FALSE" control="FALSE" shift="FALSE" type="PRIOR_TAG"/>
   <keybinding keycode="F23" alt="FALSE" control="FALSE" shift="FALSE" type="NEXT_TAG"/>
-  <keybinding keycode="." alt="FALSE" control="FALSE" shift="FALSE" type="MARK_SPOT"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MARK_SPOT"/>
-  <keybinding keycode="/" alt="FALSE" control="FALSE" shift="FALSE" type="RETURN_TO_SPOT"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="RETURN_TO_SPOT"/>
+  <keybinding keycode="." alt="FALSE" control="TRUE" shift="FALSE" type="MARK_SPOT"/>
+  <keybinding keycode="." alt="FALSE" control="FALSE" rawControl="TRUE" shift="FALSE" type="MARK_SPOT"/>
+  <keybinding keycode="/" alt="FALSE" control="TRUE" shift="FALSE" type="RETURN_TO_SPOT"/>
+  <keybinding keycode="/" alt="FALSE" control="FALSE" rawControl="TRUE" shift="FALSE" type="RETURN_TO_SPOT"/>
   <keybinding keycode="F14" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_S_1_4_SPEED"/>
   <keybinding keycode="F15" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_S_1_2_SPEED"/>
   <keybinding keycode="F16" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_S_3_4_SPEED"/>
@@ -31,8 +31,8 @@
   <keybinding keycode="o" alt="FALSE" control="TRUE" shift="FALSE" type="OPEN_SEQUENCE"/>
   <keybinding keycode="w" alt="FALSE" control="TRUE" shift="FALSE" type="CLOSE_SEQUENCE"/>
   <keybinding keycode="n" alt="FALSE" control="TRUE" shift="FALSE" type="NEW_SEQUENCE"/>
-  <keybinding keycode="s" alt="FALSE" control="TRUE" shift="FALSE" type="SAVE_SEQUENCE"/>
-  <keybinding keycode="S" alt="FALSE" control="TRUE" shift="TRUE" type="SAVEAS_SEQUENCE"/>
+  <keybinding keycode="" alt="FALSE" control="TRUE" shift="FALSE" type="SAVE_SEQUENCE"/>
+  <keybinding keycode="" alt="FALSE" control="TRUE" shift="TRUE" type="SAVEAS_SEQUENCE"/>
   <keybinding keycode="F10" alt="FALSE" control="FALSE" shift="FALSE" type="BACKUP"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SEQUENCE_SETTINGS"/>
   <keybinding keycode="a" alt="FALSE" control="TRUE" shift="FALSE" type="SELECT_ALL_MODELS"/>
@@ -54,8 +54,8 @@
   <keybinding keycode="F6" alt="FALSE" control="TRUE" shift="FALSE" type="HOUSE_PREVIEW_TOGGLE"/>
   <keybinding keycode="F7" alt="FALSE" control="TRUE" shift="FALSE" type="DISPLAY_ELEMENTS_TOGGLE"/>
   <keybinding keycode="F8" alt="FALSE" control="TRUE" shift="FALSE" type="EFFECT_ASSIST_TOGGLE"/>
-  <keybinding keycode="F9" alt="TRUE" control="FALSE" shift="FALSE" type="JUKEBOX_TOGGLE"/>
-  <keybinding keycode="F10" alt="FALSE" control="TRUE" shift="FALSE" type="EFFECTS_TOGGLE"/>
+  <keybinding keycode="F8" alt="TRUE" control="FALSE" shift="FALSE" type="JUKEBOX_TOGGLE"/>
+  <keybinding keycode="F9" alt="FALSE" control="TRUE" shift="FALSE" type="EFFECTS_TOGGLE"/>
   <keybinding keycode="o" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECT" effect="On" xLightsVersion="2021.15">E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=100</keybinding>
   <keybinding keycode="u" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECT" effect="On" xLightsVersion="2021.15">E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=0</keybinding>
   <keybinding keycode="d" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECT" effect="On" xLightsVersion="2021.15">E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_Eff_On_Start=100</keybinding>
@@ -80,8 +80,8 @@
   <keybinding keycode="" alt="TRUE" control="TRUE" shift="FALSE" type="EFFECT_ALIGN_START"/>
   <keybinding keycode="" alt="TRUE" control="TRUE" shift="FALSE" type="EFFECT_ALIGN_END"/>
   <keybinding keycode="" alt="TRUE" control="TRUE" shift="FALSE" type="EFFECT_ALIGN_BOTH"/>
-  <keybinding keycode="i" alt="FALSE" control="TRUE" shift="FALSE" type="INSERT_LAYER_ABOVE"/>
-  <keybinding keycode="j" alt="FALSE" control="TRUE" shift="FALSE" type="INSERT_LAYER_BELOW"/>
+  <keybinding keycode="I" alt="FALSE" control="TRUE" shift="TRUE" type="INSERT_LAYER_ABOVE"/>
+  <keybinding keycode="A" alt="FALSE" control="TRUE" shift="TRUE" type="INSERT_LAYER_BELOW"/>
   <keybinding keycode="X" alt="FALSE" control="TRUE" shift="TRUE" type="TOGGLE_ELEMENT_EXPAND"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SHOW_PRESETS"/>
   <keybinding keycode="F10" alt="FALSE" control="TRUE" shift="FALSE" type="PRESETS_TOGGLE"/>
@@ -112,15 +112,15 @@
   <keybinding keycode="" alt="FALSE" control="TRUE" shift="TRUE" type="MODEL_DISTRIBUTE_VERT"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_FLIP_HORIZ"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_FLIP_VERT"/>
-  <keybinding keycode="m" alt="FALSE" control="TRUE" shift="FALSE" type="MODEL_SUBMODELS"/>
-  <keybinding keycode="f" alt="FALSE" control="TRUE" shift="FALSE" type="MODEL_FACES"/>
-  <keybinding keycode="t" alt="FALSE" control="TRUE" shift="FALSE" type="MODEL_STATES"/>
-  <keybinding keycode="d" alt="FALSE" control="TRUE" shift="FALSE" type="MODEL_MODELDATA"/>
-  <keybinding keycode="w" alt="FALSE" control="TRUE" shift="FALSE" type="WIRING_VIEW"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_SUBMODELS"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_FACES"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_STATES"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_MODELDATA"/>
+  <keybinding keycode="" alt="FALSE" control="TRUE" shift="FALSE" type="WIRING_VIEW"/>
   <keybinding keycode="" alt="FALSE" control="TRUE" shift="FALSE" type="EXPORT_MODEL_CAD"/>
   <keybinding keycode="" alt="FALSE" control="TRUE" shift="FALSE" type="EXPORT_LAYOUT_DXF"/>
-  <keybinding keycode="n" alt="FALSE" control="TRUE" shift="FALSE" type="NODE_LAYOUT"/>
-  <keybinding keycode="s" alt="FALSE" control="TRUE" shift="FALSE" type="SAVE_LAYOUT"/>
+  <keybinding keycode="" alt="FALSE" control="TRUE" shift="FALSE" type="NODE_LAYOUT"/>
+  <keybinding keycode="" alt="FALSE" control="TRUE" shift="TRUE" type="SAVE_LAYOUT"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="ZOOM_SEL"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_TOGGLE"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_DISABLE"/>
@@ -129,22 +129,4 @@
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECT_DISABLE"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECT_ENABLE"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MODEL_EFFECT_TOGGLE"/>
-  <keybinding keycode="$" alt="FALSE" control="FALSE" shift="TRUE" type="PRESET" effect=""/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MARK_SPOT"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="RETURN_TO_SPOT"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MARK_SPOT"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="RETURN_TO_SPOT"/>
-  <keybinding keycode="." alt="FALSE" control="TRUE" shift="FALSE" type="MARK_SPOT"/>
-  <keybinding keycode="/" alt="FALSE" control="TRUE" shift="FALSE" type="RETURN_TO_SPOT"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECTS_TO_TIMING"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_1"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_2"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_3"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_4"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_5"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_6"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_7"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_8"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_9"/>
-  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_NO_TIMING"/>
 </keybindings>
