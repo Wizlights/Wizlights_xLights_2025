@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<circlemodel 
-name="Spinner Mint 00 (22in Big) Alt Model Native" parm1="1" parm2="85" parm3="0" DisplayAs="Circle" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="0" Antialias="1" StartSide="B" Dir="L" LayerSizes="1,12,12,12,12,36" InsideOut="0" SourceVersion="2024.14"  >
-<subModel name="Spokes" layout="horizontal" type="ranges" bufferstyle="Default" line0="74,62,50,38,4" line1="75,63,51,39,7" line2="76,64,52,40,10" line3="77,65,53,41,13" line4="78,66,54,42,16" line5="79,67,55,43,19" line6="80,68,56,44,22" line7="81,69,57,45,25" line8="82,70,58,46,28" line9="83,71,59,47,31" line10="84,72,60,48,34" line11="73,61,49,37,1">
-  <Aliases/>
-  <ControllerConnection/>
-</subModel>
-<dimensions units="i" width="54.732613" height="54.575024" depth="0.000000"/></circlemodel>

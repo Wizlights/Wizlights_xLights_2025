@@ -20,14 +20,14 @@
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MARK_SPOT"/>
   <keybinding keycode="/" alt="FALSE" control="FALSE" shift="FALSE" type="RETURN_TO_SPOT"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="RETURN_TO_SPOT"/>
-  <keybinding keycode="F14" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_S_1_4_SPEED"/>
-  <keybinding keycode="F15" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_S_1_2_SPEED"/>
-  <keybinding keycode="F16" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_S_3_4_SPEED"/>
-  <keybinding keycode="F17" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_FULL_SPEED"/>
-  <keybinding keycode="F18" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_F_1_5_SPEED"/>
-  <keybinding keycode="F19" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_F_2_SPEED"/>
-  <keybinding keycode="F20" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_F_3_SPEED"/>
-  <keybinding keycode="F21" alt="TRUE" control="FALSE" shift="FALSE" type="AUDIO_F_4_SPEED"/>
+  <keybinding keycode="1" alt="TRUE" control="TRUE" shift="FALSE" type="AUDIO_S_1_4_SPEED"/>
+  <keybinding keycode="2" alt="TRUE" control="TRUE" shift="FALSE" type="AUDIO_S_1_2_SPEED"/>
+  <keybinding keycode="3" alt="TRUE" control="TRUE" shift="FALSE" type="AUDIO_S_3_4_SPEED"/>
+  <keybinding keycode="4" alt="TRUE" control="TRUE" shift="FALSE" type="AUDIO_FULL_SPEED"/>
+  <keybinding keycode="5" alt="TRUE" control="TRUE" shift="FALSE" type="AUDIO_F_1_5_SPEED"/>
+  <keybinding keycode="6" alt="TRUE" control="TRUE" shift="FALSE" type="AUDIO_F_2_SPEED"/>
+  <keybinding keycode="7" alt="TRUE" control="TRUE" shift="FALSE" type="AUDIO_F_3_SPEED"/>
+  <keybinding keycode="8" alt="TRUE" control="TRUE" shift="FALSE" type="AUDIO_F_4_SPEED"/>
   <keybinding keycode="o" alt="FALSE" control="TRUE" shift="FALSE" type="OPEN_SEQUENCE"/>
   <keybinding keycode="w" alt="FALSE" control="TRUE" shift="FALSE" type="CLOSE_SEQUENCE"/>
   <keybinding keycode="n" alt="FALSE" control="TRUE" shift="FALSE" type="NEW_SEQUENCE"/>
@@ -147,4 +147,6 @@
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_8"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_9"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_NO_TIMING"/>
+  <keybinding keycode="." alt="FALSE" control="FALSE" rawControl="TRUE" shift="FALSE" type="MARK_SPOT"/>
+  <keybinding keycode="/" alt="FALSE" control="FALSE" rawControl="TRUE" shift="FALSE" type="RETURN_TO_SPOT"/>
 </keybindings>
