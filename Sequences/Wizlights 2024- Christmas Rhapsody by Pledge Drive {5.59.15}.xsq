@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.14</version>
+    <version>2024.15</version>
     <author>Doctor Wizard</author>
     <author-email>wizard@wizlights.com</author-email>
     <author-website>https://wizlights.com</author-website>
@@ -77,7 +77,7 @@
     <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=0,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1,T_SLIDER_EffectLayerMix=34,T_TEXTCTRL_Fadein=0.3</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=26,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=7</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=26,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=7</Effect>
     <Effect>E_CHECKBOX_ColorWash_HFade=1</Effect>
     <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=-10,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=30,E_SLIDER_Shockwave_End_Width=18,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=9</Effect>
     <Effect>E_CHOICE_VUMeter_Type=Waveform,E_SLIDER_VUMeter_Bars=68,E_SLIDER_VUMeter_Gain=18,E_SLIDER_VUMeter_YOffset=-9,E_TEXTCTRL_VUMeter_Gain=18</Effect>
@@ -134,7 +134,7 @@
     <Effect>E_CHECKBOX_TextToCenter=1,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up-left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=bold 'segoe ui' 14 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=NO!,E_TEXTCTRL_Text_Speed=40,T_TEXTCTRL_Fadein=0.1,T_TEXTCTRL_Fadeout=0.2</Effect>
     <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=bold 'segoe ui' 16 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=NO!,E_TEXTCTRL_Text_Speed=40,T_TEXTCTRL_Fadein=0.1,T_TEXTCTRL_Fadeout=0.2</Effect>
     <Effect>E_CHECKBOX_TextToCenter=1,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=bold 'segoe ui' 16 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=-14,E_TEXTCTRL_Text=NO!,E_TEXTCTRL_Text_Speed=40,T_TEXTCTRL_Fadein=0.1,T_TEXTCTRL_Fadeout=0.2</Effect>
-    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>B_CHOICE_BufferTransform=Rotate CC 90,E_CHOICE_VUMeter_Type=Intensity Wave,E_SLIDER_VUMeter_Bars=8,E_SLIDER_VUMeter_Gain=-4,E_TEXTCTRL_VUMeter_Gain=-4</Effect>
     <Effect>E_CHECKBOX_FIRETIMING=0,E_CHECKBOX_Fireworks_Gravity=1,E_CHECKBOX_Fireworks_HoldColour=1,E_CHECKBOX_Fireworks_UseMusic=0,E_SLIDER_Fireworks_Count=50,E_SLIDER_Fireworks_Explosions=16,E_SLIDER_Fireworks_Fade=50,E_SLIDER_Fireworks_Velocity=2,E_SLIDER_Fireworks_XLocation=-1,E_SLIDER_Fireworks_XVelocity=0,E_SLIDER_Fireworks_YLocation=-1,E_SLIDER_Fireworks_YVelocity=0,E_TEXTCTRL_Fireworks_XLocation=-1,E_TEXTCTRL_Fireworks_XVelocity=0,E_TEXTCTRL_Fireworks_YLocation=-1,E_TEXTCTRL_Fireworks_YVelocity=0,T_TEXTCTRL_Fadein=0.2</Effect>
     <Effect>E_CHECKBOX_LoopGIF=1,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=X:\2024\xLights\SequencesForImport\Christmas Rhapsody as sequenced by Daryl\ShowFolder\Imported\Bohemian Rhapsody\xlights\Bohemian Rhapsody\giphy.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=6,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=0.4,E_TEXTCTRL_Pictures_Speed=1.3,E_TEXTCTRL_Pictures_TransparentBlack=0,T_SLIDER_Out_Transition_Adjust=50,T_TEXTCTRL_Fadeout=1</Effect>
@@ -152,7 +152,7 @@
     <Element collapsed="0" type="timing" name="Full Beats (Quarter notes)_1" visible="1" views="Singing and Sound Effects" active="0"/>
     <Element collapsed="0" type="timing" name="Half Beats (Eighth notes)_1" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Quarter Beats (Sixteenth notes)_1" visible="1" views="Singing and Sound Effects" active="0"/>
-    <Element collapsed="0" type="timing" name="Sections" visible="1" views="Master View,AC Lights in Logical Order,Basics,By Controller,Pixel Props,AC Lights in DMX Order,All Timings,White AC lights,FalconPropsTest,Import xTreme,LOR AC-DC DMX,Singing and Sound Effects" active="1"/>
+    <Element collapsed="0" type="timing" name="Sections" visible="1" views="Master View,AC Lights in Logical Order,Basics,By Controller,Pixel Props,AC Lights in DMX Order,All Timings,White AC lights,FalconPropsTest,Import xTreme,LOR AC-DC DMX,Singing and Sound Effects" active="0"/>
     <Element collapsed="0" type="timing" name="Sub-Sections" visible="1" views="Singing and Sound Effects" active="0"/>
     <Element collapsed="0" type="timing" name="Bars (Whole notes, (4 Quarter notes))" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Bars from Drums (Whole notes, (4 Quarter notes))" visible="1" views="" active="0"/>
@@ -187,7 +187,7 @@
     <Element collapsed="0" type="timing" name="Guitar Chords" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Guitar Pitch and Key" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Verses" visible="1" views="Singing and Sound Effects" active="0"/>
-    <Element collapsed="0" type="timing" name="Lyrics- Lines- All" visible="1" views="Singing and Sound Effects" active="0"/>
+    <Element collapsed="0" type="timing" name="Lyrics- Lines- All" visible="1" views="Singing and Sound Effects" active="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1 Group (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Row B [1] Red Group (R)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Row B [2] Grn Group (G)" visible="1"/>
@@ -303,9 +303,7 @@
     <Element collapsed="0" type="model" name="GE RosaWreath Ribbons GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Rings GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Spokes GRP" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflake Arms" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflake Rings" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflake Tips" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes Tips" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes All 1-6 (Small + Big)" visible="1"/>
     <Element collapsed="0" type="model" name="Grinch with Pic" visible="1"/>
     <Element collapsed="0" type="model" name="{Reference Indicators}" visible="1"/>
@@ -335,7 +333,6 @@
     <Element collapsed="0" type="model" name="Spinners Mint 1-8 (22in Big) Rings" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 1-8 (22in Big) Legs" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes Outlines" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflakes Legs" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes Rings" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 1-8 (22in Big) Spokes" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 9-12 (15in Small) Legs" visible="1"/>
@@ -786,14 +783,14 @@
     <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Single Notes" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Note Onsets-1" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Words" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Words - Chorus" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Words - chorus 2" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Words" visible="1" views="Singing and Sound Effects" active="0"/>
+    <Element collapsed="0" type="timing" name="Words - Chorus" visible="1" views="Singing and Sound Effects" active="0"/>
+    <Element collapsed="0" type="timing" name="Words - chorus 2" visible="1" views="Singing and Sound Effects" active="0"/>
     <Element collapsed="0" type="timing" name="piano" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Solo New" visible="1" views="" active="1"/>
-    <Element collapsed="0" type="timing" name="Singer 2" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Singer 3" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Singer 4" visible="1" views="" active="0"/>
+    <Element collapsed="1" type="timing" name="Solo New" visible="1" views="Singing and Sound Effects" active="1"/>
+    <Element collapsed="1" type="timing" name="Singer 2" visible="1" views="Singing and Sound Effects" active="0"/>
+    <Element collapsed="1" type="timing" name="Singer 3" visible="1" views="Singing and Sound Effects" active="0"/>
+    <Element collapsed="1" type="timing" name="Singer 4" visible="1" views="Singing and Sound Effects" active="0"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Bars (Whole notes, (4 Quarter notes))_1">
@@ -7196,7 +7193,8 @@
     </Element>
     <Element type="timing" name="Sections">
       <EffectLayer>
-        <Effect label="Intro" startTime="0" endTime="24550"></Effect>
+        <Effect label="Intro" startTime="0" endTime="3325"></Effect>
+        <Effect label="" startTime="3325" endTime="24550"></Effect>
         <Effect label="Part 2" startTime="24550" endTime="52600"></Effect>
         <Effect label="" startTime="52600" endTime="110300"></Effect>
       </EffectLayer>
@@ -32782,8 +32780,9 @@
     </Element>
     <Element type="timing" name="Lyrics- Lines- All">
       <EffectLayer>
-        <Effect label="Is this the yuletide" startTime="0" endTime="3025"></Effect>
-        <Effect label="It's such a mystery" startTime="3025" endTime="6850"></Effect>
+        <Effect label="Is this the yuletide" startTime="0" endTime="2975"></Effect>
+        <Effect label="" startTime="2975" endTime="3425"></Effect>
+        <Effect label="It's such a mystery" startTime="3425" endTime="6850"></Effect>
         <Effect label="Will I be denied" startTime="6850" endTime="10025"></Effect>
         <Effect label="Or will there be gifts for me" startTime="10025" endTime="14250"></Effect>
         <Effect label="Come down the stairs" startTime="14250" endTime="16900"></Effect>
@@ -33235,13 +33234,7 @@
     <Element type="model" name="GE RosaWreath Spokes GRP">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Snowflake Arms">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflake Rings">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflake Tips">
+    <Element type="model" name="Snowflakes Tips">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Snowflakes All 1-6 (Small + Big)">
@@ -33329,9 +33322,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Snowflakes Outlines">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflakes Legs">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Snowflakes Rings">
@@ -41431,7 +41421,7 @@
       </EffectLayer>
     </Element>
   </ElementEffects>
-  <lastView>2</lastView>
+  <lastView>5</lastView>
   <TimingTags>
     <Tag number="0" position="24550"/>
     <Tag number="1" position="52450"/>

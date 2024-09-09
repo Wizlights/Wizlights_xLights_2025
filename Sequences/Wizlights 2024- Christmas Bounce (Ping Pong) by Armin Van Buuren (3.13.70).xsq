@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.15</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Christmas Bounce</song>
+    <artist>Armin Van Buuren</artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>X:\2024\xLights\Wizlights\Audio\Christmas Bounce by Armin Van Buuren (3.13.70).mp3</mediaFile>
+    <sequenceDuration>193.700</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="6422560" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,AC Lights in Logical Order,Singing and Sound Effects,Basics,By Controller,Pixel Props,AC Lights in DMX Order,All Timings,White AC lights,FalconPropsTest,Import xTreme,LOR AC-DC DMX" active="1"/>
+    <Element collapsed="0" type="model" name="Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="Candy Canes Seq Group (RGRG)" visible="1"/>
+    <Element collapsed="0" type="model" name="Religious Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Oddballs Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Power Items" visible="1"/>
+    <Element collapsed="0" type="model" name="Work Together Sign (RWB)" visible="1"/>
+    <Element collapsed="0" type="model" name="UFOs (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Swirlies Spinny Group (M) (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Snow Group (DMX)" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Candy Canes Seq Group (RGRG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Religious Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dumb RGB Items Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Oddballs Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Power Items">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Work Together Sign (RWB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="UFOs (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Swirlies Spinny Group (M) (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snow Group (DMX)">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>1</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
