@@ -14,7 +14,7 @@
     <sequenceType>Media</sequenceType>
     <mediaFile>X:\2024\xLights\Wizlights\Audio\Christmas Bounce by Armin Van Buuren (3.13.70).mp3</mediaFile>
     <sequenceDuration>193.700</sequenceDuration>
-    <imageDir></imageDir>
+    <imageDir/>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
@@ -25,7 +25,6 @@
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,AC Lights in Logical Order,Singing and Sound Effects,Basics,By Controller,Pixel Props,AC Lights in DMX Order,All Timings,White AC lights,FalconPropsTest,Import xTreme,LOR AC-DC DMX" active="1"/>
-    <Element collapsed="0" type="model" name="Trees" visible="1"/>
     <Element collapsed="0" type="model" name="Candy Canes Seq Group (RGRG)" visible="1"/>
     <Element collapsed="0" type="model" name="Religious Group" visible="1"/>
     <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
@@ -39,9 +38,6 @@
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Trees">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Candy Canes Seq Group (RGRG)">

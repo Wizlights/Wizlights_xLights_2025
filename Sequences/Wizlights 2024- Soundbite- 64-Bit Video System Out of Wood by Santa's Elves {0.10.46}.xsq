@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.15</version>
+    <author>Doctor Wizard</author>
+    <author-email>wizard@wizlights.com</author-email>
+    <author-website>https://wizlights.com</author-website>
+    <song>64-Bit Video System</song>
+    <artist>Santa&amp;apos;s Elves</artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment>Extracted from &amp;quot;All You Need is Elves&amp;quot; by Bob Rivers</comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>X:\2024\xLights\Wizlights\Audio\Soundbite- 64-Bit Video System Out of Wood {0.10.46}.mp3</mediaFile>
+    <sequenceDuration>10.460</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect></Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Elf,E_CHOICE_Faces_TimingTrack=Lyrics- Lead Elf,E_CHOICE_Faces_UseState=Elf-SingingState</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="7471171" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="Tenth Seconds 100ms" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="1"/>
+    <Element collapsed="0" type="timing" name="Lyrics- Lead Elf" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="0"/>
+    <Element collapsed="0" type="timing" name="Lyrics- Elf 2" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="0"/>
+    <Element collapsed="0" type="timing" name="Lyrics- Elf 3" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="0"/>
+    <Element collapsed="0" type="timing" name="Lyrics- Elf 4" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="0"/>
+    <Element collapsed="0" type="timing" name="Seconds 1000ms" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="0"/>
+    <Element collapsed="0" type="model" name="Candy Canes Seq Group (RGRG)" visible="1"/>
+    <Element collapsed="0" type="model" name="Religious Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Oddballs Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Power Items" visible="1"/>
+    <Element collapsed="0" type="model" name="Work Together Sign (RWB)" visible="1"/>
+    <Element collapsed="0" type="model" name="UFOs (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Swirlies Spinny Group (M) (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Snow Group (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Amplifier 12V" visible="1"/>
+    <Element collapsed="0" type="model" name="Transmitter 12V" visible="1"/>
+    <Element collapsed="0" type="model" name="On The Air (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Nativity Jesus Joseph Mary" visible="1"/>
+    <Element collapsed="0" type="model" name="Nativity Shepherds" visible="1"/>
+    <Element collapsed="0" type="model" name="Nativity Wisemen" visible="1"/>
+    <Element collapsed="0" type="model" name="Nativity Angels" visible="1"/>
+    <Element collapsed="0" type="model" name="Menorah Bulbs" visible="1"/>
+    <Element collapsed="0" type="model" name="Big Nick Inside (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Elf Singer" visible="1"/>
+    <Element collapsed="0" type="model" name="Grinch" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Singing Female [Gwen] {L}" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Singing Male [Blake] {R}" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Tenth Seconds 100ms">
+      <EffectLayer>
+        <Effect label="1" startTime="0" endTime="100"></Effect>
+        <Effect label="2" startTime="100" endTime="200"></Effect>
+        <Effect label="3" startTime="200" endTime="300"></Effect>
+        <Effect label="4" startTime="300" endTime="400"></Effect>
+        <Effect label="5" startTime="400" endTime="500"></Effect>
+        <Effect label="6" startTime="500" endTime="600"></Effect>
+        <Effect label="7" startTime="600" endTime="700"></Effect>
+        <Effect label="8" startTime="700" endTime="800"></Effect>
+        <Effect label="9" startTime="800" endTime="900"></Effect>
+        <Effect label="10" startTime="900" endTime="1000"></Effect>
+        <Effect label="1" startTime="1000" endTime="1100"></Effect>
+        <Effect label="2" startTime="1100" endTime="1200"></Effect>
+        <Effect label="3" startTime="1200" endTime="1300"></Effect>
+        <Effect label="4" startTime="1300" endTime="1400"></Effect>
+        <Effect label="5" startTime="1400" endTime="1500"></Effect>
+        <Effect label="6" startTime="1500" endTime="1600"></Effect>
+        <Effect label="7" startTime="1600" endTime="1700"></Effect>
+        <Effect label="8" startTime="1700" endTime="1800"></Effect>
+        <Effect label="9" startTime="1800" endTime="1900"></Effect>
+        <Effect label="10" startTime="1900" endTime="2000"></Effect>
+        <Effect label="1" startTime="2000" endTime="2100"></Effect>
+        <Effect label="2" startTime="2100" endTime="2200"></Effect>
+        <Effect label="3" startTime="2200" endTime="2300"></Effect>
+        <Effect label="4" startTime="2300" endTime="2400"></Effect>
+        <Effect label="5" startTime="2400" endTime="2500"></Effect>
+        <Effect label="6" startTime="2500" endTime="2600"></Effect>
+        <Effect label="7" startTime="2600" endTime="2700"></Effect>
+        <Effect label="8" startTime="2700" endTime="2800"></Effect>
+        <Effect label="9" startTime="2800" endTime="2900"></Effect>
+        <Effect label="10" startTime="2900" endTime="3000"></Effect>
+        <Effect label="1" startTime="3000" endTime="3100"></Effect>
+        <Effect label="2" startTime="3100" endTime="3200"></Effect>
+        <Effect label="3" startTime="3200" endTime="3300"></Effect>
+        <Effect label="4" startTime="3300" endTime="3400"></Effect>
+        <Effect label="5" startTime="3400" endTime="3500"></Effect>
+        <Effect label="6" startTime="3500" endTime="3600"></Effect>
+        <Effect label="7" startTime="3600" endTime="3700"></Effect>
+        <Effect label="8" startTime="3700" endTime="3800"></Effect>
+        <Effect label="9" startTime="3800" endTime="3900"></Effect>
+        <Effect label="10" startTime="3900" endTime="4000"></Effect>
+        <Effect label="1" startTime="4000" endTime="4100"></Effect>
+        <Effect label="2" startTime="4100" endTime="4200"></Effect>
+        <Effect label="3" startTime="4200" endTime="4300"></Effect>
+        <Effect label="4" startTime="4300" endTime="4400"></Effect>
+        <Effect label="5" startTime="4400" endTime="4500"></Effect>
+        <Effect label="6" startTime="4500" endTime="4600"></Effect>
+        <Effect label="7" startTime="4600" endTime="4700"></Effect>
+        <Effect label="8" startTime="4700" endTime="4800"></Effect>
+        <Effect label="9" startTime="4800" endTime="4900"></Effect>
+        <Effect label="10" startTime="4900" endTime="5000"></Effect>
+        <Effect label="1" startTime="5000" endTime="5100"></Effect>
+        <Effect label="2" startTime="5100" endTime="5200"></Effect>
+        <Effect label="3" startTime="5200" endTime="5300"></Effect>
+        <Effect label="4" startTime="5300" endTime="5400"></Effect>
+        <Effect label="5" startTime="5400" endTime="5500"></Effect>
+        <Effect label="6" startTime="5500" endTime="5600"></Effect>
+        <Effect label="7" startTime="5600" endTime="5700"></Effect>
+        <Effect label="8" startTime="5700" endTime="5800"></Effect>
+        <Effect label="9" startTime="5800" endTime="5900"></Effect>
+        <Effect label="10" startTime="5900" endTime="6000"></Effect>
+        <Effect label="1" startTime="6000" endTime="6100"></Effect>
+        <Effect label="2" startTime="6100" endTime="6200"></Effect>
+        <Effect label="3" startTime="6200" endTime="6300"></Effect>
+        <Effect label="4" startTime="6300" endTime="6400"></Effect>
+        <Effect label="5" startTime="6400" endTime="6500"></Effect>
+        <Effect label="6" startTime="6500" endTime="6600"></Effect>
+        <Effect label="7" startTime="6600" endTime="6700"></Effect>
+        <Effect label="8" startTime="6700" endTime="6800"></Effect>
+        <Effect label="9" startTime="6800" endTime="6900"></Effect>
+        <Effect label="10" startTime="6900" endTime="7000"></Effect>
+        <Effect label="1" startTime="7000" endTime="7100"></Effect>
+        <Effect label="2" startTime="7100" endTime="7200"></Effect>
+        <Effect label="3" startTime="7200" endTime="7300"></Effect>
+        <Effect label="4" startTime="7300" endTime="7400"></Effect>
+        <Effect label="5" startTime="7400" endTime="7500"></Effect>
+        <Effect label="6" startTime="7500" endTime="7600"></Effect>
+        <Effect label="7" startTime="7600" endTime="7700"></Effect>
+        <Effect label="8" startTime="7700" endTime="7800"></Effect>
+        <Effect label="9" startTime="7800" endTime="7900"></Effect>
+        <Effect label="10" startTime="7900" endTime="8000"></Effect>
+        <Effect label="1" startTime="8000" endTime="8100"></Effect>
+        <Effect label="2" startTime="8100" endTime="8200"></Effect>
+        <Effect label="3" startTime="8200" endTime="8300"></Effect>
+        <Effect label="4" startTime="8300" endTime="8400"></Effect>
+        <Effect label="5" startTime="8400" endTime="8500"></Effect>
+        <Effect label="6" startTime="8500" endTime="8600"></Effect>
+        <Effect label="7" startTime="8600" endTime="8700"></Effect>
+        <Effect label="8" startTime="8700" endTime="8800"></Effect>
+        <Effect label="9" startTime="8800" endTime="8900"></Effect>
+        <Effect label="10" startTime="8900" endTime="9000"></Effect>
+        <Effect label="1" startTime="9000" endTime="9100"></Effect>
+        <Effect label="2" startTime="9100" endTime="9200"></Effect>
+        <Effect label="3" startTime="9200" endTime="9300"></Effect>
+        <Effect label="4" startTime="9300" endTime="9400"></Effect>
+        <Effect label="5" startTime="9400" endTime="9500"></Effect>
+        <Effect label="6" startTime="9500" endTime="9600"></Effect>
+        <Effect label="7" startTime="9600" endTime="9700"></Effect>
+        <Effect label="8" startTime="9700" endTime="9800"></Effect>
+        <Effect label="9" startTime="9800" endTime="9900"></Effect>
+        <Effect label="10" startTime="9900" endTime="10000"></Effect>
+        <Effect label="1" startTime="10000" endTime="10100"></Effect>
+        <Effect label="2" startTime="10100" endTime="10200"></Effect>
+        <Effect label="3" startTime="10200" endTime="10300"></Effect>
+        <Effect label="4" startTime="10300" endTime="10400"></Effect>
+        <Effect label="5" startTime="10400" endTime="10450"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Lyrics- Lead Elf">
+      <EffectLayer>
+        <Effect label="Do you have any idea" startTime="300" endTime="2500"></Effect>
+        <Effect label="how hard it is" startTime="2650" endTime="3600"></Effect>
+        <Effect label="to make a 64-bit video system" startTime="3600" endTime="6000"></Effect>
+        <Effect label="out of wood?" startTime="6200" endTime="7100"></Effect>
+        <Effect label="" startTime="7100" endTime="7300"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="Do" startTime="300" endTime="575"></Effect>
+        <Effect label="you" startTime="575" endTime="850"></Effect>
+        <Effect label="have" startTime="850" endTime="1175"></Effect>
+        <Effect label="any" startTime="1325" endTime="1675"></Effect>
+        <Effect label="idea" startTime="1675" endTime="2500"></Effect>
+        <Effect label="how" startTime="2650" endTime="2975"></Effect>
+        <Effect label="hard" startTime="2975" endTime="3200"></Effect>
+        <Effect label="it" startTime="3200" endTime="3325"></Effect>
+        <Effect label="is" startTime="3325" endTime="3600"></Effect>
+        <Effect label="to" startTime="3600" endTime="3700"></Effect>
+        <Effect label="make" startTime="3700" endTime="3900"></Effect>
+        <Effect label="a" startTime="3900" endTime="4050"></Effect>
+        <Effect label="sixty" startTime="4050" endTime="4550"></Effect>
+        <Effect label="four" startTime="4550" endTime="4775"></Effect>
+        <Effect label="bit" startTime="4775" endTime="5000"></Effect>
+        <Effect label="video" startTime="5000" endTime="5550"></Effect>
+        <Effect label="system" startTime="5550" endTime="6000"></Effect>
+        <Effect label="out" startTime="6200" endTime="6400"></Effect>
+        <Effect label="of" startTime="6400" endTime="6600"></Effect>
+        <Effect label="wood" startTime="6600" endTime="7100"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="etc" startTime="300" endTime="350"></Effect>
+        <Effect label="U" startTime="350" endTime="575"></Effect>
+        <Effect label="etc" startTime="575" endTime="625"></Effect>
+        <Effect label="U" startTime="625" endTime="850"></Effect>
+        <Effect label="etc" startTime="850" endTime="900"></Effect>
+        <Effect label="AI" startTime="900" endTime="1025"></Effect>
+        <Effect label="FV" startTime="1025" endTime="1175"></Effect>
+        <Effect label="E" startTime="1325" endTime="1475"></Effect>
+        <Effect label="etc" startTime="1475" endTime="1525"></Effect>
+        <Effect label="E" startTime="1525" endTime="1675"></Effect>
+        <Effect label="AI" startTime="1675" endTime="1925"></Effect>
+        <Effect label="etc" startTime="1925" endTime="1975"></Effect>
+        <Effect label="E" startTime="1975" endTime="2250"></Effect>
+        <Effect label="AI" startTime="2250" endTime="2500"></Effect>
+        <Effect label="etc" startTime="2650" endTime="2700"></Effect>
+        <Effect label="O" startTime="2700" endTime="2975"></Effect>
+        <Effect label="etc" startTime="2975" endTime="3025"></Effect>
+        <Effect label="AI" startTime="3025" endTime="3150"></Effect>
+        <Effect label="etc" startTime="3150" endTime="3200"></Effect>
+        <Effect label="AI" startTime="3200" endTime="3275"></Effect>
+        <Effect label="etc" startTime="3275" endTime="3325"></Effect>
+        <Effect label="AI" startTime="3325" endTime="3550"></Effect>
+        <Effect label="etc" startTime="3550" endTime="3600"></Effect>
+        <Effect label="etc" startTime="3600" endTime="3650"></Effect>
+        <Effect label="U" startTime="3650" endTime="3700"></Effect>
+        <Effect label="MBP" startTime="3700" endTime="3750"></Effect>
+        <Effect label="E" startTime="3750" endTime="3850"></Effect>
+        <Effect label="etc" startTime="3850" endTime="3900"></Effect>
+        <Effect label="AI" startTime="3900" endTime="4050"></Effect>
+        <Effect label="etc" startTime="4050" endTime="4100"></Effect>
+        <Effect label="AI" startTime="4100" endTime="4300"></Effect>
+        <Effect label="etc" startTime="4300" endTime="4350"></Effect>
+        <Effect label="E" startTime="4350" endTime="4550"></Effect>
+        <Effect label="FV" startTime="4550" endTime="4625"></Effect>
+        <Effect label="O" startTime="4625" endTime="4725"></Effect>
+        <Effect label="etc" startTime="4725" endTime="4775"></Effect>
+        <Effect label="MBP" startTime="4775" endTime="4825"></Effect>
+        <Effect label="AI" startTime="4825" endTime="4950"></Effect>
+        <Effect label="etc" startTime="4950" endTime="5000"></Effect>
+        <Effect label="FV" startTime="5000" endTime="5125"></Effect>
+        <Effect label="AI" startTime="5125" endTime="5250"></Effect>
+        <Effect label="etc" startTime="5250" endTime="5300"></Effect>
+        <Effect label="E" startTime="5300" endTime="5425"></Effect>
+        <Effect label="O" startTime="5425" endTime="5550"></Effect>
+        <Effect label="etc" startTime="5550" endTime="5600"></Effect>
+        <Effect label="AI" startTime="5600" endTime="5750"></Effect>
+        <Effect label="etc" startTime="5750" endTime="5800"></Effect>
+        <Effect label="AI" startTime="5800" endTime="5950"></Effect>
+        <Effect label="MBP" startTime="5950" endTime="6000"></Effect>
+        <Effect label="O" startTime="6200" endTime="6350"></Effect>
+        <Effect label="etc" startTime="6350" endTime="6400"></Effect>
+        <Effect label="AI" startTime="6400" endTime="6500"></Effect>
+        <Effect label="FV" startTime="6500" endTime="6600"></Effect>
+        <Effect label="WQ" startTime="6600" endTime="6825"></Effect>
+        <Effect label="U" startTime="6825" endTime="7050"></Effect>
+        <Effect label="etc" startTime="7050" endTime="7100"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Lyrics- Elf 2">
+      <EffectLayer>
+        <Effect label="Ho ho, lemme tell ya" startTime="7300" endTime="8275"></Effect>
+        <Effect label="It ain't easy" startTime="8275" endTime="8750"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="Ho" startTime="7300" endTime="7375"></Effect>
+        <Effect label="ho" startTime="7375" endTime="7525"></Effect>
+        <Effect label="lemme" startTime="7525" endTime="7875"></Effect>
+        <Effect label="tell" startTime="7875" endTime="8075"></Effect>
+        <Effect label="ya" startTime="8075" endTime="8275"></Effect>
+        <Effect label="It" startTime="8275" endTime="8425"></Effect>
+        <Effect label="ain't" startTime="8425" endTime="8500"></Effect>
+        <Effect label="easy" startTime="8500" endTime="8875"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="etc" startTime="7300" endTime="7325"></Effect>
+        <Effect label="O" startTime="7325" endTime="7375"></Effect>
+        <Effect label="etc" startTime="7375" endTime="7425"></Effect>
+        <Effect label="O" startTime="7425" endTime="7525"></Effect>
+        <Effect label="L" startTime="7525" endTime="7625"></Effect>
+        <Effect label="E" startTime="7625" endTime="7725"></Effect>
+        <Effect label="MBP" startTime="7725" endTime="7775"></Effect>
+        <Effect label="AI" startTime="7775" endTime="7875"></Effect>
+        <Effect label="etc" startTime="7875" endTime="7925"></Effect>
+        <Effect label="E" startTime="7925" endTime="8000"></Effect>
+        <Effect label="L" startTime="8000" endTime="8075"></Effect>
+        <Effect label="etc" startTime="8075" endTime="8125"></Effect>
+        <Effect label="AI" startTime="8125" endTime="8275"></Effect>
+        <Effect label="AI" startTime="8275" endTime="8375"></Effect>
+        <Effect label="etc" startTime="8375" endTime="8425"></Effect>
+        <Effect label="E" startTime="8425" endTime="8475"></Effect>
+        <Effect label="etc" startTime="8475" endTime="8500"></Effect>
+        <Effect label="E" startTime="8500" endTime="8650"></Effect>
+        <Effect label="etc" startTime="8650" endTime="8700"></Effect>
+        <Effect label="E" startTime="8700" endTime="8875"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Lyrics- Elf 3">
+      <EffectLayer>
+        <Effect label="No kiddin'" startTime="8750" endTime="9450"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="No" startTime="8875" endTime="9100"></Effect>
+        <Effect label="kiddin'" startTime="9100" endTime="9450"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="etc" startTime="8875" endTime="8925"></Effect>
+        <Effect label="O" startTime="8925" endTime="9100"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Lyrics- Elf 4">
+      <EffectLayer>
+        <Effect label="Tell me about it" startTime="9450" endTime="10275"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="Tell" startTime="9450" endTime="9650"></Effect>
+        <Effect label="me" startTime="9650" endTime="9850"></Effect>
+        <Effect label="about" startTime="9850" endTime="10075"></Effect>
+        <Effect label="it" startTime="10075" endTime="10275"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="etc" startTime="9450" endTime="9500"></Effect>
+        <Effect label="E" startTime="9500" endTime="9575"></Effect>
+        <Effect label="L" startTime="9575" endTime="9650"></Effect>
+        <Effect label="MBP" startTime="9650" endTime="9700"></Effect>
+        <Effect label="E" startTime="9700" endTime="9850"></Effect>
+        <Effect label="AI" startTime="9850" endTime="9900"></Effect>
+        <Effect label="MBP" startTime="9900" endTime="9950"></Effect>
+        <Effect label="O" startTime="9950" endTime="10025"></Effect>
+        <Effect label="etc" startTime="10025" endTime="10075"></Effect>
+        <Effect label="AI" startTime="10075" endTime="10225"></Effect>
+        <Effect label="etc" startTime="10225" endTime="10275"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Seconds 1000ms">
+      <EffectLayer>
+        <Effect label="1" startTime="0" endTime="1000"></Effect>
+        <Effect label="2" startTime="1000" endTime="2000"></Effect>
+        <Effect label="3" startTime="2000" endTime="3000"></Effect>
+        <Effect label="4" startTime="3000" endTime="4000"></Effect>
+        <Effect label="5" startTime="4000" endTime="5000"></Effect>
+        <Effect label="6" startTime="5000" endTime="6000"></Effect>
+        <Effect label="7" startTime="6000" endTime="7000"></Effect>
+        <Effect label="8" startTime="7000" endTime="8000"></Effect>
+        <Effect label="9" startTime="8000" endTime="9000"></Effect>
+        <Effect label="10" startTime="9000" endTime="10000"></Effect>
+        <Effect label="11" startTime="10000" endTime="10450"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Candy Canes Seq Group (RGRG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Religious Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Dumb RGB Items Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Oddballs Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Power Items">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Work Together Sign (RWB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="UFOs (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Swirlies Spinny Group (M) (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snow Group (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Amplifier 12V">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="10775" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Transmitter 12V">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="10775" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="On The Air (R)">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="0" endTime="10775" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Nativity Jesus Joseph Mary">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Nativity Shepherds">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Nativity Wisemen">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Nativity Angels">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Menorah Bulbs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Big Nick Inside (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Elf Singer">
+      <EffectLayer>
+        <Effect ref="1" name="Faces" startTime="200" endTime="10300" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Grinch">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Singing Female [Gwen] {L}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Singing Male [Blake] {R}">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>13</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
