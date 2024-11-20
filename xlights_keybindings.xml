@@ -134,8 +134,8 @@
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="RETURN_TO_SPOT"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="MARK_SPOT"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="RETURN_TO_SPOT"/>
-  <keybinding keycode="." alt="FALSE" control="TRUE" shift="FALSE" type="MARK_SPOT"/>
-  <keybinding keycode="/" alt="FALSE" control="TRUE" shift="FALSE" type="RETURN_TO_SPOT"/>
+  <keybinding keycode="" alt="FALSE" control="TRUE" shift="FALSE" type="MARK_SPOT"/>
+  <keybinding keycode="" alt="FALSE" control="TRUE" shift="FALSE" type="RETURN_TO_SPOT"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="EFFECTS_TO_TIMING"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_1"/>
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_TIMING_2"/>
@@ -149,4 +149,13 @@
   <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="SELECT_NO_TIMING"/>
   <keybinding keycode="." alt="FALSE" control="FALSE" rawControl="TRUE" shift="FALSE" type="MARK_SPOT"/>
   <keybinding keycode="/" alt="FALSE" control="FALSE" rawControl="TRUE" shift="FALSE" type="RETURN_TO_SPOT"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="PLAY_PRIOR_TAG"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="PLAY_NEXT_TAG"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="INCREASE_SPEED"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="DECREASE_SPEED"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_1"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_2"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_3"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_4"/>
+  <keybinding keycode="" alt="FALSE" control="FALSE" shift="FALSE" type="JUKEBOX_BTN_5"/>
 </keybindings>

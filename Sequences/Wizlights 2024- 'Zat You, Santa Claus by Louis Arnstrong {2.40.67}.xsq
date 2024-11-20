@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.19</version>
+    <version>2024.17</version>
     <author>Doctor Wizard aka Merlin Q. Potter</author>
     <author-email>wizard@wizlights.com</author-email>
     <author-website>https://wizlights.com; https://facebook.com/wizlights</author-website>
@@ -59,7 +59,6 @@
     <Element collapsed="0" type="model" name="Candy Canes 2 (G)" visible="1"/>
     <Element collapsed="0" type="model" name="Candy Canes 3 (R)" visible="1"/>
     <Element collapsed="0" type="model" name="Candy Canes 4 (G)" visible="1"/>
-    <Element collapsed="0" type="model" name="Snow Group" visible="1"/>
     <Element collapsed="0" type="model" name="Mailboxes (Y)" visible="1"/>
     <Element collapsed="0" type="model" name="UFOs 1 {L} (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="UFOs 2 {CT} (RGB)" visible="1"/>
@@ -136,11 +135,8 @@
     <Element collapsed="0" type="model" name="UFOs 2 {CT}{R} (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="UFOs 2 {CT}{L} (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes 4.2 {D} (W)" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes 2.1 {L} (M)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tinsel 2 {R} (R)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Small {L} (B)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tinsel 1 {L} (R)" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes 2.2 {L} (W)" visible="1"/>
     <Element collapsed="0" type="model" name="CandyCane01-R1" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies- Snowflakes {R} (WB)" visible="1"/>
     <Element collapsed="0" type="model" name="Peace Sign (RGB)" visible="1"/>
@@ -168,14 +164,10 @@
     <Element collapsed="0" type="model" name="CandyCane19-R3" visible="1"/>
     <Element collapsed="0" type="model" name="CandyCane20-G4" visible="1"/>
     <Element collapsed="0" type="timing" name="Lyrics" visible="1" views="Master View,Forest,Oddballs,Singers,Bushes,House Front,Swirly-Twirlies,Pixels,Master Power,zAll AC,By Controller,Timez,Conventional in Logical Order,Election,Singing,All Timings" active="0"/>
-    <Element collapsed="0" type="model" name="Bushes" visible="1"/>
-    <Element collapsed="0" type="model" name="Trees" visible="1"/>
-    <Element collapsed="0" type="model" name="Swirlies Spinny Group (M)" visible="1"/>
     <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
     <Element collapsed="0" type="model" name="Power Items" visible="1"/>
     <Element collapsed="0" type="model" name="Work Together Sign (RWB)" visible="1"/>
     <Element collapsed="0" type="model" name="UFOs (RGB)" visible="1"/>
-    <Element collapsed="0" type="model" name="House Front and the Roof" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- P4-1 Left" visible="1"/>
     <Element collapsed="0" type="model" name="Elf Singer" visible="1"/>
     <Element collapsed="0" type="model" name="Grinch" visible="1"/>
@@ -227,11 +219,9 @@
     <Element collapsed="0" type="model" name="Tree- Tomato B7.2 (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B8.1 {R} (V)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B8.2 {R} (W)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 4 {B} (WV)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Big AC 1 (M)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Willow (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- C9- Trees- Tomato- Row A {F} (W)" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes 2.3 {L} Low (O)" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- 5mm- Bushes {C} (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- C9- Bushes {C} (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Coexist Flag (MRGB)" visible="1"/>
@@ -275,9 +265,14 @@
     <Element collapsed="0" type="model" name="Snowmen (W)" visible="1"/>
     <Element collapsed="0" type="model" name="z Roof Ridgeline 2 {R} (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="z Roof Ridgeline 1 {L} (RGB)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (WR)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 2 {R} (WG)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (WB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Small Blue {L} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes 2.1 {L} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes 2.2 {L} (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes 2.3 {L} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 4 {L} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 2 {R} (W)" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Drums Knocking">
@@ -12434,9 +12429,6 @@
     <Element type="model" name="Candy Canes 4 (G)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Snow Group">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Mailboxes (Y)">
       <EffectLayer/>
     </Element>
@@ -12673,19 +12665,10 @@
     <Element type="model" name="Bushes 4.2 {D} (W)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Bushes 2.1 {L} (M)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Tree- Tinsel 2 {R} (R)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Small {L} (B)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Tree- Tinsel 1 {L} (R)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Bushes 2.2 {L} (W)">
       <EffectLayer/>
     </Element>
     <Element type="model" name="CandyCane01-R1">
@@ -13703,15 +13686,6 @@
         <Effect label="etc" startTime="161725" endTime="161800"></Effect>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Bushes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Trees">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Swirlies Spinny Group (M)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Dumb RGB Items Group">
       <EffectLayer/>
     </Element>
@@ -13722,9 +13696,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="UFOs (RGB)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="House Front and the Roof">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix- P4-1 Left">
@@ -13880,9 +13851,6 @@
     <Element type="model" name="Tree- Tomato B8.2 {R} (W)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Spiral 4 {B} (WV)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Tree- Big AC 1 (M)">
       <EffectLayer/>
     </Element>
@@ -13890,9 +13858,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Strobes- C9- Trees- Tomato- Row A {F} (W)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Bushes 2.3 {L} Low (O)">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Strobes- 5mm- Bushes {C} (W)">
@@ -14024,17 +13989,32 @@
     <Element type="model" name="z Roof Ridgeline 1 {L} (RGB)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Spiral 1 {B} (WR)">
+    <Element type="model" name="Tree- Small Blue {L} (B)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Spiral 2 {R} (WG)">
+    <Element type="model" name="Bushes 2.1 {L} (R)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Spiral 3 {F} (WB)">
+    <Element type="model" name="Bushes 2.2 {L} (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes 2.3 {L} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral 4 {L} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral 1 {B} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral 3 {F} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral 2 {R} (W)">
       <EffectLayer/>
     </Element>
   </ElementEffects>
-  <lastView>7</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

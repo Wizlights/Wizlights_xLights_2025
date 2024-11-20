@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.15</version>
+    <version>2024.17</version>
     <author>Doctor Wizard</author>
     <author-email>wizard@wizlights.com</author-email>
     <author-website>https://wizlights.com</author-website>
@@ -302,8 +302,6 @@
     <Element collapsed="0" type="model" name="Rainbow Rope Arch Matrix" visible="1"/>
     <Element collapsed="0" type="model" name="GE Rosa Wreath GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Arrows GRP" visible="1"/>
-    <Element collapsed="0" type="model" name="GE RosaWreath Feather Even GRP" visible="1"/>
-    <Element collapsed="0" type="model" name="GE RosaWreath Feather Odd GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Feathers GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Outer Circles GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Ribbons GRP" visible="1"/>
@@ -550,10 +548,6 @@
     <Element collapsed="0" type="model" name="Tree- Big Pixel 1 Left Center" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Small Blue {L} (B)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tinsel 1 {L} (R)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 2 {R} (WG)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (WB)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (WR)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 4 {B} (WV)" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes 2.2 {L} (G)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B8.2 {R} (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B7.2 (W)" visible="1"/>
@@ -713,7 +707,6 @@
     <Element collapsed="0" type="model" name="Ornament- Star 1" visible="1"/>
     <Element collapsed="0" type="model" name="Ships Wheel" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake 5 Big" visible="1"/>
-    <Element collapsed="0" type="model" name="Wreath Rosa" visible="1"/>
     <Element collapsed="0" type="model" name="Elf Singer" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake 6 Big" visible="1"/>
     <Element collapsed="0" type="model" name="Bells 1 {L}" visible="1"/>
@@ -811,6 +804,10 @@
     <Element collapsed="0" type="model" name="House Px Outline (Eaves + Roof Edges)" visible="1"/>
     <Element collapsed="0" type="model" name="House Px- Whole- Pixels" visible="1"/>
     <Element collapsed="0" type="model" name="House+Yard Px- Whole- Pixels" visible="1"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Even 2-16" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Odd 1-15" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Bars (Whole notes, (4 Quarter notes))_1">
@@ -33232,12 +33229,6 @@
     <Element type="model" name="GE RosaWreath Arrows GRP">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="GE RosaWreath Feather Even GRP">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="GE RosaWreath Feather Odd GRP">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="GE RosaWreath Feathers GRP">
       <EffectLayer/>
     </Element>
@@ -34016,18 +34007,6 @@
     <Element type="model" name="Tree- Tinsel 1 {L} (R)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Spiral 2 {R} (WG)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Spiral 3 {F} (WB)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Spiral 1 {B} (WR)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Spiral 4 {B} (WV)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Bushes 2.2 {L} (G)">
       <EffectLayer/>
     </Element>
@@ -34576,9 +34555,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Snowflake 5 Big">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Wreath Rosa">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Elf Singer">
@@ -41510,14 +41486,26 @@
     <Element type="model" name="House+Yard Px- Whole- Pixels">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="zMatrix- Test">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa- Feathers Even 2-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa- Feathers Odd 1-15">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
   <lastView>5</lastView>
   <TimingTags>
-    <Tag number="0" position="24550"/>
-    <Tag number="1" position="52450"/>
-    <Tag number="2" position="110075"/>
-    <Tag number="3" position="167710"/>
-    <Tag number="4" position="167710"/>
+    <Tag number="0" position="11556"/>
+    <Tag number="1" position="11556"/>
+    <Tag number="2" position="11556"/>
+    <Tag number="3" position="11556"/>
+    <Tag number="4" position="11556"/>
     <Tag number="5" position="-1"/>
     <Tag number="6" position="-1"/>
     <Tag number="7" position="-1"/>

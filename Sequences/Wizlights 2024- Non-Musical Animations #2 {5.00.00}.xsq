@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.20</version>
+    <version>2024.17</version>
     <author>Doctor Wizard</author>
     <author-email>wizard@wizlights.com</author-email>
     <author-website>http://wizlights.com</author-website>
@@ -217,7 +217,6 @@
     <Element collapsed="0" type="model" name="Amplifier 12V" visible="1"/>
     <Element collapsed="0" type="model" name="Peace Sign (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="Nativity Flood 2 {R} (RGB)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 4 {B} (WV)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Big AC 1 (M)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Willow (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- C9- Trees- Tomato- Row A {F} (W)" visible="1"/>
@@ -245,7 +244,6 @@
     <Element collapsed="0" type="model" name="Big Nick Inside (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- C9- Bushes {R} (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Nativity Jesus Joseph Mary" visible="1"/>
-    <Element collapsed="0" type="model" name="Trees" visible="1"/>
     <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
     <Element collapsed="0" type="model" name="Power Items" visible="1"/>
     <Element collapsed="0" type="model" name="Work Together Sign (RWB)" visible="1"/>
@@ -274,6 +272,8 @@
     <Element collapsed="0" type="model" name="Nativity Angels" visible="0"/>
     <Element collapsed="0" type="model" name="Swirlies- Nativity Stars" visible="0"/>
     <Element collapsed="0" type="model" name="Star- of Bethlehem" visible="0"/>
+    <Element collapsed="0" type="model" name="Trees- Spiral 1-4 (WWWG)" visible="1"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Seconds">
@@ -8604,9 +8604,6 @@
         <Effect ref="0" name="On" startTime="0" endTime="300000" palette="4"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Spiral 4 {B} (WV)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Tree- Big AC 1 (M)">
       <EffectLayer/>
     </Element>
@@ -8698,9 +8695,6 @@
         <Effect ref="0" name="On" id="3" startTime="214000" endTime="293000" palette="5"/>
         <Effect ref="13" name="On" id="4" startTime="293000" endTime="299000" palette="0"/>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Trees">
-      <EffectLayer/>
     </Element>
     <Element type="model" name="Dumb RGB Items Group">
       <EffectLayer/>
@@ -8824,8 +8818,14 @@
     <Element type="model" name="Star- of Bethlehem">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Trees- Spiral 1-4 (WWWG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zMatrix- Test">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
-  <lastView>1</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

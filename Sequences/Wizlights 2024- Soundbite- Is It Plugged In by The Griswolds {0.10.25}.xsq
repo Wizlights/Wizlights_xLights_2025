@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.20</version>
+    <version>2024.17</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -78,9 +78,7 @@
     <Element collapsed="0" type="model" name="Star- of David Wooden" visible="1"/>
     <Element collapsed="0" type="model" name="Tri-Stars" visible="1"/>
     <Element collapsed="0" type="model" name="Whole House Pixels" visible="1"/>
-    <Element collapsed="0" type="model" name="House Front and Roof (DMX)" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes (DMX)" visible="1"/>
-    <Element collapsed="0" type="model" name="Trees" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes" visible="1"/>
     <Element collapsed="0" type="model" name="Candy Canes Seq Group (RGRG)" visible="1"/>
     <Element collapsed="0" type="model" name="Religious Group" visible="1"/>
@@ -95,6 +93,8 @@
     <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
     <Element collapsed="0" type="model" name="Work Together Sign (RWB)" visible="1"/>
     <Element collapsed="0" type="model" name="UFOs (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Spiral 1-4 (WWWG)" visible="1"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Clark Griswold">
@@ -562,13 +562,7 @@
     <Element type="model" name="Whole House Pixels">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="House Front and Roof (DMX)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Bushes (DMX)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Trees">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Strobes">
@@ -621,8 +615,14 @@
     <Element type="model" name="UFOs (RGB)">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Trees- Spiral 1-4 (WWWG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zMatrix- Test">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
-  <lastView>2</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

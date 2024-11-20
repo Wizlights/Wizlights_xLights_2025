@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.20</version>
+    <version>2024.17</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -164,7 +164,6 @@
     <Element collapsed="0" type="model" name="xCtlr G- 12 Volts Chinese" visible="1"/>
     <Element collapsed="0" type="model" name="xCtlr J- Right Bushes" visible="1"/>
     <Element collapsed="0" type="model" name="Snow Lake with Deer (W)" visible="1"/>
-    <Element collapsed="0" type="model" name="Trees" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Rainbow (ROYGBV)" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- C9- Trees {FC} (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Rotating Beacons 2 {LB} (RGBO)" visible="1"/>
@@ -202,16 +201,11 @@
     <Element collapsed="0" type="model" name="Rainbow Rope Arch Matrix" visible="1"/>
     <Element collapsed="0" type="model" name="GE Rosa Wreath GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Arrows GRP" visible="1"/>
-    <Element collapsed="0" type="model" name="GE RosaWreath Feather Even GRP" visible="1"/>
-    <Element collapsed="0" type="model" name="GE RosaWreath Feather Odd GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Feathers GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Outer Circles GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Ribbons GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Rings GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Spokes GRP" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflake Arms" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflake Rings" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflake Tips" visible="1"/>
     <Element collapsed="0" type="model" name="Grinch with Pic" visible="1"/>
     <Element collapsed="0" type="model" name="{Reference Indicators}" visible="1"/>
     <Element collapsed="0" type="model" name="Bells" visible="1"/>
@@ -238,7 +232,6 @@
     <Element collapsed="0" type="model" name="Spinners Mint 1-8 (22in Big) Rings" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 1-8 (22in Big) Legs" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes Outlines" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflakes Legs" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes Rings" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 1-8 (22in Big) Spokes" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 9-12 (15in Small) Legs" visible="1"/>
@@ -264,14 +257,11 @@
     <Element collapsed="0" type="model" name="Bells 1 Pic {L}" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Male [Blake] Pic {R}" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Female [Gwen] Pic {L}" visible="1"/>
-    <Element collapsed="0" type="model" name="Matrix- Text- Small- Donations- Right Half (32X8)-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Matrix- Text- Small- Donations- Left Half (32X8)" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Major Award" visible="1"/>
     <Element collapsed="0" type="model" name="Major Award Pic" visible="1"/>
     <Element collapsed="0" type="model" name="Major Award Outline (New)" visible="1"/>
     <Element collapsed="0" type="model" name="Wheel of Dharma Pic" visible="1"/>
     <Element collapsed="0" type="model" name="Wheel of Dharma" visible="1"/>
-    <Element collapsed="0" type="model" name="Matrix- Tune-To Sign" visible="1"/>
     <Element collapsed="0" type="model" name="{Y-Coord Zero {RB}}" visible="1"/>
     <Element collapsed="0" type="model" name="{Y-Coord Zero {LB}}" visible="1"/>
     <Element collapsed="0" type="model" name="{X-Coord Zero {CT}}" visible="1"/>
@@ -420,7 +410,6 @@
     <Element collapsed="0" type="model" name="Tree- Big Pixel 1 Left Center" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Small Blue {L} (B)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tinsel 1 {L} (R)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 4 {B} (WV)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B8.2 {R} (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B7.2 (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B6.2 (W)" visible="1"/>
@@ -572,7 +561,6 @@
     <Element collapsed="0" type="model" name="Ornament- Star 1" visible="1"/>
     <Element collapsed="0" type="model" name="Ships Wheel" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake 5 Big" visible="1"/>
-    <Element collapsed="0" type="model" name="Wreath Rosa" visible="1"/>
     <Element collapsed="0" type="model" name="Elf Singer" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake 6 Big" visible="1"/>
     <Element collapsed="0" type="model" name="Bells 1 {L}" visible="1"/>
@@ -625,12 +613,11 @@
     <Element collapsed="0" type="model" name="Tree- Mini Pixel 8 Right" visible="1"/>
     <Element collapsed="0" type="model" name="z Roof Ridgeline 2 {R} (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="z Roof Ridgeline 1 {L} (RGB)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (WR)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 2 {R} (WG)" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (WB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 2 {R} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Pencil 1-16 (Multi)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Row B By Tree 1-8 (RGBW)" visible="1"/>
-    <Element collapsed="0" type="model" name="House Front and Roof (DMX)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Row B By Tree 1-8 (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Row B As String (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes All 1-6 (Small + Big)" visible="1"/>
@@ -665,6 +652,11 @@
     <Element collapsed="1" type="timing" name="7 Tempo Changes" visible="1" views="" active="0"/>
     <Element collapsed="1" type="timing" name="5 Chords" visible="1" views="" active="0"/>
     <Element collapsed="0" type="model" name="Pixels- Absolutely All incl Singers" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 4 {L} (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Even 2-16" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Odd 1-15" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Frames 40FPS 25ms">
@@ -1701,9 +1693,6 @@
     <Element type="model" name="Snow Lake with Deer (W)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Trees">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Trees- Rainbow (ROYGBV)">
       <EffectLayer>
         <Effect ref="0" name="On" startTime="5100" endTime="6700" palette="8"/>
@@ -1875,12 +1864,6 @@
     <Element type="model" name="GE RosaWreath Arrows GRP">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="GE RosaWreath Feather Even GRP">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="GE RosaWreath Feather Odd GRP">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="GE RosaWreath Feathers GRP">
       <EffectLayer/>
     </Element>
@@ -1894,15 +1877,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="GE RosaWreath Spokes GRP">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflake Arms">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflake Rings">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflake Tips">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Grinch with Pic">
@@ -1983,9 +1957,6 @@
     <Element type="model" name="Snowflakes Outlines">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Snowflakes Legs">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Snowflakes Rings">
       <EffectLayer/>
     </Element>
@@ -2061,12 +2032,6 @@
     <Element type="model" name="Tree- Singing Female [Gwen] Pic {L}">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Matrix- Text- Small- Donations- Right Half (32X8)-2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Matrix- Text- Small- Donations- Left Half (32X8)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Matrix- Major Award">
       <EffectLayer/>
     </Element>
@@ -2080,9 +2045,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Wheel of Dharma">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Matrix- Tune-To Sign">
       <EffectLayer/>
     </Element>
     <Element type="model" name="{Y-Coord Zero {RB}}">
@@ -2887,51 +2849,6 @@
       <EffectLayer>
         <Effect ref="0" name="On" startTime="18500" endTime="22350" palette="8"/>
         <Effect ref="0" name="On" id="1" startTime="39100" endTime="43050" palette="8"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Tree- Spiral 4 {B} (WV)">
-      <EffectLayer>
-        <Effect ref="7" name="On" startTime="24500" endTime="24900" palette="8"/>
-        <Effect ref="7" name="On" id="1" startTime="26100" endTime="26525" palette="8"/>
-        <Effect ref="7" name="On" id="2" startTime="27725" endTime="28025" palette="8"/>
-        <Effect ref="7" name="On" id="3" startTime="28350" endTime="28550" palette="8"/>
-        <Effect ref="7" name="On" id="4" startTime="28550" endTime="28850" palette="8"/>
-        <Effect ref="7" name="On" id="5" startTime="29125" endTime="29300" palette="8"/>
-        <Effect ref="7" name="On" id="6" startTime="29300" endTime="29575" palette="8"/>
-        <Effect ref="7" name="On" id="7" startTime="29750" endTime="30050" palette="8"/>
-        <Effect ref="7" name="On" id="8" startTime="30150" endTime="30450" palette="8"/>
-        <Effect ref="7" name="On" id="9" startTime="30550" endTime="30875" palette="8"/>
-        <Effect ref="7" name="On" id="10" startTime="35925" endTime="36225" palette="8"/>
-        <Effect ref="7" name="On" id="11" startTime="42300" endTime="42600" palette="8"/>
-        <Effect ref="7" name="On" id="12" startTime="43900" endTime="44200" palette="8"/>
-        <Effect ref="7" name="On" id="13" startTime="45525" endTime="45825" palette="8"/>
-        <Effect ref="7" name="On" id="14" startTime="46125" endTime="46325" palette="8"/>
-        <Effect ref="7" name="On" id="15" startTime="46325" endTime="46625" palette="8"/>
-        <Effect ref="7" name="On" id="16" startTime="46950" endTime="47150" palette="8"/>
-        <Effect ref="7" name="On" id="17" startTime="47150" endTime="47450" palette="8"/>
-        <Effect ref="7" name="On" id="18" startTime="50400" endTime="50800" palette="8"/>
-        <Effect ref="7" name="On" id="19" startTime="50800" endTime="51175" palette="8"/>
-        <Effect ref="7" name="On" id="20" startTime="51175" endTime="51600" palette="8"/>
-        <Effect ref="7" name="On" id="21" startTime="51600" endTime="52000" palette="8"/>
-        <Effect ref="7" name="On" id="22" startTime="52000" endTime="52425" palette="8"/>
-        <Effect ref="7" name="On" id="23" startTime="52425" endTime="52825" palette="8"/>
-        <Effect ref="7" name="On" id="24" startTime="52825" endTime="53225" palette="8"/>
-        <Effect ref="7" name="On" id="25" startTime="53225" endTime="53625" palette="8"/>
-        <Effect ref="7" name="On" id="26" startTime="53625" endTime="54025" palette="8"/>
-        <Effect ref="7" name="On" id="27" startTime="54025" endTime="54450" palette="8"/>
-        <Effect ref="7" name="On" id="28" startTime="54450" endTime="54825" palette="8"/>
-        <Effect ref="7" name="On" id="29" startTime="54825" endTime="55250" palette="8"/>
-        <Effect ref="7" name="On" id="30" startTime="55250" endTime="55650" palette="8"/>
-        <Effect ref="7" name="On" id="31" startTime="55650" endTime="56075" palette="8"/>
-        <Effect ref="7" name="On" id="32" startTime="56075" endTime="56475" palette="8"/>
-        <Effect ref="7" name="On" id="33" startTime="56475" endTime="56850" palette="8"/>
-        <Effect ref="7" name="On" id="34" startTime="56850" endTime="57275" palette="8"/>
-        <Effect ref="7" name="On" id="35" startTime="57275" endTime="57700" palette="8"/>
-        <Effect ref="7" name="On" id="36" startTime="57700" endTime="58075" palette="8"/>
-        <Effect ref="7" name="On" id="37" startTime="58075" endTime="58500" palette="8"/>
-        <Effect ref="7" name="On" id="38" startTime="58500" endTime="58875" palette="8"/>
-        <Effect ref="7" name="On" id="39" startTime="58875" endTime="59300" palette="8"/>
-        <Effect ref="7" name="On" id="40" startTime="59300" endTime="59700" palette="8"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Tree- Tomato B8.2 {R} (W)">
@@ -5901,9 +5818,6 @@
     <Element type="model" name="Snowflake 5 Big">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Wreath Rosa">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Elf Singer">
       <EffectLayer/>
     </Element>
@@ -6278,13 +6192,13 @@
         <Effect ref="0" name="On" id="44" startTime="22300" endTime="22500" palette="4"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Spiral 1 {B} (WR)">
+    <Element type="model" name="Tree- Spiral 1 {B} (W)">
       <EffectLayer>
         <Effect ref="0" name="On" startTime="18500" endTime="22350" palette="8"/>
         <Effect ref="0" name="On" id="1" startTime="39100" endTime="43050" palette="8"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Spiral 2 {R} (WG)">
+    <Element type="model" name="Tree- Spiral 2 {R} (W)">
       <EffectLayer>
         <Effect ref="0" name="On" startTime="8250" endTime="8350" palette="8"/>
         <Effect ref="0" name="On" id="1" startTime="8850" endTime="8950" palette="8"/>
@@ -6297,7 +6211,7 @@
         <Effect ref="0" name="On" id="8" startTime="11450" endTime="11550" palette="8"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Spiral 3 {F} (WB)">
+    <Element type="model" name="Tree- Spiral 3 {F} (W)">
       <EffectLayer>
         <Effect ref="7" name="On" startTime="24500" endTime="24900" palette="8"/>
         <Effect ref="7" name="On" id="1" startTime="26100" endTime="26525" palette="8"/>
@@ -6346,9 +6260,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Trees- Tomato Row B By Tree 1-8 (RGBW)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="House Front and Roof (DMX)">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Trees- Tomato Row B By Tree 1-8 (RGB)">
@@ -10911,8 +10822,65 @@
     <Element type="model" name="Pixels- Absolutely All incl Singers">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Tree- Spiral 4 {L} (W)">
+      <EffectLayer>
+        <Effect ref="7" name="On" startTime="24500" endTime="24900" palette="8"/>
+        <Effect ref="7" name="On" id="1" startTime="26100" endTime="26525" palette="8"/>
+        <Effect ref="7" name="On" id="2" startTime="27725" endTime="28025" palette="8"/>
+        <Effect ref="7" name="On" id="3" startTime="28350" endTime="28550" palette="8"/>
+        <Effect ref="7" name="On" id="4" startTime="28550" endTime="28850" palette="8"/>
+        <Effect ref="7" name="On" id="5" startTime="29125" endTime="29300" palette="8"/>
+        <Effect ref="7" name="On" id="6" startTime="29300" endTime="29575" palette="8"/>
+        <Effect ref="7" name="On" id="7" startTime="29750" endTime="30050" palette="8"/>
+        <Effect ref="7" name="On" id="8" startTime="30150" endTime="30450" palette="8"/>
+        <Effect ref="7" name="On" id="9" startTime="30550" endTime="30875" palette="8"/>
+        <Effect ref="7" name="On" id="10" startTime="35925" endTime="36225" palette="8"/>
+        <Effect ref="7" name="On" id="11" startTime="42300" endTime="42600" palette="8"/>
+        <Effect ref="7" name="On" id="12" startTime="43900" endTime="44200" palette="8"/>
+        <Effect ref="7" name="On" id="13" startTime="45525" endTime="45825" palette="8"/>
+        <Effect ref="7" name="On" id="14" startTime="46125" endTime="46325" palette="8"/>
+        <Effect ref="7" name="On" id="15" startTime="46325" endTime="46625" palette="8"/>
+        <Effect ref="7" name="On" id="16" startTime="46950" endTime="47150" palette="8"/>
+        <Effect ref="7" name="On" id="17" startTime="47150" endTime="47450" palette="8"/>
+        <Effect ref="7" name="On" id="18" startTime="50400" endTime="50800" palette="8"/>
+        <Effect ref="7" name="On" id="19" startTime="50800" endTime="51175" palette="8"/>
+        <Effect ref="7" name="On" id="20" startTime="51175" endTime="51600" palette="8"/>
+        <Effect ref="7" name="On" id="21" startTime="51600" endTime="52000" palette="8"/>
+        <Effect ref="7" name="On" id="22" startTime="52000" endTime="52425" palette="8"/>
+        <Effect ref="7" name="On" id="23" startTime="52425" endTime="52825" palette="8"/>
+        <Effect ref="7" name="On" id="24" startTime="52825" endTime="53225" palette="8"/>
+        <Effect ref="7" name="On" id="25" startTime="53225" endTime="53625" palette="8"/>
+        <Effect ref="7" name="On" id="26" startTime="53625" endTime="54025" palette="8"/>
+        <Effect ref="7" name="On" id="27" startTime="54025" endTime="54450" palette="8"/>
+        <Effect ref="7" name="On" id="28" startTime="54450" endTime="54825" palette="8"/>
+        <Effect ref="7" name="On" id="29" startTime="54825" endTime="55250" palette="8"/>
+        <Effect ref="7" name="On" id="30" startTime="55250" endTime="55650" palette="8"/>
+        <Effect ref="7" name="On" id="31" startTime="55650" endTime="56075" palette="8"/>
+        <Effect ref="7" name="On" id="32" startTime="56075" endTime="56475" palette="8"/>
+        <Effect ref="7" name="On" id="33" startTime="56475" endTime="56850" palette="8"/>
+        <Effect ref="7" name="On" id="34" startTime="56850" endTime="57275" palette="8"/>
+        <Effect ref="7" name="On" id="35" startTime="57275" endTime="57700" palette="8"/>
+        <Effect ref="7" name="On" id="36" startTime="57700" endTime="58075" palette="8"/>
+        <Effect ref="7" name="On" id="37" startTime="58075" endTime="58500" palette="8"/>
+        <Effect ref="7" name="On" id="38" startTime="58500" endTime="58875" palette="8"/>
+        <Effect ref="7" name="On" id="39" startTime="58875" endTime="59300" palette="8"/>
+        <Effect ref="7" name="On" id="40" startTime="59300" endTime="59700" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="zMatrix- Test">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa- Feathers Even 2-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa- Feathers Odd 1-15">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
-  <lastView>5</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

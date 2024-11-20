@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.18</version>
-    <author></author>
-    <author-email></author-email>
-    <author-website></author-website>
+    <version>2024.17</version>
+    <author>Doctor Wizard</author>
+    <author-email>wizard@wizlights.com</author-email>
+    <author-website>https://wizlights.com</author-website>
     <song>Soundbite- The House Can be Seen from Space</song>
     <artist>Reporter (from Deck the Halls)</artist>
-    <album>Deck the Halls</album>
+    <album>Movie- Deck the Halls</album>
     <MusicURL></MusicURL>
     <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>X:\2023\Audio\Soundbite- The House Can be Seen from Space by Reporter (from Deck the Halls) {01_18}.mp3</mediaFile>
+    <mediaFile>X:\2024\Audio\Soundbite- The House Can be Seen from Space by Reporter (from Deck the Halls) {1.18.34}.mp3</mediaFile>
     <sequenceDuration>78.334</sequenceDuration>
-    <imageDir></imageDir>
+    <imageDir/>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
@@ -31,7 +31,6 @@
     <Element collapsed="0" type="timing" name="Frames 40FPS 25ms" visible="1" views="Pixel Props" active="0"/>
     <Element collapsed="0" type="timing" name="Tenths Second 100ms" visible="1" views="Pixel Props" active="0"/>
     <Element collapsed="0" type="timing" name="Seconds" visible="1" views="Pixel Props" active="1"/>
-    <Element collapsed="0" type="model" name="Pixels- ALL" visible="1"/>
     <Element collapsed="0" type="model" name="Pixels House Front" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels- All" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Big Pixel 1 Left Center" visible="1"/>
@@ -64,11 +63,6 @@
     <Element collapsed="0" type="model" name="Snowflake 4 Diamond" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake 5 Big" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake 6 Big" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflake Arms" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflake Rings" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflake Tips" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflakes All (Small + Big)" visible="1"/>
-    <Element collapsed="0" type="model" name="Snowflakes Legs" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes Outlines" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes Rings" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes and Spinners" visible="1"/>
@@ -104,12 +98,8 @@
     <Element collapsed="0" type="model" name="Spinners Mint 9-12 (15in Small) Spokes" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 9-12 (15in Small) Vertical Group" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners and Snowflakes" visible="1"/>
-    <Element collapsed="0" type="model" name="Star- Triple 1.1 Inner {L}" visible="1"/>
     <Element collapsed="0" type="model" name="Star- Triple 1.2 Middle {L}" visible="1"/>
-    <Element collapsed="0" type="model" name="Star- Triple 1.3 Outer {L}" visible="1"/>
-    <Element collapsed="0" type="model" name="Star- Triple 2.1 Inner {R}" visible="1"/>
     <Element collapsed="0" type="model" name="Star- Triple 2.2 Middle {R}" visible="1"/>
-    <Element collapsed="0" type="model" name="Star- Triple 2.3 Outer {R}" visible="1"/>
     <Element collapsed="0" type="model" name="Star- Wreath Mega Triangle Topper" visible="1"/>
     <Element collapsed="0" type="model" name="Star- of David Coro" visible="1"/>
     <Element collapsed="0" type="model" name="Star- of David Wooden" visible="1"/>
@@ -129,7 +119,6 @@
     <Element collapsed="0" type="model" name="Tri-Stars" visible="1"/>
     <Element collapsed="0" type="model" name="Wheel of Dharma" visible="1"/>
     <Element collapsed="0" type="model" name="Whole House Pixels" visible="1"/>
-    <Element collapsed="0" type="model" name="Wreath Rosa" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Arrows 1-16" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers 1-16" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Outer Balls 1-16" visible="1"/>
@@ -137,6 +126,21 @@
     <Element collapsed="0" type="model" name="Wreath- Rosa- Rings 1-8" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Spokes 1-32" visible="1"/>
     <Element collapsed="0" type="model" name="Yule Log (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr A Tomato Trees Row A" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr B- Tomato Trees Row B" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr C- Other Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr D- Left Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr E- Center Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr G- 12 Volts Chinese" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr I- House Front and Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr J- Right Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixels- Absolutely All incl Singers" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Mini Pixel" visible="1"/>
+    <Element collapsed="0" type="model" name="Rainbow Rope Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Even 2-16" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Odd 1-15" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Speaking- Reporter">
@@ -3332,7 +3336,6 @@
         <Effect label="3131" startTime="78250" endTime="78275"></Effect>
         <Effect label="3132" startTime="78275" endTime="78300"></Effect>
         <Effect label="3133" startTime="78300" endTime="78325"></Effect>
-        <Effect label="3134" startTime="78325" endTime="78325"></Effect>
       </EffectLayer>
     </Element>
     <Element type="timing" name="Tenths Second 100ms">
@@ -4206,9 +4209,6 @@
         <Effect label="79" startTime="78000" endTime="78325"></Effect>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Pixels- ALL">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Pixels House Front">
       <EffectLayer/>
     </Element>
@@ -4303,21 +4303,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Snowflake 6 Big">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflake Arms">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflake Rings">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflake Tips">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflakes All (Small + Big)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Snowflakes Legs">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Snowflakes Outlines">
@@ -4425,22 +4410,10 @@
     <Element type="model" name="Spinners and Snowflakes">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Star- Triple 1.1 Inner {L}">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Star- Triple 1.2 Middle {L}">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Star- Triple 1.3 Outer {L}">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Star- Triple 2.1 Inner {R}">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Star- Triple 2.2 Middle {R}">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Star- Triple 2.3 Outer {R}">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Star- Wreath Mega Triangle Topper">
@@ -4500,9 +4473,6 @@
     <Element type="model" name="Whole House Pixels">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Wreath Rosa">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Wreath- Rosa- Arrows 1-16">
       <EffectLayer/>
     </Element>
@@ -4524,8 +4494,53 @@
     <Element type="model" name="Yule Log (O)">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="xCtlr A Tomato Trees Row A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr B- Tomato Trees Row B">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr C- Other Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr D- Left Bushes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr E- Center Bushes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr G- 12 Volts Chinese">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr I- House Front and Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr J- Right Bushes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zMatrix- Test">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixels- Absolutely All incl Singers">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Mini Pixel">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rainbow Rope Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa- Feathers Even 2-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa- Feathers Odd 1-15">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
-  <lastView>5</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

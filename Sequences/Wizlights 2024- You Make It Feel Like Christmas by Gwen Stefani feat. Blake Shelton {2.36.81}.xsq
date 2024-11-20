@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.20</version>
+    <version>2024.17</version>
     <author>xLights Around the World 2021</author>
     <author-email>russell@palmettotechnical.com</author-email>
     <author-website>http://www.xlightsaroundtheworld.com/2021-project.html</author-website>
@@ -86,10 +86,10 @@
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Boscoyo Singing Tree,E_CHOICE_Faces_TimingTrack=Gwen,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=3.00</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=20,E_SLIDER_Shockwave_End_Width=30,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=10</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=20,E_SLIDER_Shockwave_End_Width=30,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=10</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce to Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=63,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadein=.2,T_TEXTCTRL_Fadeout=.2</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce to Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=63,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadein=.2,T_TEXTCTRL_Fadeout=.2</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Per Preview,B_CHOICE_PerPreviewCamera=2D,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=1,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=3,E_SLIDER_Spirals_Rotation=40,E_SLIDER_Spirals_Thickness=15,E_TEXTCTRL_Spirals_Movement=1.0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=2</Effect>
     <Effect>X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Per Preview,B_CHOICE_PerPreviewCamera=2D</Effect>
@@ -110,9 +110,9 @@
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=220,E_SLIDER_Fan_Num_Blades=3,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=360,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1,T_TEXTCTRL_Fadein=.1,T_TEXTCTRL_Fadeout=.1</Effect>
     <Effect>E_TEXTCTRL_Eff_On_Start=0</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Stacked X Horizontally,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=80,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Stacked X Horizontally,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=80,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>E_CHOICE_Garlands_Direction=Up,E_SLIDER_Garlands_Spacing=10,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=1.0</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Per Preview</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Per Preview,E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Options,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=75,E_SLIDER_Fan_Num_Blades=3,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=720,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1</Effect>
@@ -121,16 +121,16 @@
     <Effect>B_CHOICE_BufferStyle=Per Model Per Preview,E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=220,E_SLIDER_Fan_Num_Blades=3,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=360,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1,T_TEXTCTRL_Fadein=.1,T_TEXTCTRL_Fadeout=.1</Effect>
     <Effect>B_CHOICE_BufferStyle=Single Line Model As A Pixel,E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=40,E_SLIDER_Twinkle_Steps=2</Effect>
     <Effect>E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=Options,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=43,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=100,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=100,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=1 Full Beats (Quarter notes),E_CHOICE_VUMeter_Type=Timing Event Color,E_SLIDER_VUMeter_Sensitivity=70</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=1 Full Beats (Quarter notes),E_CHOICE_VUMeter_Type=Timing Event Color,E_SLIDER_VUMeter_Sensitivity=70,T_TEXTCTRL_Fadeout=1</Effect>
     <Effect></Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=2D,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=2D,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=2D,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=2D,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=5,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Per Preview,B_CHOICE_PerPreviewCamera=2D,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=1,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=3,E_SLIDER_Spirals_Rotation=40,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=1.0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=2</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1</Effect>
     <Effect>E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Generic,E_CHOICE_Faces_TimingTrack=Both,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=3</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=1,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=40,E_SLIDER_Spirals_Thickness=15,E_TEXTCTRL_Spirals_Movement=1.0</Effect>
     <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=25,E_SLIDER_Snowflakes_Speed=10,E_SLIDER_Snowflakes_Type=1,T_CHOICE_Out_Transition_Type=Blinds,T_SLIDER_Out_Transition_Adjust=50,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
@@ -143,13 +143,13 @@
     <Effect>T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=60,E_SLIDER_Shockwave_End_Width=60,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=5</Effect>
-    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=80,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=80,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=20,E_SLIDER_Shockwave_End_Width=30,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=10</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=20,E_SLIDER_Shockwave_End_Width=30,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=10</Effect>
-    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce to Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=63,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4</Effect>
-    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadein=.2,T_TEXTCTRL_Fadeout=.2</Effect>
+    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce to Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=63,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4</Effect>
+    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=2,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=2,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,T_TEXTCTRL_Fadein=.2,T_TEXTCTRL_Fadeout=.2</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=1,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=3,E_SLIDER_Spirals_Rotation=40,E_SLIDER_Spirals_Thickness=15,E_TEXTCTRL_Spirals_Movement=1.0,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=2</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=50,E_TEXTCTRL_Eff_On_Start=0</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=48,E_TEXTCTRL_Eff_On_Start=0</Effect>
@@ -190,14 +190,13 @@
     <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=1,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=-20,E_SLIDER_Spirals_Thickness=25,E_TEXTCTRL_Spirals_Movement=-1.0,T_CHOICE_In_Transition_Type=Blinds,T_SLIDER_In_Transition_Adjust=60,T_TEXTCTRL_Fadein=.25,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>E_CHECKBOX_On_Shimmer=1</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Color,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=100,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=100,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="model" name="Pixels- Absolutely All incl Singers" visible="1"/>
-    <Element collapsed="0" type="model" name="Trees" visible="1"/>
     <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
     <Element collapsed="0" type="timing" name="Bars (Whole notes, (4 Quarter notes))" visible="1" views="All Timings" active="0"/>
     <Element collapsed="0" type="timing" name="Chords" visible="1" views="All Timings" active="0"/>
@@ -368,10 +367,9 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A8.2 {R} (G)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A8.3 {R} (B)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A8.4 {R} (W)" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 4 {B} (WV)" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 2 {R} (WG)" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (WR)" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (WB)" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 2 {R} (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Power Items" visible="1"/>
     <Element collapsed="0" type="model" name="On The Air (R)" visible="0"/>
     <Element collapsed="0" type="model" name="Amplifier 12V" visible="0"/>
@@ -444,7 +442,7 @@
     <Element collapsed="0" type="model" name="Matrix- P4-1 Left" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Mega Triangle" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Mini Pixel" visible="1"/>
-    <Element collapsed="0" type="model" name="Wreath Rosa" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa" visible="1"/>
     <Element collapsed="0" type="model" name="Whole House Pixels" visible="1"/>
     <Element collapsed="0" type="model" name="Star- Wreath Mega Triangle Topper" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 1-8 (22in Big) Horizontal Group" visible="1"/>
@@ -518,15 +516,13 @@
     <Element collapsed="0" type="timing" name="Bars" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Sections" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 4 {L} (W)" visible="0"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="model" name="Pixels- Absolutely All incl Singers">
       <EffectLayer/>
       <EffectLayer/>
       <EffectLayer/>
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Trees">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Dumb RGB Items Group">
@@ -12997,59 +12993,7 @@
     <Element type="model" name="Tree- Tomato A8.4 {R} (W)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Spiral 4 {B} (WV)">
-      <EffectLayer>
-        <Effect ref="42" name="On" startTime="22450" endTime="23750" palette="23"/>
-        <Effect ref="27" name="On" id="1" startTime="23750" endTime="25050" palette="23"/>
-        <Effect ref="26" name="On" id="2" startTime="26300" endTime="27600" palette="23"/>
-        <Effect ref="42" name="On" id="3" startTime="27600" endTime="28900" palette="23"/>
-        <Effect ref="27" name="On" id="4" startTime="28900" endTime="30200" palette="23"/>
-        <Effect ref="26" name="On" id="5" startTime="31450" endTime="32750" palette="23"/>
-        <Effect ref="42" name="On" id="6" startTime="32750" endTime="34050" palette="23"/>
-        <Effect ref="27" name="On" id="7" startTime="34050" endTime="35350" palette="23"/>
-        <Effect ref="42" name="On" id="8" startTime="43100" endTime="44400" palette="23"/>
-        <Effect ref="27" name="On" id="9" startTime="44400" endTime="45650" palette="23"/>
-        <Effect ref="26" name="On" id="10" startTime="46950" endTime="48250" palette="23"/>
-        <Effect ref="42" name="On" id="11" startTime="48250" endTime="49550" palette="23"/>
-        <Effect ref="27" name="On" id="12" startTime="49550" endTime="50800" palette="23"/>
-        <Effect ref="26" name="On" id="13" startTime="52100" endTime="53400" palette="23"/>
-        <Effect ref="42" name="On" id="14" startTime="53400" endTime="54700" palette="23"/>
-        <Effect ref="27" name="On" id="15" startTime="54700" endTime="56000" palette="23"/>
-        <Effect ref="26" name="On" id="16" startTime="57300" endTime="58600" palette="23"/>
-        <Effect ref="42" name="On" id="17" startTime="58600" endTime="59850" palette="23"/>
-        <Effect ref="27" name="On" id="18" startTime="59850" endTime="61150" palette="23"/>
-        <Effect ref="42" name="On" id="19" startTime="68900" endTime="70200" palette="23"/>
-        <Effect ref="27" name="On" id="20" startTime="70200" endTime="71500" palette="23"/>
-        <Effect ref="26" name="On" id="21" startTime="72750" endTime="74050" palette="23"/>
-        <Effect ref="42" name="On" id="22" startTime="74050" endTime="75350" palette="23"/>
-        <Effect ref="27" name="On" id="23" startTime="75350" endTime="76650" palette="23"/>
-        <Effect ref="26" name="On" id="24" startTime="77950" endTime="79250" palette="23"/>
-        <Effect ref="42" name="On" id="25" startTime="79250" endTime="80500" palette="23"/>
-        <Effect ref="27" name="On" id="26" startTime="80500" endTime="81800" palette="23"/>
-        <Effect ref="42" name="On" id="27" startTime="89550" endTime="90850" palette="23"/>
-        <Effect ref="27" name="On" id="28" startTime="90850" endTime="92100" palette="23"/>
-        <Effect ref="26" name="On" id="29" startTime="93400" endTime="94700" palette="23"/>
-        <Effect ref="42" name="On" id="30" startTime="94700" endTime="96000" palette="23"/>
-        <Effect ref="27" name="On" id="31" startTime="96000" endTime="97250" palette="23"/>
-        <Effect ref="26" name="On" id="32" startTime="98550" endTime="99850" palette="23"/>
-        <Effect ref="42" name="On" id="33" startTime="99850" endTime="101150" palette="23"/>
-        <Effect ref="27" name="On" id="34" startTime="101150" endTime="102450" palette="23"/>
-        <Effect ref="26" name="On" id="35" startTime="103750" endTime="105000" palette="23"/>
-        <Effect ref="42" name="On" id="36" startTime="105000" endTime="106300" palette="23"/>
-        <Effect ref="27" name="On" id="37" startTime="106300" endTime="107600" palette="23"/>
-        <Effect ref="42" name="On" id="38" startTime="115350" endTime="116650" palette="23"/>
-        <Effect ref="27" name="On" id="39" startTime="116650" endTime="117950" palette="23"/>
-        <Effect ref="26" name="On" id="40" startTime="119200" endTime="120500" palette="23"/>
-        <Effect ref="42" name="On" id="41" startTime="120500" endTime="121800" palette="23"/>
-        <Effect ref="27" name="On" id="42" startTime="121800" endTime="123100" palette="23"/>
-        <Effect ref="26" name="On" id="43" startTime="124400" endTime="125700" palette="23"/>
-        <Effect ref="42" name="On" id="44" startTime="125700" endTime="126950" palette="23"/>
-        <Effect ref="27" name="On" id="45" startTime="126950" endTime="128250" palette="23"/>
-        <Effect ref="42" name="On" id="46" startTime="136000" endTime="137300" palette="23"/>
-        <Effect ref="27" name="On" id="47" startTime="137300" endTime="138600" palette="23"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Tree- Spiral 2 {R} (WG)">
+    <Element type="model" name="Tree- Spiral 2 {R} (W)">
       <EffectLayer>
         <Effect ref="26" name="On" startTime="10850" endTime="11150" palette="23"/>
         <Effect ref="42" name="On" id="1" startTime="11150" endTime="11500" palette="23"/>
@@ -13071,7 +13015,7 @@
         <Effect ref="27" name="On" id="17" startTime="17950" endTime="18250" palette="23"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Spiral 1 {B} (WR)">
+    <Element type="model" name="Tree- Spiral 1 {B} (W)">
       <EffectLayer>
         <Effect ref="42" name="On" startTime="18500" endTime="22350" palette="23"/>
         <Effect ref="42" name="On" id="1" startTime="39100" endTime="43050" palette="23"/>
@@ -13082,7 +13026,7 @@
         <Effect ref="42" name="On" id="6" startTime="142400" endTime="146300" palette="23"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Spiral 3 {F} (WB)">
+    <Element type="model" name="Tree- Spiral 3 {F} (W)">
       <EffectLayer>
         <Effect ref="27" name="On" startTime="22450" endTime="23750" palette="23"/>
         <Effect ref="26" name="On" id="1" startTime="25050" endTime="26300" palette="23"/>
@@ -16976,7 +16920,7 @@
         <Effect ref="9" name="Off" id="9" startTime="105050" endTime="107600" palette="13"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Wreath Rosa">
+    <Element type="model" name="Wreath- Rosa">
       <EffectLayer>
         <Effect ref="9" name="On" startTime="45650" endTime="46950" palette="12"/>
         <Effect ref="9" name="On" id="1" startTime="48250" endTime="49550" palette="14"/>
@@ -25069,8 +25013,60 @@
         <Effect label="" startTime="139850" endTime="156200"></Effect>
       </EffectLayer>
     </Element>
+    <Element type="model" name="Tree- Spiral 4 {L} (W)">
+      <EffectLayer>
+        <Effect ref="42" name="On" startTime="22450" endTime="23750" palette="23"/>
+        <Effect ref="27" name="On" id="1" startTime="23750" endTime="25050" palette="23"/>
+        <Effect ref="26" name="On" id="2" startTime="26300" endTime="27600" palette="23"/>
+        <Effect ref="42" name="On" id="3" startTime="27600" endTime="28900" palette="23"/>
+        <Effect ref="27" name="On" id="4" startTime="28900" endTime="30200" palette="23"/>
+        <Effect ref="26" name="On" id="5" startTime="31450" endTime="32750" palette="23"/>
+        <Effect ref="42" name="On" id="6" startTime="32750" endTime="34050" palette="23"/>
+        <Effect ref="27" name="On" id="7" startTime="34050" endTime="35350" palette="23"/>
+        <Effect ref="42" name="On" id="8" startTime="43100" endTime="44400" palette="23"/>
+        <Effect ref="27" name="On" id="9" startTime="44400" endTime="45650" palette="23"/>
+        <Effect ref="26" name="On" id="10" startTime="46950" endTime="48250" palette="23"/>
+        <Effect ref="42" name="On" id="11" startTime="48250" endTime="49550" palette="23"/>
+        <Effect ref="27" name="On" id="12" startTime="49550" endTime="50800" palette="23"/>
+        <Effect ref="26" name="On" id="13" startTime="52100" endTime="53400" palette="23"/>
+        <Effect ref="42" name="On" id="14" startTime="53400" endTime="54700" palette="23"/>
+        <Effect ref="27" name="On" id="15" startTime="54700" endTime="56000" palette="23"/>
+        <Effect ref="26" name="On" id="16" startTime="57300" endTime="58600" palette="23"/>
+        <Effect ref="42" name="On" id="17" startTime="58600" endTime="59850" palette="23"/>
+        <Effect ref="27" name="On" id="18" startTime="59850" endTime="61150" palette="23"/>
+        <Effect ref="42" name="On" id="19" startTime="68900" endTime="70200" palette="23"/>
+        <Effect ref="27" name="On" id="20" startTime="70200" endTime="71500" palette="23"/>
+        <Effect ref="26" name="On" id="21" startTime="72750" endTime="74050" palette="23"/>
+        <Effect ref="42" name="On" id="22" startTime="74050" endTime="75350" palette="23"/>
+        <Effect ref="27" name="On" id="23" startTime="75350" endTime="76650" palette="23"/>
+        <Effect ref="26" name="On" id="24" startTime="77950" endTime="79250" palette="23"/>
+        <Effect ref="42" name="On" id="25" startTime="79250" endTime="80500" palette="23"/>
+        <Effect ref="27" name="On" id="26" startTime="80500" endTime="81800" palette="23"/>
+        <Effect ref="42" name="On" id="27" startTime="89550" endTime="90850" palette="23"/>
+        <Effect ref="27" name="On" id="28" startTime="90850" endTime="92100" palette="23"/>
+        <Effect ref="26" name="On" id="29" startTime="93400" endTime="94700" palette="23"/>
+        <Effect ref="42" name="On" id="30" startTime="94700" endTime="96000" palette="23"/>
+        <Effect ref="27" name="On" id="31" startTime="96000" endTime="97250" palette="23"/>
+        <Effect ref="26" name="On" id="32" startTime="98550" endTime="99850" palette="23"/>
+        <Effect ref="42" name="On" id="33" startTime="99850" endTime="101150" palette="23"/>
+        <Effect ref="27" name="On" id="34" startTime="101150" endTime="102450" palette="23"/>
+        <Effect ref="26" name="On" id="35" startTime="103750" endTime="105000" palette="23"/>
+        <Effect ref="42" name="On" id="36" startTime="105000" endTime="106300" palette="23"/>
+        <Effect ref="27" name="On" id="37" startTime="106300" endTime="107600" palette="23"/>
+        <Effect ref="42" name="On" id="38" startTime="115350" endTime="116650" palette="23"/>
+        <Effect ref="27" name="On" id="39" startTime="116650" endTime="117950" palette="23"/>
+        <Effect ref="26" name="On" id="40" startTime="119200" endTime="120500" palette="23"/>
+        <Effect ref="42" name="On" id="41" startTime="120500" endTime="121800" palette="23"/>
+        <Effect ref="27" name="On" id="42" startTime="121800" endTime="123100" palette="23"/>
+        <Effect ref="26" name="On" id="43" startTime="124400" endTime="125700" palette="23"/>
+        <Effect ref="42" name="On" id="44" startTime="125700" endTime="126950" palette="23"/>
+        <Effect ref="27" name="On" id="45" startTime="126950" endTime="128250" palette="23"/>
+        <Effect ref="42" name="On" id="46" startTime="136000" endTime="137300" palette="23"/>
+        <Effect ref="27" name="On" id="47" startTime="137300" endTime="138600" palette="23"/>
+      </EffectLayer>
+    </Element>
   </ElementEffects>
-  <lastView>5</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>
