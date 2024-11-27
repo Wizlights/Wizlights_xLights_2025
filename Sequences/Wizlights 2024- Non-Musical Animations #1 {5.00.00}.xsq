@@ -216,11 +216,11 @@
     <DataLayer lor_params="7602281" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Forest,Oddballs,Singers,Bushes,House Front,Swirly-Twirlies,Pixels,Master Power,zAll AC,By Controller,Timez,Conventional in Logical Order,Election" active="1"/>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Forest,Oddballs,Singers,Bushes,House Front,Swirly-Twirlies,Pixels,Master Power,zAll AC,By Controller,Timez,Conventional in Logical Order,Election" active="0"/>
     <Element collapsed="0" type="timing" name="100ms" visible="1" views="zAll AC,AC Lights in Logical Order" active="0"/>
     <Element collapsed="0" type="timing" name="10 Seconds" visible="1" views="AC Lights in Logical Order,Pixel Props" active="0"/>
-    <Element collapsed="0" type="timing" name="Seconds" visible="1" views="AC Lights in Logical Order" active="0"/>
-    <Element collapsed="0" type="timing" name="5 Seconds" visible="1" views="AC Lights in Logical Order" active="1"/>
+    <Element collapsed="0" type="timing" name="Seconds" visible="1" views="AC Lights in Logical Order" active="1"/>
+    <Element collapsed="0" type="timing" name="5 Seconds" visible="1" views="AC Lights in Logical Order" active="0"/>
     <Element collapsed="0" type="model" name="Eave Pixels- All" visible="1"/>
     <Element collapsed="0" type="model" name="Fence Swags- All 01-21" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes 3 {C} (RGBW)" visible="1"/>
@@ -489,14 +489,6 @@
     <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Outside" visible="1"/>
     <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Tree Star Center" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Big Pixel 2 Right Front" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 1 Left" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 2" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 3" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 4 Center Left" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 5 Center Right" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 6" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 7" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 8 Right" visible="1"/>
     <Element collapsed="0" type="model" name="Tri-Stars" visible="1"/>
     <Element collapsed="0" type="model" name="Whole House Pixels" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Arrows 1-16" visible="1"/>
@@ -12633,30 +12625,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Tree- Big Pixel 2 Right Front">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 1 Left">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 4 Center Left">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 5 Center Right">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 6">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 7">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 8 Right">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Tri-Stars">
