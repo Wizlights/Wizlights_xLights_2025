@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.17</version>
+    <version>2024.19</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -64,13 +64,10 @@
     <Element collapsed="0" type="model" name="Wheel of Dharma" visible="1"/>
     <Element collapsed="0" type="model" name="Sorcerers Apprentice" visible="1"/>
     <Element collapsed="0" type="model" name="Star- of Bethlehem" visible="1"/>
-    <Element collapsed="0" type="model" name="Bells" visible="1"/>
     <Element collapsed="0" type="model" name="Elf Singer" visible="1"/>
     <Element collapsed="0" type="model" name="Grinch" visible="1"/>
     <Element collapsed="0" type="model" name="Calvin" visible="1"/>
-    <Element collapsed="0" type="model" name="Dreidel" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Dreidel" visible="1"/>
-    <Element collapsed="0" type="model" name="Major Award" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Major Award" visible="1"/>
     <Element collapsed="0" type="model" name="Ornament- Star 1" visible="1"/>
     <Element collapsed="0" type="model" name="Ships Wheel" visible="1"/>
@@ -520,9 +517,6 @@
     <Element type="model" name="Star- of Bethlehem">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Bells">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Elf Singer">
       <EffectLayer/>
     </Element>
@@ -532,13 +526,7 @@
     <Element type="model" name="Calvin">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Dreidel">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Matrix- Dreidel">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Major Award">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix- Major Award">

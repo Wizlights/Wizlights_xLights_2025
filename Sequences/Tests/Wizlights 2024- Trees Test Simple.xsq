@@ -260,6 +260,25 @@
     <Element collapsed="0" type="model" name="Tree- Pencil 14- Blue (B)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Pencil 15- Green (G)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Pencil 16- Red (R) {R}" visible="0"/>
+    <Element collapsed="0" type="model" name="Trees- Willow (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Strobes- C9- Trees- Tomato- Row A {F} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane01-R1" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane02-G2" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane03-R3" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane04-G4" visible="1"/>
+    <Element collapsed="0" type="model" name="Strobes- 5mm- Bushes {C} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Strobes- C9- Bushes {C} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Mailbox- Real (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="Swirlies- Snowflakes {L} (WB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Rotating Beacon 01 {F} (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="Rotating Beacon 05 {B} (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="Rotating Beacon 08 {R} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="Disco Balls {L} (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="Swirlies- Candy Canes {L} (RG)" visible="1"/>
+    <Element collapsed="0" type="model" name="UFOs 2 {CT}{L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="UFOs 3 {R}{L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath 2 Berries (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath 1 Leaves (G)" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Seconds 1000ms">
@@ -2459,6 +2478,63 @@
         <Effect ref="0" name="On" id="9" startTime="14750" endTime="15500" palette="0"/>
         <Effect ref="0" name="On" id="10" startTime="16750" endTime="17500" palette="0"/>
       </EffectLayer>
+    </Element>
+    <Element type="model" name="Trees- Willow (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strobes- C9- Trees- Tomato- Row A {F} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane01-R1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane02-G2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane03-R3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane04-G4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strobes- 5mm- Bushes {C} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strobes- C9- Bushes {C} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mailbox- Real (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Swirlies- Snowflakes {L} (WB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rotating Beacon 01 {F} (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rotating Beacon 05 {B} (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rotating Beacon 08 {R} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Disco Balls {L} (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Swirlies- Candy Canes {L} (RG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="UFOs 2 {CT}{L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="UFOs 3 {R}{L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath 2 Berries (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath 1 Leaves (G)">
+      <EffectLayer/>
     </Element>
   </ElementEffects>
   <lastView>4</lastView>

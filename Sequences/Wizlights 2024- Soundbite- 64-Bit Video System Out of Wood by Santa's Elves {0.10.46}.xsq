@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.15</version>
+    <version>2024.19</version>
     <author>Doctor Wizard</author>
     <author-email>wizard@wizlights.com</author-email>
     <author-website>https://wizlights.com</author-website>
@@ -12,9 +12,9 @@
     <comment>Extracted from &amp;quot;All You Need is Elves&amp;quot; by Bob Rivers</comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>X:\2024\xLights\Wizlights\Audio\Soundbite- 64-Bit Video System Out of Wood {0.10.46}.mp3</mediaFile>
+    <mediaFile>X:\2024\xLights\Wizlights\Audio\Soundbite- 64-Bit Video System Out of Wood by Santa's Elves {0.10.46}.mp3</mediaFile>
     <sequenceDuration>10.460</sequenceDuration>
-    <imageDir></imageDir>
+    <imageDir/>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
@@ -24,6 +24,9 @@
   <EffectDB>
     <Effect></Effect>
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Elf,E_CHOICE_Faces_TimingTrack=Lyrics- Lead Elf,E_CHOICE_Faces_UseState=Elf-SingingState</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Mean One,E_CHOICE_Faces_TimingTrack=Lyrics- Elf 4</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Boscoyo Singing Tree,E_CHOICE_Faces_TimingTrack=Lyrics- Elf 3</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Boscoyo Singing Tree,E_CHOICE_Faces_TimingTrack=Lyrics- Elf 2</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="7471171" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -58,6 +61,29 @@
     <Element collapsed="0" type="model" name="Grinch" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Female [Gwen] {L}" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Male [Blake] {R}" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="Fence Swags- All 01-21" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Mini Pixel" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes All 1-6 (Small + Big)" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes Arms" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes Centers" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes Tips" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes Spokes" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrixes- P4" visible="1"/>
+    <Element collapsed="0" type="model" name="Spinners Mint 1-12 (Big+Small)" visible="1"/>
+    <Element collapsed="0" type="model" name="Spinners Mint Big Spokes" visible="1"/>
+    <Element collapsed="0" type="model" name="Spinners Small Spokes" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes Small (4)" visible="1"/>
+    <Element collapsed="0" type="model" name="Stars- Triple 1+2+David" visible="1"/>
+    <Element collapsed="0" type="model" name="Star- of Bethlehem" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- Mega Triangle" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes- Big (2)" visible="1"/>
+    <Element collapsed="0" type="model" name="Star- Wreath Mega Triangle Topper" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- P5 Tune-To Sign" visible="1"/>
+    <Element collapsed="0" type="model" name="House Px Outline (Eaves + Roof Edges)" visible="1"/>
+    <Element collapsed="0" type="model" name="House+Yard Px- Whole- Pixels" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa" visible="1"/>
+    <Element collapsed="0" type="model" name="House Px- Whole- Pixels with Eaves and Roof" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Tenth Seconds 100ms">
@@ -417,16 +443,91 @@
       </EffectLayer>
     </Element>
     <Element type="model" name="Grinch">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="2" name="Faces" startTime="8150" endTime="10300" palette="0"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Tree- Singing Female [Gwen] {L}">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="3" name="Faces" startTime="6500" endTime="10300" palette="0"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Tree- Singing Male [Blake] {R}">
+      <EffectLayer>
+        <Effect ref="4" name="Faces" selected="1" startTime="6925" endTime="10300" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roof Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Fence Swags- All 01-21">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Mini Pixel">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes All 1-6 (Small + Big)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes Arms">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes Centers">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes Tips">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes Spokes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrixes- P4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spinners Mint 1-12 (Big+Small)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spinners Mint Big Spokes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spinners Small Spokes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes Small (4)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Stars- Triple 1+2+David">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star- of Bethlehem">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- Mega Triangle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes- Big (2)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star- Wreath Mega Triangle Topper">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- P5 Tune-To Sign">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Px Outline (Eaves + Roof Edges)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House+Yard Px- Whole- Pixels">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath- Rosa">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House Px- Whole- Pixels with Eaves and Roof">
       <EffectLayer/>
     </Element>
   </ElementEffects>
-  <lastView>13</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

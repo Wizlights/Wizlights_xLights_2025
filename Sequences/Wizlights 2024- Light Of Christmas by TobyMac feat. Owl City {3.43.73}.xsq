@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.17</version>
+    <version>2024.19</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -193,7 +193,7 @@
     <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=To Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=78,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_BufferTransform=Rotate CC 90,B_CHOICE_PerPreviewCamera=Top View of Tomato Trees,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1,T_TEXTCTRL_Fadein=00</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_BufferTransform=Rotate CC 90,B_CHOICE_PerPreviewCamera=Top View of Tomato Trees,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=To Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1,T_TEXTCTRL_Fadein=00</Effect>
-    <Effect>B_CUSTOM_SubBuffer=0.00x-1.00x100.00x128.00x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2023\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=0,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=460,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=43,E_SLIDER_SHADERXYZZY_radius2=27,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=412,E_SLIDER_Shader_Speed=669,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>B_CUSTOM_SubBuffer=0.00x-1.00x100.00x128.00x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2024\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=0,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=460,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=43,E_SLIDER_SHADERXYZZY_radius2=27,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=412,E_SLIDER_Shader_Speed=669,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,B_CHOICE_BufferTransform=Rotate CW 90,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.00;0.75:1.00;1.00:1.00|,T_TEXTCTRL_Fadeout=.25</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=25,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=26</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=30,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=27</Effect>
@@ -202,8 +202,8 @@
     <Effect>B_CHOICE_BufferStyle=Default,B_CHOICE_BufferTransform=Rotate CC 90,E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Skip_Size=0,E_VALUECURVE_Fill_Position=Active=TRUE|Id=ID_VALUECURVE_Fill_Position|Type=Ramp Up/Down|Min=0.00|Max=100.00|P2=40.00|RV=TRUE|</Effect>
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=26,T_CHOICE_LayerMethod=Brightness</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=25,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=30</Effect>
-    <Effect>B_CUSTOM_SubBuffer=0.00x-1.00x100.00x128.00x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2023\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=0,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=593,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=43,E_SLIDER_SHADERXYZZY_radius2=27,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=412,E_SLIDER_Shader_Speed=669,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
-    <Effect>B_CUSTOM_SubBuffer=0.00x-1.00x100.00x128.00x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2023\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=0,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=460,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=43,E_SLIDER_SHADERXYZZY_radius2=27,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=412,E_SLIDER_Shader_Speed=669,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>B_CUSTOM_SubBuffer=0.00x-1.00x100.00x128.00x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2024\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=0,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=593,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=43,E_SLIDER_SHADERXYZZY_radius2=27,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=412,E_SLIDER_Shader_Speed=669,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0</Effect>
+    <Effect>B_CUSTOM_SubBuffer=0.00x-1.00x100.00x128.00x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2024\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=0,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=460,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=43,E_SLIDER_SHADERXYZZY_radius2=27,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=412,E_SLIDER_Shader_Speed=669,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=69,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=13,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,E_TEXTCTRL_Eff_On_End=13,X_Effect_Locked=True</Effect>
@@ -253,8 +253,8 @@
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Mean One,E_CHOICE_Faces_TimingTrack=Lyrics Toby Mac [Grinch],T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.50</Effect>
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Mean One,E_CHOICE_Faces_TimingTrack=Lyrics Toby Mac [Grinch],T_TEXTCTRL_Fadeout=0.50</Effect>
     <Effect>B_SLIDER_Blur=3,E_CHOICE_VUMeter_TimingTrack=Beats_2,E_CHOICE_VUMeter_Type=Timing Event Random Bar,E_SLIDER_VUMeter_Bars=6,T_CHOICE_LayerMethod=Layered</Effect>
-    <Effect>B_CUSTOM_SubBuffer=0.00xActive=TRUE|Id=ID_VALUECURVE_BufferBottom|Type=Ramp|Min=-100.00|Max=99.00|P1=-100.00|RV=TRUE|x100.00xActive=TRUE|Id=ID_VALUECURVE_BufferTop|Type=Ramp|Min=1.00|Max=200.00|P1=1.00|P2=100.00|RV=TRUE|x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2023\xLights\Wizlights\Shaders\DotzMatrix.fs,E_SLIDER_SHADERXYZZY_C1=100,E_SLIDER_SHADERXYZZY_C2=38,E_SLIDER_SHADERXYZZY_C3=20,E_SLIDER_SHADERXYZZY_brightness=-33,E_SLIDER_SHADERXYZZY_gamma=50,E_SLIDER_SHADERXYZZY_pulse=323,E_SLIDER_SHADERXYZZY_radius=33,E_SLIDER_SHADERXYZZY_rate=25,E_SLIDER_SHADERXYZZY_scale=0,E_SLIDER_SHADERXYZZY_seed=60100,E_SLIDER_SHADERXYZZY_soft=6,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,E_VALUECURVE_SHADERXYZZY_scroll=Active=TRUE|Id=ID_VALUECURVE_SHADERXYZZY_scroll|Type=Ramp|Min=-5.00|Max=5.00|P2=5.00|RV=TRUE|,T_CHECKBOX_Canvas=1</Effect>
-    <Effect>E_0FILEPICKERCTRL_IFS=X:\2023\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=28,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=50,E_SLIDER_SHADERXYZZY_glow=380,E_SLIDER_SHADERXYZZY_mult=100,E_SLIDER_SHADERXYZZY_noise=1,E_SLIDER_SHADERXYZZY_radius1=25,E_SLIDER_SHADERXYZZY_radius2=33,E_SLIDER_SHADERXYZZY_rate=150,E_SLIDER_SHADERXYZZY_warp=902,E_SLIDER_Shader_Speed=50,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,T_CHECKBOX_Canvas=1,T_CHOICE_LayerMethod=Layered</Effect>
+    <Effect>B_CUSTOM_SubBuffer=0.00xActive=TRUE|Id=ID_VALUECURVE_BufferBottom|Type=Ramp|Min=-100.00|Max=99.00|P1=-100.00|RV=TRUE|x100.00xActive=TRUE|Id=ID_VALUECURVE_BufferTop|Type=Ramp|Min=1.00|Max=200.00|P1=1.00|P2=100.00|RV=TRUE|x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2024\xLights\Wizlights\Shaders\DotzMatrix.fs,E_SLIDER_SHADERXYZZY_C1=100,E_SLIDER_SHADERXYZZY_C2=38,E_SLIDER_SHADERXYZZY_C3=20,E_SLIDER_SHADERXYZZY_brightness=-33,E_SLIDER_SHADERXYZZY_gamma=50,E_SLIDER_SHADERXYZZY_pulse=323,E_SLIDER_SHADERXYZZY_radius=33,E_SLIDER_SHADERXYZZY_rate=25,E_SLIDER_SHADERXYZZY_scale=0,E_SLIDER_SHADERXYZZY_seed=60100,E_SLIDER_SHADERXYZZY_soft=6,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,E_VALUECURVE_SHADERXYZZY_scroll=Active=TRUE|Id=ID_VALUECURVE_SHADERXYZZY_scroll|Type=Ramp|Min=-5.00|Max=5.00|P2=5.00|RV=TRUE|,T_CHECKBOX_Canvas=1</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=X:\2024\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=28,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=50,E_SLIDER_SHADERXYZZY_glow=380,E_SLIDER_SHADERXYZZY_mult=100,E_SLIDER_SHADERXYZZY_noise=1,E_SLIDER_SHADERXYZZY_radius1=25,E_SLIDER_SHADERXYZZY_radius2=33,E_SLIDER_SHADERXYZZY_rate=150,E_SLIDER_SHADERXYZZY_warp=902,E_SLIDER_Shader_Speed=50,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,T_CHECKBOX_Canvas=1,T_CHOICE_LayerMethod=Layered</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Ripple3D=1,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=6,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=16,T_CHOICE_LayerMethod=Layered</Effect>
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=32,T_CHOICE_LayerMethod=Layered,T_TEXTCTRL_Fadein=15</Effect>
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=16,E_VALUECURVE_Color_Mix1=Active=TRUE|Id=ID_VALUECURVE_Color_Mix1|Type=Ramp|Min=1.00|Max=100.00|P1=10.00|P2=70.00|RV=TRUE|,T_CHOICE_LayerMethod=Layered,T_CHOICE_Out_Transition_Type=Dissolve,T_TEXTCTRL_Fadeout=.5</Effect>
@@ -264,7 +264,7 @@
     <Effect>E_CHOICE_Warp_Treatment_APPLYLAST=constant,E_CHOICE_Warp_Type=wavy,E_SLIDER_Warp_Speed=20,E_TEXTCTRL1=The warp effect distorts the pixels in the layers below it. The Canvas option in Layer Blending must be enabled for it to work.,E_TEXTCTRL_Warp_Speed=20,T_CHECKBOX_Canvas=1</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=4,E_SLIDER_Spirals_Rotation=-40,E_SLIDER_Spirals_Thickness=98,E_TEXTCTRL_Spirals_Movement=.5,T_CHOICE_LayerMethod=Brightness</Effect>
     <Effect>E_CHOICE_Warp_Treatment_APPLYLAST=constant,E_CHOICE_Warp_Type=mirror,E_SLIDER_Warp_X=50,E_SLIDER_Warp_Y=50,E_TEXTCTRL1=The warp effect distorts the pixels in the layers below it. The Canvas option in Layer Blending must be enabled for it to work.,E_TEXTCTRL_Warp_X=50,E_TEXTCTRL_Warp_Y=50,E_VALUECURVE_Warp_X=Active=TRUE|Id=ID_VALUECURVE_Warp_X|Min=0.00|Max=100.00|P1=50.00|RV=TRUE|,E_VALUECURVE_Warp_Y=Active=TRUE|Id=ID_VALUECURVE_Warp_Y|Min=0.00|Max=100.00|P1=50.00|RV=TRUE|,T_CHECKBOX_Canvas=1</Effect>
-    <Effect>E_0FILEPICKERCTRL_IFS=X:\2023\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=50,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=460,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=26,E_SLIDER_SHADERXYZZY_radius2=19,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=629,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,E_VALUECURVE_Shader_Speed=Active=TRUE|Id=ID_VALUECURVE_Shader_Speed|Type=Ramp|Min=-1000.00|Max=1000.00|P1=50.00|P2=200.00|RV=TRUE|</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=X:\2024\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=50,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=460,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=26,E_SLIDER_SHADERXYZZY_radius2=19,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=629,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,E_VALUECURVE_Shader_Speed=Active=TRUE|Id=ID_VALUECURVE_Shader_Speed|Type=Ramp|Min=-1000.00|Max=1000.00|P1=50.00|P2=200.00|RV=TRUE|</Effect>
     <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Reverse,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=95,E_SLIDER_Butterfly_Style=8,T_CHOICE_LayerMethod=Brightness</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=5,E_SLIDER_Spirals_Thickness=25,E_TEXTCTRL_Spirals_Movement=0,E_VALUECURVE_Spirals_Rotation=Active=TRUE|Id=ID_VALUECURVE_Spirals_Rotation|Type=Saw Tooth|Min=-300.00|Max=300.00|P1=-40.00|P2=40.00|P3=16.00|RV=TRUE|</Effect>
     <Effect>B_CHOICE_BufferTransform=Rotate CW 90,E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Thickness=10,E_TEXTCTRL_Spirals_Movement=10,E_VALUECURVE_Spirals_Rotation=Active=TRUE|Id=ID_VALUECURVE_Spirals_Rotation|Type=Saw Tooth|Min=-300.00|Max=300.00|P1=50.00|P2=-50.00|P3=16.00|RV=TRUE|</Effect>
@@ -294,7 +294,7 @@
     <Effect>E_CHECKBOX_Bars_3D=1,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Alternate Down,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=16,T_CHECKBOX_Canvas=1</Effect>
     <Effect>B_SLIDER_Blur=6,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=45,E_SLIDER_Shockwave_End_Width=40,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=10,T_CHOICE_LayerMethod=Brightness</Effect>
     <Effect>E_CHECKBOX_ColorWash_HFade=1,T_CHOICE_LayerMethod=Layered</Effect>
-    <Effect>B_CUSTOM_SubBuffer=0.00x-1.00x100.00x128.00x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2023\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=36,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=460,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=26,E_SLIDER_SHADERXYZZY_radius2=19,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=412,E_SLIDER_Shader_Speed=-131,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,T_TEXTCTRL_Fadeout=.5</Effect>
+    <Effect>B_CUSTOM_SubBuffer=0.00x-1.00x100.00x128.00x0.00x0.00,E_0FILEPICKERCTRL_IFS=X:\2024\xLights\Wizlights\Shaders\RainbowGlowRing.fs,E_SLIDER_SHADERXYZZY_amp=30,E_SLIDER_SHADERXYZZY_centerX=50,E_SLIDER_SHADERXYZZY_centerY=36,E_SLIDER_SHADERXYZZY_glow=600,E_SLIDER_SHADERXYZZY_mult=460,E_SLIDER_SHADERXYZZY_noise=24,E_SLIDER_SHADERXYZZY_radius1=26,E_SLIDER_SHADERXYZZY_radius2=19,E_SLIDER_SHADERXYZZY_rate=190,E_SLIDER_SHADERXYZZY_warp=412,E_SLIDER_Shader_Speed=-131,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=0,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,B_CUSTOM_SubBuffer=0.00x0.00x50.00x100.00x0.00x0.00,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=22,E_SLIDER_Shockwave_End_Width=25,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=5,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Blades,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=100,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=32,E_SLIDER_Fan_Num_Blades=2,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=720,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=6,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=1,E_NOTEBOOK_Fan=Options,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=100,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=32,E_SLIDER_Fan_Num_Blades=2,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=720,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=6,X_Effect_Locked=True</Effect>
@@ -398,7 +398,7 @@
     <Element collapsed="0" type="model" name="Fence Swags- Even 2468..." visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes Small (4)" visible="1"/>
     <Element collapsed="0" type="model" name="Star- of Bethlehem" visible="1"/>
-    <Element collapsed="0" type="timing" name="Seconds" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Seconds" visible="1" views="AC Lights in Logical Order" active="0"/>
     <Element collapsed="0" type="timing" name="Quarter Seconds 250ms" visible="1" views="Singing and Sound Effects,LOR AC-DC DMX" active="0"/>
     <Element collapsed="0" type="timing" name="Bars (Whole notes, (4 Quarter notes))" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Chords" visible="1" views="" active="0"/>
@@ -406,17 +406,14 @@
     <Element collapsed="0" type="timing" name="Note Onsets" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Pitch and Key Transcription" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Half Seconds 500ms" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Tenth Seconds 100ms" visible="1" views="LOR AC-DC DMX" active="0"/>
+    <Element collapsed="0" type="timing" name="Tenth Seconds 100ms" visible="1" views="LOR AC-DC DMX,AC Lights in Logical Order" active="1"/>
     <Element collapsed="0" type="timing" name="Polyphonic Transcription" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Tempo Changes" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="model" name="Bells" visible="1"/>
     <Element collapsed="0" type="model" name="Calvin" visible="1"/>
-    <Element collapsed="0" type="model" name="Dreidel" visible="1"/>
     <Element collapsed="0" type="model" name="Elf Singer" visible="1"/>
     <Element collapsed="0" type="model" name="Flakes Arms GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE Rosa Wreath GRP" visible="1"/>
     <Element collapsed="0" type="model" name="Grinch" visible="1"/>
-    <Element collapsed="0" type="model" name="Major Award" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Dreidel" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Major Award" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Mega Triangle" visible="1"/>
@@ -474,14 +471,6 @@
     <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Outside" visible="1"/>
     <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Tree Star Center" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Big Pixel 2 Right Front" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 1 Left" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 2" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 3" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 4 Center Left" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 5 Center Right" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 6" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 7" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 8 Right" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Female [Gwen] {L}" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Male [Blake] {R}" visible="1"/>
     <Element collapsed="0" type="model" name="Tri-Stars" visible="1"/>
@@ -578,10 +567,6 @@
     <Element collapsed="0" type="model" name="Lasers- House Front (RGB)" visible="0"/>
     <Element collapsed="0" type="model" name="Laser- Streetlight (R)" visible="0"/>
     <Element collapsed="0" type="model" name="Snow Lake with Deer (W)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 2 (G)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 1 (R)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 3 (B)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 4 (W)" visible="0"/>
     <Element collapsed="0" type="model" name="On The Air (R)" visible="0"/>
     <Element collapsed="0" type="model" name="Amplifier 12V" visible="0"/>
     <Element collapsed="0" type="model" name="Transmitter 12V" visible="0"/>
@@ -595,7 +580,6 @@
     <Element collapsed="0" type="model" name="Bushes 5 {R} RGBW Group (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Candy Canes Seq Group (RGRG)" visible="1"/>
     <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
-    <Element collapsed="0" type="model" name="Eaves Chase (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Lasers Group" visible="1"/>
     <Element collapsed="0" type="model" name="Mailboxes (Y)" visible="1"/>
     <Element collapsed="0" type="model" name="Major Award Outline (New)" visible="1"/>
@@ -716,14 +700,6 @@
     <Element collapsed="0" type="model" name="Ships Wheel with wood background" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Row B As String (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="Nativity Scene" visible="0"/>
-    <Element collapsed="0" type="model" name="xCtlr A Tomato Trees Row A" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr B- Tomato Trees Row B" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr C- Other Trees" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr D- Left Bushes" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr E- Center Bushes" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr G- 12 Volts Chinese" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr I- House Front and Roof" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr J- Right Bushes" visible="1"/>
     <Element collapsed="0" type="model" name="Pixels- Absolutely All incl Singers" visible="1"/>
     <Element collapsed="0" type="model" name="Nativity Floods {LR} (RGB)" visible="0"/>
     <Element collapsed="0" type="timing" name="Sections" visible="1" views="" active="0"/>
@@ -736,6 +712,51 @@
     <Element collapsed="0" type="model" name="Rainbow Rope Arches" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Even 2-16" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Odd 1-15" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr A and B ch1-32 Tomato Trees Row A" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr C ch33-48 Tomato Trees Row B" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr E ch65-80 Other Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr F ch81-96 Left Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr G ch97-112 Left Yard" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr N 12 Volt Stuff" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr M House Front and Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr Q Right Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Pencil 1-16 (Multi)" visible="1"/>
+    <Element collapsed="0" type="model" name="Major Award with Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Bells (both) All 3 Bells" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Willow (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Strobes- C9- Trees- Tomato- Row A {F} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane01-R1" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane02-G2" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane03-R3" visible="1"/>
+    <Element collapsed="0" type="model" name="CandyCane04-G4" visible="1"/>
+    <Element collapsed="0" type="model" name="Strobes- 5mm- Bushes {C} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Strobes- C9- Bushes {C} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="UFOs 1 {L}{L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Mailbox- Real (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Rainbow 1 {T} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Disco Balls {L} (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="UFOs 2 {CT}{L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="UFOs 3 {R}{L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath 2 Berries (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath 1 Leaves (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="Strobes- C9- Bushes {R} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes 2.1 {L} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes 2.2 {L} (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="Bushes 2.3 {L} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 4 {L} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral 2 {R} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 1 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 2 (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 3 (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 4 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Spiral 1-4 (WWWG)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row B By Color R G B W" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Rows A+B Wht Indiv Group" visible="1"/>
+    <Element collapsed="0" type="model" name="All (nearly) Pixel Props And AC Props" visible="1"/>
+    <Element collapsed="0" type="model" name="Nativity Animals" visible="0"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Full Beats (Quarter notes)">
@@ -10403,13 +10424,7 @@
         <Effect label="123" startTime="216375" endTime="223725"></Effect>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Bells">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Calvin">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Dreidel">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Elf Singer">
@@ -10442,9 +10457,6 @@
         <Effect ref="123" name="Faces" id="5" startTime="203600" endTime="211225" palette="61"/>
         <Effect ref="122" name="Faces" id="6" startTime="213450" endTime="219125" palette="61"/>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Major Award">
-      <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix- Dreidel">
       <EffectLayer/>
@@ -11318,30 +11330,6 @@
     <Element type="model" name="Tree- Big Pixel 2 Right Front">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 1 Left">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 4 Center Left">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 5 Center Right">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 6">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 7">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 8 Right">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Tree- Singing Female [Gwen] {L}">
       <EffectLayer>
         <Effect ref="228" name="Faces" startTime="39275" endTime="72975" palette="96"/>
@@ -11884,18 +11872,6 @@
     <Element type="model" name="Snow Lake with Deer (W)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Eaves Chase 2 (G)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase 1 (R)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase 3 (B)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase 4 (W)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="On The Air (R)">
       <EffectLayer>
         <Effect ref="231" name="On" startTime="0" endTime="223800" palette="101"/>
@@ -11943,9 +11919,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Dumb RGB Items Group">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase (RGBW)">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Lasers Group">
@@ -15281,30 +15254,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Nativity Scene">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr A Tomato Trees Row A">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr B- Tomato Trees Row B">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr C- Other Trees">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr D- Left Bushes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr E- Center Bushes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr G- 12 Volts Chinese">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr I- House Front and Roof">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr J- Right Bushes">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Pixels- Absolutely All incl Singers">
@@ -19532,8 +19481,147 @@
     <Element type="model" name="Wreath- Rosa- Feathers Odd 1-15">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="xCtlr A and B ch1-32 Tomato Trees Row A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr C ch33-48 Tomato Trees Row B">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr E ch65-80 Other Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr F ch81-96 Left Bushes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr G ch97-112 Left Yard">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr N 12 Volt Stuff">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr M House Front and Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr Q Right Bushes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Pencil 1-16 (Multi)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Major Award with Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bells (both) All 3 Bells">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Willow (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strobes- C9- Trees- Tomato- Row A {F} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane01-R1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane02-G2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane03-R3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="CandyCane04-G4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strobes- 5mm- Bushes {C} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strobes- C9- Bushes {C} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="UFOs 1 {L}{L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mailbox- Real (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Rainbow 1 {T} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Disco Balls {L} (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="UFOs 2 {CT}{L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="UFOs 3 {R}{L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath 2 Berries (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wreath 1 Leaves (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Strobes- C9- Bushes {R} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes 2.1 {L} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes 2.2 {L} (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bushes 2.3 {L} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral 4 {L} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral 1 {B} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral 3 {F} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral 2 {R} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zEaves Chase 1 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zEaves Chase 2 (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zEaves Chase 3 (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zEaves Chase 4 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Spiral 1-4 (WWWG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row B By Color R G B W">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Rows A+B Wht Indiv Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All (nearly) Pixel Props And AC Props">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Nativity Animals">
+      <EffectLayer>
+        <Effect ref="230" name="On" startTime="1600" endTime="2600" palette="101"/>
+        <Effect ref="231" name="On" id="1" startTime="2600" endTime="218200" palette="101"/>
+        <Effect ref="232" name="On" id="2" startTime="218200" endTime="220100" palette="101"/>
+      </EffectLayer>
+    </Element>
   </ElementEffects>
-  <lastView>5</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

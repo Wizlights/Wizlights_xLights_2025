@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.17</version>
+    <version>2024.19</version>
     <author>Doctor Wizard and XLATW</author>
     <author-email>wizard@wizlights.com</author-email>
     <author-website>https://wizlights.com</author-website>
@@ -164,6 +164,7 @@
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=Active=TRUE|Id=ID_BUTTON_Palette2|Values=x=0.000^c=#ff0000;x=0.200^c=#ffff00;x=0.400^c=#00ff00;x=0.600^c=#00ffff;x=0.800^c=#0000ff;x=1.000^c=#ff00ff|,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=Active=TRUE|Id=ID_BUTTON_Palette2|Values=x=0.000^c=#ff0000;x=0.200^c=#ffff00;x=0.400^c=#00ff00;x=0.600^c=#00ffff;x=0.800^c=#0000ff;x=1.000^c=#ff00ff|,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=Active=TRUE|Id=ID_BUTTON_Palette2|Values=x=0.000^c=#ff0000;x=0.200^c=#ffff00;x=0.400^c=#00ff00;x=0.600^c=#00ffff;x=0.800^c=#0000ff;x=1.000^c=#ff00ff|,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=216,E_SLIDER_Shockwave_End_Width=35,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=0</Effect>
@@ -332,12 +333,13 @@
     <Effect>T_TEXTCTRL_Fadein=17.0,T_TEXTCTRL_Fadeout=6.0</Effect>
     <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=2,E_SLIDER_Twinkle_Steps=22,T_TEXTCTRL_Fadein=1</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=0,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=57,E_SLIDER_Shockwave_End_Width=33,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=55</Effect>
+    <Effect>E_CHECKBOX_On_Shimmer=0,E_TEXTCTRL_Eff_On_End=100,E_TEXTCTRL_Eff_On_Start=0,E_TEXTCTRL_On_Cycles=1.0,E_TEXTCTRL_On_Transparency=0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="7471171" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="timing" name="Tenth Seconds 100ms" visible="1" views="Pixel Props,AC Lights in Logical Order,Trees (AC and Pixel)" active="0"/>
+    <Element collapsed="0" type="timing" name="Tenth Seconds 100ms" visible="1" views="Pixel Props,AC Lights in Logical Order,Trees (AC and Pixel)" active="1"/>
     <Element collapsed="0" type="timing" name="Seconds 1000ms" visible="1" views="Pixel Props,AC Lights in Logical Order,Trees (AC and Pixel)" active="0"/>
     <Element collapsed="0" type="model" name="All (nearly) Pixel Props And AC Trees" visible="1"/>
     <Element collapsed="0" type="model" name="Pixels- Absolutely All incl Singers" visible="1"/>
@@ -384,14 +386,14 @@
     <Element collapsed="0" type="model" name="Star- of Bethlehem" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Spiral Pixel with Star" visible="1"/>
     <Element collapsed="0" type="model" name="Major Award with Matrix" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 1 Left" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 2" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 3" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 4 Center Left" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 5 Center Right" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 6" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 7" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 8 Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A1 Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A4 Center Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A5 Center Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A6" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A7" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A8 Right" visible="0"/>
     <Element collapsed="0" type="model" name="Snowflake 1 Arrow" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake 2 Two-Prong" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake 3 Three-Prong" visible="1"/>
@@ -480,6 +482,9 @@
     <Element collapsed="0" type="model" name="Star- Triple 2.1 Outer {R}" visible="0"/>
     <Element collapsed="0" type="model" name="Star- Triple 2.2 Middle {R}" visible="0"/>
     <Element collapsed="0" type="model" name="Star- Triple 2.3 Inner {R}" visible="0"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Rows A+B Wht Indiv Group" visible="1"/>
+    <Element collapsed="0" type="model" name="All (nearly) Pixel Props And AC Props" visible="1"/>
+    <Element collapsed="0" type="model" name="Nativity Animals" visible="0"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Tenth Seconds 100ms">
@@ -4603,7 +4608,7 @@
     <Element type="model" name="Major Award with Matrix">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 1 Left">
+    <Element type="model" name="Tree- Mini Pixel A1 Left">
       <EffectLayer>
         <Effect ref="149" name="Shockwave" startTime="11300" endTime="12725" palette="113"/>
         <Effect ref="149" name="Shockwave" id="1" startTime="36875" endTime="39400" palette="48"/>
@@ -4627,7 +4632,7 @@
         <Effect ref="149" name="Shockwave" id="19" startTime="216875" endTime="219225" palette="116"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 2">
+    <Element type="model" name="Tree- Mini Pixel A2">
       <EffectLayer>
         <Effect ref="149" name="Shockwave" startTime="10625" endTime="12100" palette="113"/>
         <Effect ref="149" name="Shockwave" id="1" startTime="29725" endTime="32200" palette="63"/>
@@ -4667,7 +4672,7 @@
         <Effect ref="149" name="Shockwave" id="35" startTime="214550" endTime="216850" palette="126"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 3">
+    <Element type="model" name="Tree- Mini Pixel A3">
       <EffectLayer>
         <Effect ref="149" name="Shockwave" startTime="9975" endTime="11425" palette="113"/>
         <Effect ref="149" name="Shockwave" id="1" startTime="32200" endTime="34425" palette="47"/>
@@ -4719,7 +4724,7 @@
         <Effect ref="149" name="Shockwave" id="11" startTime="216875" endTime="219225" palette="116"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 4 Center Left">
+    <Element type="model" name="Tree- Mini Pixel A4 Center Left">
       <EffectLayer>
         <Effect ref="149" name="Shockwave" startTime="9525" endTime="10975" palette="113"/>
         <Effect ref="149" name="Shockwave" id="1" startTime="12450" endTime="14000" palette="113"/>
@@ -4769,7 +4774,7 @@
         <Effect ref="149" name="Shockwave" id="45" startTime="214550" endTime="216850" palette="126"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 5 Center Right">
+    <Element type="model" name="Tree- Mini Pixel A5 Center Right">
       <EffectLayer>
         <Effect ref="149" name="Shockwave" startTime="8475" endTime="9825" palette="113"/>
         <Effect ref="149" name="Shockwave" id="1" startTime="12850" endTime="14400" palette="113"/>
@@ -4824,7 +4829,7 @@
         <Effect ref="149" name="Shockwave" id="19" startTime="216875" endTime="219225" palette="116"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 6">
+    <Element type="model" name="Tree- Mini Pixel A6">
       <EffectLayer>
         <Effect ref="149" name="Shockwave" startTime="8325" endTime="9625" palette="113"/>
         <Effect ref="149" name="Shockwave" id="1" startTime="14350" endTime="15825" palette="113"/>
@@ -4877,7 +4882,7 @@
         <Effect ref="149" name="Shockwave" id="7" startTime="214550" endTime="216850" palette="126"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 7">
+    <Element type="model" name="Tree- Mini Pixel A7">
       <EffectLayer>
         <Effect ref="149" name="Shockwave" startTime="7750" endTime="9000" palette="113"/>
         <Effect ref="149" name="Shockwave" id="1" startTime="15900" endTime="17375" palette="113"/>
@@ -4910,7 +4915,7 @@
         <Effect ref="149" name="Shockwave" id="28" startTime="209750" endTime="212025" palette="128"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 8 Right">
+    <Element type="model" name="Tree- Mini Pixel A8 Right">
       <EffectLayer>
         <Effect ref="149" name="Shockwave" startTime="6950" endTime="8175" palette="113"/>
         <Effect ref="149" name="Shockwave" id="1" startTime="74750" endTime="77125" palette="130"/>
@@ -7954,7 +7959,7 @@
     </Element>
     <Element type="model" name="Snow Lake (W)">
       <EffectLayer>
-        <Effect ref="163" name="On" id="1" startTime="3875" endTime="225600" palette="68"/>
+        <Effect ref="163" name="On" startTime="3875" endTime="225600" palette="68"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Snowfall Projectors (WB)">
@@ -8556,6 +8561,17 @@
         <Effect ref="165" name="Shockwave" id="7" startTime="193175" endTime="195525" palette="136"/>
         <Effect ref="165" name="Shockwave" id="8" startTime="202675" endTime="205000" palette="136"/>
         <Effect ref="165" name="Shockwave" id="9" startTime="212050" endTime="214250" palette="136"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Trees- Tomato Rows A+B Wht Indiv Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All (nearly) Pixel Props And AC Props">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Nativity Animals">
+      <EffectLayer>
+        <Effect ref="166" name="On" startTime="10700" endTime="207375" palette="145"/>
       </EffectLayer>
     </Element>
   </ElementEffects>

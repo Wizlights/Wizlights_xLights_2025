@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.17</version>
+    <version>2024.19</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -109,7 +109,7 @@
     <Element collapsed="0" type="timing" name="Tenths Second 100ms" visible="1" views="All Timings,LOR AC-DC DMX" active="0"/>
     <Element collapsed="0" type="timing" name="Seconds" visible="1" views="All Timings,LOR AC-DC DMX" active="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1 Group (RGBW)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eaves Chase (RGBW)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels- All" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A2 Group (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A3 Group (RGBW)" visible="1"/>
@@ -156,13 +156,6 @@
     <Element collapsed="0" type="model" name="Swirlies Spinny Group (M) (DMX)" visible="1"/>
     <Element collapsed="0" type="model" name="Lasers Group" visible="1"/>
     <Element collapsed="0" type="model" name="Candy Canes Seq Group (RGRG)" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr I- House Front and Roof" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr B- Tomato Trees Row B" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr C- Other Trees" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr D- Left Bushes" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr E- Center Bushes" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr G- 12 Volts Chinese" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr J- Right Bushes" visible="1"/>
     <Element collapsed="0" type="model" name="Snow Lake with Deer (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Rainbow (ROYGBV)" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- C9- Trees {FC} (W)" visible="1"/>
@@ -194,7 +187,6 @@
     <Element collapsed="0" type="model" name="Trees- Tomatos (All) (RGBWVW)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Rainbow Inflatible" visible="1"/>
     <Element collapsed="0" type="model" name="Power Items" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr A Tomato Trees Row A" visible="1"/>
     <Element collapsed="0" type="model" name="Pixels House Front" visible="1"/>
     <Element collapsed="0" type="model" name="Rotating Beacons 3 {R} {BGO}" visible="1"/>
     <Element collapsed="0" type="model" name="w All AC Channels in DMX Order" visible="1"/>
@@ -208,7 +200,6 @@
     <Element collapsed="0" type="model" name="GE RosaWreath Spokes GRP" visible="1"/>
     <Element collapsed="0" type="model" name="Grinch with Pic" visible="1"/>
     <Element collapsed="0" type="model" name="{Reference Indicators}" visible="1"/>
-    <Element collapsed="0" type="model" name="Bells" visible="1"/>
     <Element collapsed="0" type="model" name="Dreidel with matrix and pic" visible="1"/>
     <Element collapsed="0" type="model" name="TriStar 1" visible="1"/>
     <Element collapsed="0" type="model" name="TriStar 2" visible="1"/>
@@ -217,7 +208,6 @@
     <Element collapsed="0" type="model" name="Trees- Mini Pixel" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 9-12 (15in Small) Vertical Group" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners Mint 1-8 (22in Big) Horizontal Group" visible="1"/>
-    <Element collapsed="0" type="model" name="Major Award" visible="1"/>
     <Element collapsed="0" type="model" name="Whole House Pixels" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1 Group (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A2 Group (RGB)" visible="1"/>
@@ -242,7 +232,6 @@
     <Element collapsed="0" type="model" name="Snowflakes and Spinners Legs" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes and Spinners Rings" visible="1"/>
     <Element collapsed="0" type="model" name="Pixels- (nearly) ALL for Grinch Song" visible="1"/>
-    <Element collapsed="0" type="model" name="Pixels- (nearly) ALL except singers" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners and Snowflakes" visible="1"/>
     <Element collapsed="0" type="model" name="Mega Triangle and Star Wreath" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Rings 1-8" visible="1"/>
@@ -284,7 +273,6 @@
     <Element collapsed="0" type="model" name="{Axis-Z Arrow}" visible="1"/>
     <Element collapsed="0" type="model" name="{Axis-X Arrow}" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Dreidel" visible="1"/>
-    <Element collapsed="0" type="model" name="Dreidel" visible="1"/>
     <Element collapsed="0" type="model" name="Spinner Mint 08 (22in Big) {R} Pic" visible="1"/>
     <Element collapsed="0" type="model" name="Nativity Shepherds" visible="1"/>
     <Element collapsed="0" type="model" name="Nativity Wisemen" visible="1"/>
@@ -451,8 +439,8 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A7.1 (R)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A8.1 {R} (R)" visible="1"/>
     <Element collapsed="0" type="model" name="CandyCane01-R1" visible="1"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 2 (G)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 1 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 2 (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 1 (R)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1.1 (L} (R)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A2.1 (R)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A2.2 (G)" visible="1"/>
@@ -461,8 +449,8 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A1.4 {L} (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1.3 (L} (B)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1.2 (L} (G)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 3 (B)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 4 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 3 (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 4 (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels 1 {L} Horiz (216)" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels 2 {L} Diag (188)" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels 3 {R} Diag (184)" visible="1"/>
@@ -603,14 +591,6 @@
     <Element collapsed="0" type="model" name="Spinner Mint 10 (15in Small)" visible="1"/>
     <Element collapsed="0" type="model" name="Spinner Mint 11 (15in Small)" visible="1"/>
     <Element collapsed="0" type="model" name="Spinner Mint 12 (15in Small) {B}" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 1 Left" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 2" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 3" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 4 Center Left" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 5 Center Right" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 6" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 7" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 8 Right" visible="1"/>
     <Element collapsed="0" type="model" name="z Roof Ridgeline 2 {R} (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="z Roof Ridgeline 1 {L} (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (W)" visible="1"/>
@@ -1324,7 +1304,7 @@
     <Element type="model" name="Tree- Tomato A1 Group (RGBW)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Eaves Chase (RGBW)">
+    <Element type="model" name="zEaves Chase (RGBW)">
       <EffectLayer>
         <Effect ref="0" name="On" startTime="1800" endTime="2400" palette="0"/>
         <Effect ref="0" name="On" id="1" startTime="2400" endTime="2600" palette="1"/>
@@ -1669,27 +1649,6 @@
     <Element type="model" name="Candy Canes Seq Group (RGRG)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="xCtlr I- House Front and Roof">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr B- Tomato Trees Row B">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr C- Other Trees">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr D- Left Bushes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr E- Center Bushes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr G- 12 Volts Chinese">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr J- Right Bushes">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Snow Lake with Deer (W)">
       <EffectLayer/>
     </Element>
@@ -1841,9 +1800,6 @@
     <Element type="model" name="Power Items">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="xCtlr A Tomato Trees Row A">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Pixels House Front">
       <EffectLayer/>
     </Element>
@@ -1885,9 +1841,6 @@
     <Element type="model" name="{Reference Indicators}">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Bells">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Dreidel with matrix and pic">
       <EffectLayer/>
     </Element>
@@ -1910,9 +1863,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Spinners Mint 1-8 (22in Big) Horizontal Group">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Major Award">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Whole House Pixels">
@@ -1985,9 +1935,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Pixels- (nearly) ALL for Grinch Song">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Pixels- (nearly) ALL except singers">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Spinners and Snowflakes">
@@ -2111,9 +2058,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix- Dreidel">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Dreidel">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Spinner Mint 08 (22in Big) {R} Pic">
@@ -3152,7 +3096,7 @@
     <Element type="model" name="CandyCane01-R1">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Eaves Chase 2 (G)">
+    <Element type="model" name="zEaves Chase 2 (G)">
       <EffectLayer>
         <Effect ref="0" name="On" startTime="450" endTime="600" palette="8"/>
         <Effect ref="30" name="On" id="1" startTime="650" endTime="700" palette="8"/>
@@ -3201,7 +3145,7 @@
         <Effect ref="0" name="On" id="44" startTime="21500" endTime="22300" palette="8"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Eaves Chase 1 (R)">
+    <Element type="model" name="zEaves Chase 1 (R)">
       <EffectLayer>
         <Effect ref="7" name="On" startTime="450" endTime="550" palette="8"/>
         <Effect ref="5" name="On" id="1" startTime="950" endTime="1050" palette="8"/>
@@ -3286,7 +3230,7 @@
     <Element type="model" name="Tree- Tomato A1.2 (L} (G)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Eaves Chase 3 (B)">
+    <Element type="model" name="zEaves Chase 3 (B)">
       <EffectLayer>
         <Effect ref="33" name="On" startTime="800" endTime="850" palette="8"/>
         <Effect ref="0" name="On" id="1" startTime="850" endTime="1050" palette="8"/>
@@ -3333,7 +3277,7 @@
         <Effect ref="0" name="On" id="42" startTime="22100" endTime="22500" palette="8"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Eaves Chase 4 (W)">
+    <Element type="model" name="zEaves Chase 4 (W)">
       <EffectLayer>
         <Effect ref="7" name="On" startTime="500" endTime="725" palette="8"/>
         <Effect ref="32" name="On" id="1" startTime="550" endTime="600" palette="8"/>
@@ -6076,30 +6020,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Spinner Mint 12 (15in Small) {B}">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 1 Left">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 4 Center Left">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 5 Center Right">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 6">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 7">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 8 Right">
       <EffectLayer/>
     </Element>
     <Element type="model" name="z Roof Ridgeline 2 {R} (RGB)">

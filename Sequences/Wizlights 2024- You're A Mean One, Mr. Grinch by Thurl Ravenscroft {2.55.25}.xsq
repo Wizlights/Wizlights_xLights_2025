@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.15</version>
+    <version>2024.19</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -202,8 +202,8 @@
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=2,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Vertical Stack,E_CHOICE_Garlands_Direction=Up,E_SLIDER_Garlands_Spacing=10,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=1.0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=250,E_SLIDER_Shockwave_End_Width=30,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=30,X_Effect_Locked=True</Effect>
-    <Effect>E_0FILEPICKERCTRL_IFS=X:\2023\xLights\Wizlights\Shaders\Zoom Loop.fs,E_SLIDER_SHADERXYZZY_fieldOfView=1250,E_SLIDER_SHADERXYZZY_horizonDistance=8915,E_SLIDER_SHADERXYZZY_peaks=2000,E_SLIDER_SHADERXYZZY_rotationSpeed=100,E_SLIDER_SHADERXYZZY_smoothStep1X=20,E_SLIDER_SHADERXYZZY_smoothStep1Y=36,E_SLIDER_SHADERXYZZY_smoothStep2X=89,E_SLIDER_SHADERXYZZY_smoothStep2Y=100,E_SLIDER_SHADERXYZZY_zoomSpeed=10,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,T_CHOICE_LayerMethod=1 is Unmask,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
-    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_0FILEPICKERCTRL_IFS=X:\2023\xLights\Wizlights\Shaders\Zoom Loop.fs,E_SLIDER_SHADERXYZZY_fieldOfView=1250,E_SLIDER_SHADERXYZZY_horizonDistance=8915,E_SLIDER_SHADERXYZZY_peaks=2000,E_SLIDER_SHADERXYZZY_rotationSpeed=100,E_SLIDER_SHADERXYZZY_smoothStep1X=20,E_SLIDER_SHADERXYZZY_smoothStep1Y=36,E_SLIDER_SHADERXYZZY_smoothStep2X=89,E_SLIDER_SHADERXYZZY_smoothStep2Y=100,E_SLIDER_SHADERXYZZY_zoomSpeed=10,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,T_CHOICE_LayerMethod=1 is Unmask,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=X:\2024\xLights\Wizlights\Shaders\Zoom Loop.fs,E_SLIDER_SHADERXYZZY_fieldOfView=1250,E_SLIDER_SHADERXYZZY_horizonDistance=8915,E_SLIDER_SHADERXYZZY_peaks=2000,E_SLIDER_SHADERXYZZY_rotationSpeed=100,E_SLIDER_SHADERXYZZY_smoothStep1X=20,E_SLIDER_SHADERXYZZY_smoothStep1Y=36,E_SLIDER_SHADERXYZZY_smoothStep2X=89,E_SLIDER_SHADERXYZZY_smoothStep2Y=100,E_SLIDER_SHADERXYZZY_zoomSpeed=10,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,T_CHOICE_LayerMethod=1 is Unmask,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_0FILEPICKERCTRL_IFS=X:\2024\xLights\Wizlights\Shaders\Zoom Loop.fs,E_SLIDER_SHADERXYZZY_fieldOfView=1250,E_SLIDER_SHADERXYZZY_horizonDistance=8915,E_SLIDER_SHADERXYZZY_peaks=2000,E_SLIDER_SHADERXYZZY_rotationSpeed=100,E_SLIDER_SHADERXYZZY_smoothStep1X=20,E_SLIDER_SHADERXYZZY_smoothStep1Y=36,E_SLIDER_SHADERXYZZY_smoothStep2X=89,E_SLIDER_SHADERXYZZY_smoothStep2Y=100,E_SLIDER_SHADERXYZZY_zoomSpeed=10,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,T_CHOICE_LayerMethod=1 is Unmask,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
     <Effect>B_CUSTOM_SubBuffer=-100.00x-100.00x200.00x200.00,T_CHOICE_LayerMethod=Layered,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Default,B_CHOICE_BufferTransform=Rotate CC 90,E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=New Render Method,E_SLIDER_Twinkle_Count=3,E_SLIDER_Twinkle_Steps=30,T_TEXTCTRL_Fadeout=0.1,X_Effect_Locked=True</Effect>
     <Effect>B_CUSTOM_SubBuffer=-100.00x-100.00x200.00x200.00,E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=80,E_SLIDER_Plasma_Style=10,X_Effect_Locked=True</Effect>
@@ -378,9 +378,9 @@
     <Effect>B_CHOICE_BufferStyle=Default,B_CHOICE_BufferTransform=Rotate CC 90,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=None,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=40,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Pinwheel_Rotation=0,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=3,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Thickness=20,E_SLIDER_Pinwheel_Twist=0,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=0.5,X_Effect_Locked=True</Effect>
     <Effect>E_CHOICE_Garlands_Direction=Down,E_SLIDER_Garlands_Spacing=10,E_SLIDER_Garlands_Type=0,E_TEXTCTRL_Garlands_Cycles=1.0,T_TEXTCTRL_Fadeout=0.1,X_Effect_Locked=True</Effect>
+    <Effect>T_TEXTCTRL_Fadein=3.00,T_TEXTCTRL_Fadeout=2.00</Effect>
     <Effect>T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.00</Effect>
     <Effect>T_TEXTCTRL_Fadein=3.0,T_TEXTCTRL_Fadeout=2.00</Effect>
-    <Effect>T_TEXTCTRL_Fadein=3.00,T_TEXTCTRL_Fadeout=2.00</Effect>
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Elf,E_CHOICE_Faces_TimingTrack=Vocals,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=0.5,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Morph_AutoRepeat=0,E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=Start,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=80,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=96,E_SLIDER_Morph_End_X2=53,E_SLIDER_Morph_End_Y1=49,E_SLIDER_Morph_End_Y2=1,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=53,E_SLIDER_Morph_Start_X2=53,E_SLIDER_Morph_Start_Y1=49,E_SLIDER_Morph_Start_Y2=49,T_CHOICE_LayerMethod=Average</Effect>
     <Effect>E_CHECKBOX_Morph_AutoRepeat=0,E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=Start,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=61,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=3,E_SLIDER_Morph_End_X2=3,E_SLIDER_Morph_End_Y1=99,E_SLIDER_Morph_End_Y2=99,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=3,E_SLIDER_Morph_Start_X2=46,E_SLIDER_Morph_Start_Y1=51,E_SLIDER_Morph_Start_Y2=99,T_CHOICE_LayerMethod=Average</Effect>
@@ -424,7 +424,7 @@
     <Effect>B_CHOICE_BufferStyle=Per Model Default,B_CHOICE_BufferTransform=Rotate CC 90,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=30,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=18,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHECKBOX_Circles_Bounce=0,E_CHECKBOX_Circles_Bubbles=0,E_CHECKBOX_Circles_Collide=0,E_CHECKBOX_Circles_Linear_Fade=1,E_CHECKBOX_Circles_Plasma=0,E_CHECKBOX_Circles_Radial=0,E_CHECKBOX_Circles_Radial_3D=0,E_CHECKBOX_Circles_Random_m=0,E_SLIDER_Circles_Count=10,E_SLIDER_Circles_Size=20,E_SLIDER_Circles_Speed=10,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Horizontal Stack,E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=50,E_TEXTCTRL_Spirals_Movement=3,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=X:\2023\xLights\Wizlights\Videos\Spider Walk Cycle.mp4,E_TEXTCTRL_Duration=0:23.360,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=4.94,E_TEXTCTRL_Video_TransparentBlack=0,T_CHOICE_LayerMethod=Layered,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Normal,E_FILEPICKERCTRL_Video_Filename=X:\2024\xLights\Wizlights\Videos\Spider Walk Cycle.mp4,E_TEXTCTRL_Duration=0:23.360,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=4.94,E_TEXTCTRL_Video_TransparentBlack=0,T_CHOICE_LayerMethod=Layered,T_TEXTCTRL_Fadein=0.25,T_TEXTCTRL_Fadeout=0.25,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferTransform=Rotate CC 90,E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=10,E_SLIDER_Number_Segments=12,T_TEXTCTRL_Fadeout=0.10,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=100,E_SLIDER_Ripple_XC=0,E_SLIDER_Ripple_YC=0,E_TEXTCTRL_Ripple_Cycles=1.0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Boscoyo Singing Tree,E_CHOICE_Faces_TimingTrack=Lyrics- Thurl,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=0.5</Effect>
@@ -449,7 +449,7 @@
     <Element collapsed="0" type="timing" name="Lyric" visible="1" views="Import xTreme" active="0"/>
     <Element collapsed="0" type="model" name="Pixels House Front" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels- All" visible="1"/>
-    <Element collapsed="0" type="timing" name="10th Second 100ms Metronome" visible="1" views="Import xTreme,LOR AC-DC DMX" active="0"/>
+    <Element collapsed="0" type="timing" name="10th Second 100ms Metronome" visible="1" views="Import xTreme,LOR AC-DC DMX,AC Lights in Logical Order" active="1"/>
     <Element collapsed="0" type="timing" name="Frames 25ms 40FPS" visible="1" views="Import xTreme" active="0"/>
     <Element collapsed="0" type="model" name="Tree- Big Pixel 1 Left Center" visible="1"/>
     <Element collapsed="0" type="model" name="Tree Star 1- Big Pixel 1 Outside" visible="1"/>
@@ -472,16 +472,13 @@
     <Element collapsed="0" type="model" name="Snowflake 6 Big" visible="1"/>
     <Element collapsed="0" type="model" name="Spinner Mint 04 (22in Big)" visible="1"/>
     <Element collapsed="0" type="model" name="Spinner Mint 05 (22in Big)" visible="1"/>
-    <Element collapsed="0" type="model" name="Wreath Rosa" visible="1"/>
-    <Element collapsed="0" type="model" name="Bells" visible="1"/>
+    <Element collapsed="0" type="model" name="Wreath- Rosa" visible="1"/>
     <Element collapsed="0" type="model" name="Flakes Arms GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE Rosa Wreath GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Arrows GRP" visible="1"/>
-    <Element collapsed="0" type="model" name="GE RosaWreath Feather Even GRP" visible="1"/>
     <Element collapsed="0" type="model" name="GE RosaWreath Rings GRP" visible="1"/>
     <Element collapsed="0" type="model" name="Grinch with Pic" visible="1"/>
     <Element collapsed="0" type="model" name="House AC Front and Roof (DMX)" visible="1"/>
-    <Element collapsed="0" type="model" name="Major Award" visible="1"/>
     <Element collapsed="0" type="model" name="Rainbow Arch Group (RYOGBV)" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes Spokes" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflakes All 1-6 (Small + Big)" visible="1"/>
@@ -554,19 +551,17 @@
     <Element collapsed="0" type="model" name="Snowflake 3 Three-Prong" visible="0"/>
     <Element collapsed="0" type="model" name="Snowflake 2 Two-Prong" visible="0"/>
     <Element collapsed="0" type="model" name="Bells 1 {L}" visible="0"/>
-    <Element collapsed="0" type="model" name="Dreidel" visible="0"/>
     <Element collapsed="0" type="model" name="Snowflake 5 Big" visible="0"/>
     <Element collapsed="0" type="model" name="Spinner Mint 10 (15in Small)" visible="0"/>
     <Element collapsed="0" type="model" name="Spinner Mint 11 (15in Small)" visible="0"/>
     <Element collapsed="0" type="model" name="Spinner Mint 12 (15in Small) {B}" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Big Pixel 2 Right Front" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 1 Left" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 2" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 3" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 5 Center Right" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 6" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 7" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 8 Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A1 Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A5 Center Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A6" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A7" visible="0"/>
     <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Outside" visible="0"/>
     <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Tree Star Center" visible="0"/>
     <Element collapsed="0" type="timing" name="DRUM" visible="1" views="" active="0"/>
@@ -580,7 +575,7 @@
     <Element collapsed="0" type="model" name="Trees- Mini Pixel" visible="0"/>
     <Element collapsed="0" type="model" name="Matrix- P4-1 Left" visible="0"/>
     <Element collapsed="0" type="model" name="Matrix- P4-2 Right" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 4 Center Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A4 Center Left" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Singing Female [Gwen] {L}" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Male [Blake] {R}" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes (DMX)" visible="1"/>
@@ -638,11 +633,6 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A6.4 (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A7.4 (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A8.4 {R} (W)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase (RGBW)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 1 (R)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 2 (G)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 3 (B)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 4 (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B1.2 {L} (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B2.2 (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B3.2 (W)" visible="0"/>
@@ -667,10 +657,6 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A6.0 (RGB}" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A7.0 (RGB}" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A8.0 {R} (RGB}" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 4 {B} (WV)" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 2 {R} (WG)" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (WR)" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (WB)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tinsel 1 {L} (R)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tinsel 2 {R} (R)" visible="0"/>
     <Element collapsed="0" type="model" name="Bushes 3.1 {C} (R)" visible="0"/>
@@ -783,14 +769,13 @@
     <Element collapsed="0" type="model" name="Spinners and Snowflakes" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Dreidel" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Major Award" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr A Tomato Trees Row A" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr B- Tomato Trees Row B" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr C- Other Trees" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr D- Left Bushes" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr E- Center Bushes" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr G- 12 Volts Chinese" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr I- House Front and Roof" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr J- Right Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Spiral 1-4 (WWWG)" visible="1"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row B By Color R G B W" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Rows A+B Wht Indiv Group" visible="1"/>
+    <Element collapsed="0" type="model" name="All (nearly) Pixel Props And AC Props" visible="1"/>
+    <Element collapsed="0" type="model" name="Nativity Animals" visible="0"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Bars (Whole notes, (4 Quarter notes))">
@@ -16145,16 +16130,13 @@
         <Effect ref="36" name="Tree" startTime="59050" endTime="68000" palette="29"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Wreath Rosa">
+    <Element type="model" name="Wreath- Rosa">
       <EffectLayer>
         <Effect ref="9" name="Off" startTime="250" endTime="14975" palette="31"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="38" name="SingleStrand" startTime="6700" endTime="13225" palette="31"/>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Bells">
-      <EffectLayer/>
     </Element>
     <Element type="model" name="Flakes Arms GRP">
       <EffectLayer/>
@@ -16163,9 +16145,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="GE RosaWreath Arrows GRP">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="GE RosaWreath Feather Even GRP">
       <EffectLayer/>
     </Element>
     <Element type="model" name="GE RosaWreath Rings GRP">
@@ -16205,9 +16184,6 @@
         <Effect ref="44" name="Twinkle" id="6" startTime="120500" endTime="126625" palette="17"/>
         <Effect ref="45" name="Plasma" id="7" startTime="126625" endTime="136475" palette="39"/>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Major Award">
-      <EffectLayer/>
     </Element>
     <Element type="model" name="Rainbow Arch Group (RYOGBV)">
       <EffectLayer/>
@@ -18041,11 +18017,14 @@
     </Element>
     <Element type="model" name="Grinch">
       <EffectLayer/>
+      <SubModelEffectLayer name="OutlineBody">
+        <Effect ref="217" name="Color Wash" startTime="8500" endTime="172975" palette="19"/>
+      </SubModelEffectLayer>
       <SubModelEffectLayer name="Eyes">
-        <Effect ref="217" name="Color Wash" startTime="4000" endTime="174525" palette="118"/>
+        <Effect ref="218" name="Color Wash" startTime="4000" endTime="174525" palette="118"/>
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Eyeballs">
-        <Effect ref="217" name="Color Wash" startTime="6000" endTime="179125" palette="17"/>
+        <Effect ref="218" name="Color Wash" startTime="6000" endTime="179125" palette="17"/>
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Heart Inner">
         <Effect ref="37" name="Color Wash" startTime="0" endTime="100" palette="17"/>
@@ -18940,13 +18919,10 @@
         <Effect ref="37" name="Color Wash" id="443" startTime="177200" endTime="177600" palette="17"/>
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Closed Mouth Frown 1">
-        <Effect ref="218" name="Color Wash" startTime="7000" endTime="174525" palette="119"/>
+        <Effect ref="219" name="Color Wash" startTime="7000" endTime="174525" palette="119"/>
       </SubModelEffectLayer>
-      <SubModelEffectLayer name="Outline">
-        <Effect ref="219" name="Color Wash" startTime="8500" endTime="172975" palette="19"/>
-      </SubModelEffectLayer>
-      <SubModelEffectLayer name="Body">
-        <Effect ref="219" name="Color Wash" startTime="8525" endTime="173000" palette="120"/>
+      <SubModelEffectLayer name="BodyInner">
+        <Effect ref="217" name="Color Wash" startTime="8525" endTime="173000" palette="120"/>
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Rainbow Rope Arches">
@@ -19522,9 +19498,6 @@
     <Element type="model" name="Bells 1 {L}">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Dreidel">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Snowflake 5 Big">
       <EffectLayer/>
     </Element>
@@ -19540,7 +19513,7 @@
     <Element type="model" name="Tree- Big Pixel 2 Right Front">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 1 Left">
+    <Element type="model" name="Tree- Mini Pixel A1 Left">
       <EffectLayer>
         <Effect ref="251" name="Shockwave" startTime="250" endTime="1325" palette="126"/>
         <Effect ref="251" name="Shockwave" id="1" startTime="1575" endTime="2650" palette="126"/>
@@ -19555,7 +19528,7 @@
         <Effect ref="252" name="Morph" id="10" startTime="68250" endTime="69125" palette="128"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 2">
+    <Element type="model" name="Tree- Mini Pixel A2">
       <EffectLayer>
         <Effect ref="251" name="Shockwave" startTime="1825" endTime="2900" palette="126"/>
         <Effect ref="251" name="Shockwave" id="1" startTime="3175" endTime="4250" palette="126"/>
@@ -19571,7 +19544,7 @@
         <Effect ref="252" name="Morph" id="11" startTime="67975" endTime="68850" palette="128"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 3">
+    <Element type="model" name="Tree- Mini Pixel A3">
       <EffectLayer>
         <Effect ref="251" name="Shockwave" startTime="3425" endTime="4500" palette="126"/>
         <Effect ref="251" name="Shockwave" id="1" startTime="4800" endTime="5875" palette="126"/>
@@ -19586,7 +19559,7 @@
         <Effect ref="252" name="Morph" id="10" startTime="67725" endTime="68600" palette="128"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 5 Center Right">
+    <Element type="model" name="Tree- Mini Pixel A5 Center Right">
       <EffectLayer>
         <Effect ref="251" name="Shockwave" startTime="5850" endTime="6925" palette="126"/>
         <Effect ref="251" name="Shockwave" id="1" startTime="12375" endTime="13450" palette="127"/>
@@ -19595,20 +19568,17 @@
         <Effect ref="252" name="Morph" id="4" startTime="67175" endTime="68050" palette="128"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 6">
+    <Element type="model" name="Tree- Mini Pixel A6">
       <EffectLayer>
         <Effect ref="251" name="Shockwave" startTime="24775" endTime="25850" palette="127"/>
         <Effect ref="252" name="Morph" id="1" startTime="66925" endTime="67800" palette="128"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 7">
+    <Element type="model" name="Tree- Mini Pixel A7">
       <EffectLayer>
         <Effect ref="251" name="Shockwave" startTime="24500" endTime="25575" palette="126"/>
         <Effect ref="252" name="Morph" id="1" startTime="66650" endTime="67525" palette="128"/>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Tree- Mini Pixel 8 Right">
-      <EffectLayer/>
     </Element>
     <Element type="model" name="Tree Star 2- Big Pixel 2 Outside">
       <EffectLayer/>
@@ -20139,7 +20109,7 @@
       </EffectLayer>
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 4 Center Left">
+    <Element type="model" name="Tree- Mini Pixel A4 Center Left">
       <EffectLayer>
         <Effect ref="251" name="Shockwave" startTime="5075" endTime="6150" palette="126"/>
         <Effect ref="251" name="Shockwave" id="1" startTime="11525" endTime="12600" palette="127"/>
@@ -20333,21 +20303,6 @@
     <Element type="model" name="Tree- Tomato A8.4 {R} (W)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Eaves Chase (RGBW)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase 1 (R)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase 2 (G)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase 3 (B)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase 4 (W)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Tree- Tomato B1.2 {L} (W)">
       <EffectLayer/>
     </Element>
@@ -20418,18 +20373,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Tree- Tomato A8.0 {R} (RGB}">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Spiral 4 {B} (WV)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Spiral 2 {R} (WG)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Spiral 1 {B} (WR)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Tree- Spiral 3 {F} (WB)">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Tree- Tinsel 1 {L} (R)">
@@ -27506,32 +27449,33 @@
     <Element type="model" name="Matrix- Major Award">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="xCtlr A Tomato Trees Row A">
+    <Element type="model" name="Trees- Spiral 1-4 (WWWG)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="xCtlr B- Tomato Trees Row B">
+    <Element type="model" name="zMatrix- Test">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="xCtlr C- Other Trees">
+    <Element type="model" name="Trees- Tomato Row B By Color R G B W">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="xCtlr D- Left Bushes">
+    <Element type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="xCtlr E- Center Bushes">
+    <Element type="model" name="Trees- Tomato Rows A+B Wht Indiv Group">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="xCtlr G- 12 Volts Chinese">
+    <Element type="model" name="All (nearly) Pixel Props And AC Props">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="xCtlr I- House Front and Roof">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr J- Right Bushes">
-      <EffectLayer/>
+    <Element type="model" name="Nativity Animals">
+      <EffectLayer>
+        <Effect ref="268" name="On" startTime="900" endTime="1350" palette="138"/>
+        <Effect ref="37" name="On" id="1" startTime="1350" endTime="174450" palette="138"/>
+        <Effect ref="267" name="On" id="2" startTime="174450" endTime="175250" palette="138"/>
+      </EffectLayer>
     </Element>
   </ElementEffects>
-  <lastView>5</lastView>
+  <lastView>0</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

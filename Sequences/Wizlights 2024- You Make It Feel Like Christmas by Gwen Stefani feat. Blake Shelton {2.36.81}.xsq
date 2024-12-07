@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.17</version>
+    <version>2024.19</version>
     <author>xLights Around the World 2021</author>
     <author-email>russell@palmettotechnical.com</author-email>
     <author-website>http://www.xlightsaroundtheworld.com/2021-project.html</author-website>
@@ -221,7 +221,7 @@
     <Element collapsed="0" type="timing" name="Seconds (1000ms)" visible="1" views="Pixel Props" active="1"/>
     <Element collapsed="0" type="timing" name="Half Seconds (500ms)" visible="1" views="Pixel Props" active="0"/>
     <Element collapsed="0" type="timing" name="Quarter Seconds (250ms)" visible="1" views="Pixel Props" active="0"/>
-    <Element collapsed="0" type="timing" name="Tenth Seconds (100ms)" visible="1" views="Pixel Props" active="0"/>
+    <Element collapsed="0" type="timing" name="Tenth Seconds (100ms)" visible="1" views="Pixel Props,AC Lights in Logical Order" active="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A2 Group (RGBW)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A3 Group (RGBW)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A4 Group (RGBW)" visible="0"/>
@@ -230,7 +230,6 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A7 Group (RGBW)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A8 Group (RGBW)" visible="0"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase (RGBW)" visible="0"/>
     <Element collapsed="0" type="model" name="Snowfall Projectors (WB)" visible="0"/>
     <Element collapsed="0" type="model" name="Swirlies- Snowflakes (WB)" visible="0"/>
     <Element collapsed="0" type="model" name="Lasers- House Front (RGB)" visible="0"/>
@@ -331,10 +330,8 @@
     <Element collapsed="0" type="model" name="Countdown Timer (B)" visible="0"/>
     <Element collapsed="0" type="model" name="Lamp Posts (Y)" visible="0"/>
     <Element collapsed="0" type="model" name="Lamp Post Directions (O)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 1 (R)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 2 (G)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 3 (B)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eaves Chase 4 (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 1 (R)" visible="0"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 4 (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1.1 (L} (R)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1.2 (L} (G)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1.3 (L} (B)" visible="0"/>
@@ -392,16 +389,7 @@
     <Element collapsed="0" type="model" name="Candy Canes 4 (G)" visible="0"/>
     <Element collapsed="0" type="model" name="Rotating Beacons {All} (RGBO)" visible="0"/>
     <Element collapsed="0" type="model" name="Rotating Beacons 3 {R} {BGO}" visible="0"/>
-    <Element collapsed="0" type="model" name="Major Award" visible="1"/>
     <Element collapsed="0" type="model" name="Sorcerers Apprentice" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr A Tomato Trees Row A" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr B- Tomato Trees Row B" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr C- Other Trees" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr D- Left Bushes" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr E- Center Bushes" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr G- 12 Volts Chinese" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr I- House Front and Roof" visible="1"/>
-    <Element collapsed="0" type="model" name="xCtlr J- Right Bushes" visible="1"/>
     <Element collapsed="0" type="model" name="Fence Swags- Odd 1357..." visible="1"/>
     <Element collapsed="0" type="model" name="Fence Swags- Even 2468..." visible="1"/>
     <Element collapsed="0" type="model" name="Tree Star 1- Big Pixel 1 Tree Star Center" visible="1"/>
@@ -452,15 +440,15 @@
     <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Outside" visible="1"/>
     <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Tree Star Center" visible="1"/>
     <Element collapsed="0" type="model" name="Pixels- (nearly) ALL for Grinch Song" visible="1"/>
-    <Element collapsed="0" type="model" name="Pixels- (nearly) ALL except singers" visible="1"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 1 Left" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 2" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 3" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 4 Center Left" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 5 Center Right" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 6" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 7" visible="0"/>
-    <Element collapsed="0" type="model" name="Tree- Mini Pixel 8 Right" visible="0"/>
+    <Element collapsed="0" type="model" name="All Pixel Props except Singers and Mega" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A1 Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A2" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A3" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A4 Center Left" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A5 Center Right" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A6" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A7" visible="0"/>
+    <Element collapsed="0" type="model" name="Tree- Mini Pixel A8 Right" visible="0"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Row B By Tree 1-8 (RGB)" visible="0"/>
     <Element collapsed="0" type="model" name="Bushes (DMX)" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies Spinny Group (M) (DMX)" visible="1"/>
@@ -479,9 +467,7 @@
     <Element collapsed="0" type="model" name="Roof Edges Neon Rope Right" visible="1"/>
     <Element collapsed="0" type="model" name="Spinners and Snowflakes" visible="1"/>
     <Element collapsed="0" type="model" name="GE Rosa Wreath GRP" visible="1"/>
-    <Element collapsed="0" type="model" name="Bells" visible="1"/>
     <Element collapsed="0" type="model" name="Calvin" visible="1"/>
-    <Element collapsed="0" type="model" name="Dreidel" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Dreidel" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Major Award" visible="1"/>
     <Element collapsed="0" type="model" name="Ornament- Star 1" visible="1"/>
@@ -517,6 +503,16 @@
     <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Sections" visible="1" views="" active="1"/>
     <Element collapsed="0" type="model" name="Tree- Spiral 4 {L} (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="Trees- Spiral 1-4 (WWWG)" visible="1"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row B By Color R G B W" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Rows A+B Wht Indiv Group" visible="1"/>
+    <Element collapsed="0" type="model" name="All (nearly) Pixel Props And AC Props" visible="1"/>
+    <Element collapsed="0" type="model" name="Nativity Scene" visible="0"/>
+    <Element collapsed="0" type="model" name="Nativity Animals" visible="0"/>
+    <Element collapsed="0" type="model" name="Nativity Angels" visible="0"/>
+    <Element collapsed="0" type="model" name="Swirlies- Nativity Stars" visible="0"/>
+    <Element collapsed="0" type="model" name="Nativity Floods {LR} (RGB)" visible="0"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="model" name="Pixels- Absolutely All incl Singers">
@@ -9287,9 +9283,6 @@
         <Effect ref="9" name="Off" id="5" startTime="141150" endTime="149650" palette="17"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Eaves Chase (RGBW)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Snowfall Projectors (WB)">
       <EffectLayer>
         <Effect ref="26" name="On" startTime="0" endTime="800" palette="23"/>
@@ -12753,7 +12746,7 @@
         <Effect ref="42" name="On" startTime="800" endTime="151700" palette="23"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Eaves Chase 1 (R)">
+    <Element type="model" name="zEaves Chase 1 (R)">
       <EffectLayer>
         <Effect ref="62" name="Shockwave" startTime="150" endTime="850" palette="2"/>
         <Effect ref="63" name="Shockwave" id="1" startTime="850" endTime="1350" palette="2"/>
@@ -12883,13 +12876,7 @@
         <Effect ref="9" name="Off" id="8" startTime="148250" endTime="156200" palette="11"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Eaves Chase 2 (G)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase 3 (B)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eaves Chase 4 (W)">
+    <Element type="model" name="zEaves Chase 4 (W)">
       <EffectLayer>
         <Effect ref="42" name="On" startTime="16650" endTime="17300" palette="23"/>
         <Effect ref="42" name="On" id="1" startTime="17950" endTime="18600" palette="23"/>
@@ -14388,9 +14375,6 @@
         <Effect ref="42" name="On" id="6" startTime="139850" endTime="142100" palette="23"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Major Award">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Sorcerers Apprentice">
       <EffectLayer>
         <Effect ref="71" name="Marquee" startTime="5550" endTime="10750" palette="43"/>
@@ -14428,30 +14412,6 @@
         <Effect ref="78" name="Marquee" id="32" startTime="135950" endTime="139800" palette="45"/>
         <Effect ref="74" name="Marquee" id="33" startTime="139800" endTime="146300" palette="53"/>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="xCtlr A Tomato Trees Row A">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr B- Tomato Trees Row B">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr C- Other Trees">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr D- Left Bushes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr E- Center Bushes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr G- 12 Volts Chinese">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr I- House Front and Roof">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="xCtlr J- Right Bushes">
-      <EffectLayer/>
     </Element>
     <Element type="model" name="Fence Swags- Odd 1357...">
       <EffectLayer/>
@@ -17060,7 +17020,7 @@
     <Element type="model" name="Pixels- (nearly) ALL for Grinch Song">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Pixels- (nearly) ALL except singers">
+    <Element type="model" name="All Pixel Props except Singers and Mega">
       <EffectLayer>
         <Effect ref="106" name="On" startTime="5000" endTime="5500" palette="27"/>
       </EffectLayer>
@@ -17174,7 +17134,7 @@
         <Effect ref="107" name="VU Meter" id="18" startTime="138550" endTime="149650" palette="18"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 1 Left">
+    <Element type="model" name="Tree- Mini Pixel A1 Left">
       <EffectLayer>
         <Effect ref="38" name="Morph" startTime="150" endTime="500" palette="20"/>
         <Effect ref="38" name="Morph" id="1" startTime="2450" endTime="3100" palette="11"/>
@@ -17224,7 +17184,7 @@
         <Effect ref="38" name="Morph" id="45" startTime="145650" endTime="146300" palette="16"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 2">
+    <Element type="model" name="Tree- Mini Pixel A2">
       <EffectLayer>
         <Effect ref="38" name="Morph" startTime="500" endTime="1150" palette="20"/>
         <Effect ref="38" name="Morph" id="1" startTime="3100" endTime="3750" palette="11"/>
@@ -17274,7 +17234,7 @@
         <Effect ref="38" name="Morph" id="45" startTime="146300" endTime="146950" palette="16"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 3">
+    <Element type="model" name="Tree- Mini Pixel A3">
       <EffectLayer>
         <Effect ref="38" name="Morph" startTime="1150" endTime="1800" palette="20"/>
         <Effect ref="38" name="Morph" id="1" startTime="3750" endTime="4400" palette="11"/>
@@ -17324,7 +17284,7 @@
         <Effect ref="38" name="Morph" id="45" startTime="146950" endTime="147600" palette="16"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 4 Center Left">
+    <Element type="model" name="Tree- Mini Pixel A4 Center Left">
       <EffectLayer>
         <Effect ref="38" name="Morph" startTime="1800" endTime="2450" palette="20"/>
         <Effect ref="38" name="Morph" id="1" startTime="4400" endTime="5000" palette="11"/>
@@ -17371,7 +17331,7 @@
         <Effect ref="38" name="Morph" id="42" startTime="145000" endTime="145650" palette="9"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 5 Center Right">
+    <Element type="model" name="Tree- Mini Pixel A5 Center Right">
       <EffectLayer>
         <Effect ref="38" name="Morph" startTime="1800" endTime="2450" palette="20"/>
         <Effect ref="38" name="Morph" id="1" startTime="4400" endTime="5000" palette="11"/>
@@ -17418,7 +17378,7 @@
         <Effect ref="38" name="Morph" id="42" startTime="145000" endTime="145650" palette="9"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 6">
+    <Element type="model" name="Tree- Mini Pixel A6">
       <EffectLayer>
         <Effect ref="38" name="Morph" startTime="1150" endTime="1800" palette="20"/>
         <Effect ref="38" name="Morph" id="1" startTime="3750" endTime="4400" palette="11"/>
@@ -17468,7 +17428,7 @@
         <Effect ref="38" name="Morph" id="45" startTime="146950" endTime="147600" palette="16"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 7">
+    <Element type="model" name="Tree- Mini Pixel A7">
       <EffectLayer>
         <Effect ref="38" name="Morph" startTime="500" endTime="1150" palette="20"/>
         <Effect ref="38" name="Morph" id="1" startTime="3100" endTime="3750" palette="11"/>
@@ -17518,7 +17478,7 @@
         <Effect ref="38" name="Morph" id="45" startTime="146300" endTime="146950" palette="16"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Tree- Mini Pixel 8 Right">
+    <Element type="model" name="Tree- Mini Pixel A8 Right">
       <EffectLayer>
         <Effect ref="38" name="Morph" startTime="150" endTime="500" palette="20"/>
         <Effect ref="38" name="Morph" id="1" startTime="2450" endTime="3100" palette="11"/>
@@ -24586,13 +24546,7 @@
     <Element type="model" name="GE Rosa Wreath GRP">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Bells">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Calvin">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Dreidel">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix- Dreidel">
@@ -25064,6 +25018,40 @@
         <Effect ref="42" name="On" id="46" startTime="136000" endTime="137300" palette="23"/>
         <Effect ref="27" name="On" id="47" startTime="137300" endTime="138600" palette="23"/>
       </EffectLayer>
+    </Element>
+    <Element type="model" name="Trees- Spiral 1-4 (WWWG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zMatrix- Test">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row B By Color R G B W">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Rows A+B Wht Indiv Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All (nearly) Pixel Props And AC Props">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Nativity Scene">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Nativity Animals">
+      <EffectLayer>
+        <Effect ref="26" name="On" startTime="1200" endTime="2000" palette="23"/>
+        <Effect ref="42" name="On" id="1" startTime="2000" endTime="150000" palette="23"/>
+        <Effect ref="27" name="On" id="2" startTime="150000" endTime="153500" palette="23"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Nativity Angels">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Swirlies- Nativity Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Nativity Floods {LR} (RGB)">
+      <EffectLayer/>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>

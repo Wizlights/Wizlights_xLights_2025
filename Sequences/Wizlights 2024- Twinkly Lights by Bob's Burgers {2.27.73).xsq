@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.15</version>
+    <version>2024.19</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -12,9 +12,9 @@
     <comment></comment>
     <sequenceTiming>50 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>X:\2024\xLights\Wizlights\Audio\Twinkly Lights by Bob's Burgers (2.27.73).mp3</mediaFile>
-    <sequenceDuration>147.726</sequenceDuration>
-    <imageDir></imageDir>
+    <mediaFile>X:\2024\xLights\Wizlights\Audio\Twinkly Lights by Bob's Burgers {2.27.73).mp3</mediaFile>
+    <sequenceDuration>147.762</sequenceDuration>
+    <imageDir/>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
@@ -25,7 +25,6 @@
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,AC Lights in Logical Order,Singing and Sound Effects,Basics,By Controller,Pixel Props,AC Lights in DMX Order,All Timings,White AC lights,FalconPropsTest,Import xTreme,LOR AC-DC DMX" active="1"/>
-    <Element collapsed="0" type="model" name="Trees" visible="1"/>
     <Element collapsed="0" type="model" name="Candy Canes Seq Group (RGRG)" visible="1"/>
     <Element collapsed="0" type="model" name="Religious Group" visible="1"/>
     <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
@@ -36,12 +35,15 @@
     <Element collapsed="0" type="model" name="Bushes (DMX)" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies Spinny Group (M) (DMX)" visible="1"/>
     <Element collapsed="0" type="model" name="Snow Group (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Spiral 1-4 (WWWG)" visible="1"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row B By Color R G B W" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row B By Tree 1-8 (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Rows A+B Wht Indiv Group" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Trees">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Candy Canes Seq Group (RGRG)">
@@ -72,6 +74,24 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Snow Group (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Spiral 1-4 (WWWG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zMatrix- Test">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row B By Color R G B W">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row B By Tree 1-8 (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Rows A+B Wht Indiv Group">
       <EffectLayer/>
     </Element>
   </ElementEffects>
