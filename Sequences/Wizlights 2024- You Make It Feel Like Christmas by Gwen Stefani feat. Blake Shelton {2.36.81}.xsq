@@ -80,6 +80,7 @@
     <ColorPalette>C_BUTTON_Palette1=#000000,C_BUTTON_Palette2=#FFFFFF,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#ff4040,C_CHECKBOX_Palette1=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#c00000,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000A0,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00A0A0,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1,C_COLOURPICKERCTRL_SparklesColour=#777777</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Boscoyo Singing Tree,E_CHOICE_Faces_TimingTrack=Blake,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=3.00</Effect>
@@ -183,7 +184,7 @@
     <Effect>E_CHECKBOX_ColorWash_CircularPalette=1,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=2</Effect>
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Elf,E_CHOICE_Faces_TimingTrack=Backups,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=3</Effect>
     <Effect>T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=3</Effect>
-    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Mean One,E_CHOICE_Faces_TimingTrack=Backups,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=3</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Mean One,E_CHOICE_Faces_TimingTrack=Backups,T_TEXTCTRL_Fadein=2,T_TEXTCTRL_Fadeout=3</Effect>
     <Effect>T_CHOICE_LayerMethod=Brightness</Effect>
     <Effect>E_CHECKBOX_Shape_FadeAway=1,E_CHECKBOX_Shape_FireTiming=0,E_CHECKBOX_Shape_HoldColour=1,E_CHECKBOX_Shape_RandomInitial=1,E_CHECKBOX_Shape_RandomLocation=1,E_CHECKBOX_Shape_UseMusic=0,E_CHECKBOX_Shapes_RandomMovement=0,E_CHOICE_Shape_ObjectToDraw=Snowflake,E_SLIDER_Shape_Growth=10,E_SLIDER_Shape_Lifetime=15,E_SLIDER_Shape_Rotation=0,E_SLIDER_Shape_StartSize=1,E_SLIDER_Shapes_Direction=90,E_SLIDER_Shapes_Velocity=0,E_TEXTCTRL_Shape_Count=5,E_TEXTCTRL_Shapes_Direction=90,E_TEXTCTRL_Shapes_Velocity=0</Effect>
     <Effect>E_CHECKBOX_Spirals_3D=1,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=1,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Rotation=20,E_SLIDER_Spirals_Thickness=0,E_TEXTCTRL_Spirals_Movement=1.0,T_CHOICE_Out_Transition_Type=Blinds,T_SLIDER_Out_Transition_Adjust=60,T_TEXTCTRL_Fadeout=.5</Effect>
@@ -191,6 +192,7 @@
     <Effect>E_CHECKBOX_On_Shimmer=1</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Color,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=100,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -218,10 +220,10 @@
     <Element collapsed="0" type="model" name="Wheel of Dharma" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Row B By Tree 1-8 (RGBW)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1 Group (RGBW)" visible="0"/>
-    <Element collapsed="0" type="timing" name="Seconds (1000ms)" visible="1" views="Pixel Props" active="1"/>
+    <Element collapsed="0" type="timing" name="Seconds (1000ms)" visible="1" views="Pixel Props,Matrixes" active="1"/>
     <Element collapsed="0" type="timing" name="Half Seconds (500ms)" visible="1" views="Pixel Props" active="0"/>
-    <Element collapsed="0" type="timing" name="Quarter Seconds (250ms)" visible="1" views="Pixel Props" active="0"/>
-    <Element collapsed="0" type="timing" name="Tenth Seconds (100ms)" visible="1" views="Pixel Props,AC Lights in Logical Order" active="1"/>
+    <Element collapsed="0" type="timing" name="Quarter Seconds (250ms)" visible="1" views="Pixel Props,Matrixes" active="0"/>
+    <Element collapsed="0" type="timing" name="Tenth Seconds (100ms)" visible="1" views="Pixel Props,AC Lights in Logical Order,Singing and Sound Effects,Matrixes" active="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A2 Group (RGBW)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A3 Group (RGBW)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A4 Group (RGBW)" visible="0"/>
@@ -396,10 +398,7 @@
     <Element collapsed="0" type="model" name="Snowmen Lamp Inflatable" visible="0"/>
     <Element collapsed="0" type="model" name="Gingerbread House" visible="0"/>
     <Element collapsed="0" type="model" name="Candelabra" visible="0"/>
-    <Element collapsed="0" type="model" name="Eave Pixels 1 {L} Horiz (216)" visible="0"/>
     <Element collapsed="0" type="model" name="Eave Pixels 2 {L} Diag (188)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eave Pixels 3 {R} Diag (184)" visible="0"/>
-    <Element collapsed="0" type="model" name="Eave Pixels 4 {R} Horiz (250)" visible="0"/>
     <Element collapsed="0" type="model" name="Pixels House Front" visible="1"/>
     <Element collapsed="0" type="model" name="Fence Swags 01 {LB}" visible="0"/>
     <Element collapsed="0" type="model" name="Fence Swags 02 {L}" visible="0"/>
@@ -513,6 +512,9 @@
     <Element collapsed="0" type="model" name="Nativity Angels" visible="0"/>
     <Element collapsed="0" type="model" name="Swirlies- Nativity Stars" visible="0"/>
     <Element collapsed="0" type="model" name="Nativity Floods {LR} (RGB)" visible="0"/>
+    <Element collapsed="0" type="model" name="Matrix- P4-2 Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- P5 Tune-To Sign" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- Text- Donations (64X8)" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="model" name="Pixels- Absolutely All incl Singers">
@@ -14438,16 +14440,7 @@
     <Element type="model" name="Candelabra">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Eave Pixels 1 {L} Horiz (216)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Eave Pixels 2 {L} Diag (188)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eave Pixels 3 {R} Diag (184)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eave Pixels 4 {R} Horiz (250)">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Pixels House Front">
@@ -25053,8 +25046,19 @@
     <Element type="model" name="Nativity Floods {LR} (RGB)">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Matrix- P4-2 Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- P5 Tune-To Sign">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- Text- Donations (64X8)">
+      <EffectLayer>
+        <Effect ref="109" name="Text" selected="1" startTime="1000" endTime="152000" palette="61"/>
+      </EffectLayer>
+    </Element>
   </ElementEffects>
-  <lastView>0</lastView>
+  <lastView>15</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

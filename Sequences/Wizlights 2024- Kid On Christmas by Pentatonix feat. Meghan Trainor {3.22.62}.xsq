@@ -118,6 +118,7 @@
     <ColorPalette>C_BUTTON_Palette1=#555500,C_BUTTON_Palette2=#888800,C_BUTTON_Palette3=#E6E600,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFF75,C_BUTTON_Palette6=#FFFFA4,C_BUTTON_Palette7=#FFFFD2,C_BUTTON_Palette8=#FFFFE8,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_SLIDER_SparkleFrequency=17</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#000080,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#118040,C_BUTTON_Palette4=#007DFB,C_BUTTON_Palette5=#408002,C_BUTTON_Palette6=#63C9FA,C_BUTTON_Palette7=#21FF06,C_BUTTON_Palette8=#AAFFFF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_SLIDER_SparkleFrequency=22</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#800000,C_BUTTON_Palette2=#B30000,C_BUTTON_Palette3=#D70000,C_BUTTON_Palette4=#D90000,C_BUTTON_Palette5=#FF0000,C_BUTTON_Palette6=#FF4646,C_BUTTON_Palette7=#FF9393,C_BUTTON_Palette8=#FFBFBF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette6=1,C_SLIDER_SparkleFrequency=68</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#C00000,C_BUTTON_Palette3=#00C000,C_BUTTON_Palette4=#0000A0,C_BUTTON_Palette5=#808000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00A0A0,C_BUTTON_Palette8=#800080,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette8=1,C_COLOURPICKERCTRL_SparklesColour=#777777</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect></Effect>
@@ -242,13 +243,14 @@
     <Effect>E_TEXTCTRL_Eff_On_End=50,E_TEXTCTRL_Eff_On_Start=0</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=48,E_TEXTCTRL_Eff_On_Start=0</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=50</Effect>
+    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=5.0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="540" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="timing" name="Tenth Seconds 100ms" visible="1" views="Pixel Props,All Timings,LOR AC-DC DMX,AC Lights in Logical Order" active="0"/>
-    <Element collapsed="0" type="timing" name="Seconds" visible="1" views="Pixel Props,All Timings,LOR AC-DC DMX,AC Lights in Logical Order" active="1"/>
+    <Element collapsed="0" type="timing" name="Tenth Seconds (100ms)" visible="1" views="Pixel Props,All Timings,LOR AC-DC DMX,AC Lights in Logical Order,Matrixes" active="0"/>
+    <Element collapsed="0" type="timing" name="Seconds (1000ms)" visible="1" views="Pixel Props,All Timings,LOR AC-DC DMX,AC Lights in Logical Order,Matrixes" active="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1 Group (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="zEaves Chase (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels- All" visible="1"/>
@@ -257,7 +259,7 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A4 Group (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A5 Group (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A6 Group (RGBW)" visible="1"/>
-    <Element collapsed="0" type="timing" name="Quarter Seconds 250ms" visible="1" views="All Timings" active="0"/>
+    <Element collapsed="0" type="timing" name="Quarter Seconds (250ms)" visible="1" views="All Timings,Matrixes" active="0"/>
     <Element collapsed="0" type="timing" name="Bars (Whole notes, (4 Quarter notes))" visible="1" views="All Timings" active="0"/>
     <Element collapsed="0" type="timing" name="Chords" visible="1" views="All Timings" active="0"/>
     <Element collapsed="0" type="timing" name="Full Beats (Quarter notes)" visible="1" views="All Timings" active="0"/>
@@ -586,10 +588,7 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A1.2 (L} (G)" visible="1"/>
     <Element collapsed="0" type="model" name="zEaves Chase 3 (B)" visible="1"/>
     <Element collapsed="0" type="model" name="zEaves Chase 4 (W)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eave Pixels 1 {L} Horiz (216)" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels 2 {L} Diag (188)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eave Pixels 3 {R} Diag (184)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eave Pixels 4 {R} Horiz (250)" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies- Snowflakes {R} (WB)" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes 3.2 {C} (G)" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes 3.3 {C} (B)" visible="1"/>
@@ -793,9 +792,11 @@
     <Element collapsed="0" type="model" name="Trees- Tomato Rows A+B Wht Indiv Group" visible="1"/>
     <Element collapsed="0" type="model" name="All (nearly) Pixel Props And AC Props" visible="1"/>
     <Element collapsed="0" type="model" name="Nativity Animals" visible="0"/>
+    <Element collapsed="0" type="model" name="Matrix- P5 Tune-To Sign" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- Text- Donations (64X8)" visible="1"/>
   </DisplayElements>
   <ElementEffects>
-    <Element type="timing" name="Tenth Seconds 100ms">
+    <Element type="timing" name="Tenth Seconds (100ms)">
       <EffectLayer>
         <Effect label="1" startTime="0" endTime="100"></Effect>
         <Effect label="2" startTime="100" endTime="200"></Effect>
@@ -2825,7 +2826,7 @@
         <Effect label="6" startTime="202500" endTime="202600"></Effect>
       </EffectLayer>
     </Element>
-    <Element type="timing" name="Seconds">
+    <Element type="timing" name="Seconds (1000ms)">
       <EffectLayer>
         <Effect label="1" startTime="0" endTime="1000"></Effect>
         <Effect label="2" startTime="1000" endTime="2000"></Effect>
@@ -3122,7 +3123,7 @@
     <Element type="model" name="Tree- Tomato A6 Group (RGBW)">
       <EffectLayer/>
     </Element>
-    <Element type="timing" name="Quarter Seconds 250ms">
+    <Element type="timing" name="Quarter Seconds (250ms)">
       <EffectLayer>
         <Effect label="1" startTime="0" endTime="250"></Effect>
         <Effect label="2" startTime="250" endTime="500"></Effect>
@@ -28229,16 +28230,7 @@
         <Effect ref="0" name="On" id="11" startTime="38600" endTime="39250" palette="6"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Eave Pixels 1 {L} Horiz (216)">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Eave Pixels 2 {L} Diag (188)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eave Pixels 3 {R} Diag (184)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eave Pixels 4 {R} Horiz (250)">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Swirlies- Snowflakes {R} (WB)">
@@ -46364,8 +46356,16 @@
         <Effect ref="3" name="On" id="2" startTime="192900" endTime="197400" palette="6"/>
       </EffectLayer>
     </Element>
+    <Element type="model" name="Matrix- P5 Tune-To Sign">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- Text- Donations (64X8)">
+      <EffectLayer>
+        <Effect ref="122" name="Text" selected="1" startTime="1000" endTime="197300" palette="99"/>
+      </EffectLayer>
+    </Element>
   </ElementEffects>
-  <lastView>0</lastView>
+  <lastView>15</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

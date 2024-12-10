@@ -56,6 +56,7 @@
     <ColorPalette>C_BUTTON_Palette1=#ff0084,C_BUTTON_Palette2=#d8005b,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#ff00ff,C_BUTTON_Palette2=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#ff0000,C_BUTTON_Palette2=#ff00ff,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000A0,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette7=1,C_COLOURPICKERCTRL_SparklesColour=#777777</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect></Effect>
@@ -100,14 +101,15 @@
     <Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_Eff_On_Start=52</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=53</Effect>
     <Effect>E_TEXTCTRL_Eff_On_End=36,E_TEXTCTRL_Eff_On_Start=52</Effect>
+    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=0.5</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="7471188" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="Frames 40FPS 25ms" visible="1" views="All Timings,LOR AC-DC DMX" active="0"/>
-    <Element collapsed="0" type="timing" name="Tenths Second 100ms" visible="1" views="All Timings,LOR AC-DC DMX" active="0"/>
-    <Element collapsed="0" type="timing" name="Seconds" visible="1" views="All Timings,LOR AC-DC DMX" active="1"/>
+    <Element collapsed="0" type="timing" name="Tenth Seconds (100ms)" visible="1" views="All Timings,LOR AC-DC DMX,Matrixes" active="0"/>
+    <Element collapsed="0" type="timing" name="Seconds (1000ms)" visible="1" views="All Timings,LOR AC-DC DMX,Matrixes" active="0"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A1 Group (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="zEaves Chase (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels- All" visible="1"/>
@@ -118,6 +120,7 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A6 Group (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A7 Group (RGBW)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato A8 Group (RGBW)" visible="1"/>
+    <Element collapsed="0" type="timing" name="Quarter Seconds (250ms)" visible="1" views="Matrixes" active="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B1 Group (VW)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B3 Group (VW)" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Tomato B4 Group (VW)" visible="1"/>
@@ -451,10 +454,10 @@
     <Element collapsed="0" type="model" name="Tree- Tomato A1.2 (L} (G)" visible="1"/>
     <Element collapsed="0" type="model" name="zEaves Chase 3 (B)" visible="1"/>
     <Element collapsed="0" type="model" name="zEaves Chase 4 (W)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eave Pixels 1 {L} Horiz (216)" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave Pixels 1 {L} Horiz (221)" visible="1"/>
     <Element collapsed="0" type="model" name="Eave Pixels 2 {L} Diag (188)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eave Pixels 3 {R} Diag (184)" visible="1"/>
-    <Element collapsed="0" type="model" name="Eave Pixels 4 {R} Horiz (250)" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave Pixels 3 {R} Diag (187)" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave Pixels 4 {R} Horiz (254)" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies- Snowflakes {R} (WB)" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes 3.2 {C} (G)" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes 3.3 {C} (B)" visible="1"/>
@@ -637,6 +640,19 @@
     <Element collapsed="0" type="model" name="Wreath- Rosa" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Even 2-16" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa- Feathers Odd 1-15" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- P5 Tune-To Sign" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- Text- Donations (64X8)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row B By Color R G B W" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C Vio Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C Wht Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral Pixel with Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Spiral 1-4 (WWWG)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Stubby (BG)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tinsel 1 + 2 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Pink and Purple (PV) (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Snow 1 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Snow 2 (M)" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Frames 40FPS 25ms">
@@ -1152,7 +1168,7 @@
         <Effect label="509" startTime="12700" endTime="12725"></Effect>
       </EffectLayer>
     </Element>
-    <Element type="timing" name="Tenths Second 100ms">
+    <Element type="timing" name="Tenth Seconds (100ms)">
       <EffectLayer>
         <Effect label="1" startTime="0" endTime="100"></Effect>
         <Effect label="2" startTime="100" endTime="200"></Effect>
@@ -1284,7 +1300,7 @@
         <Effect label="8" startTime="12700" endTime="12725"></Effect>
       </EffectLayer>
     </Element>
-    <Element type="timing" name="Seconds">
+    <Element type="timing" name="Seconds (1000ms)">
       <EffectLayer>
         <Effect label="1" startTime="0" endTime="1000"></Effect>
         <Effect label="2" startTime="1000" endTime="2000"></Effect>
@@ -1370,6 +1386,61 @@
     </Element>
     <Element type="model" name="Tree- Tomato A8 Group (RGBW)">
       <EffectLayer/>
+    </Element>
+    <Element type="timing" name="Quarter Seconds (250ms)">
+      <EffectLayer>
+        <Effect label="1" startTime="0" endTime="250"></Effect>
+        <Effect label="2" startTime="250" endTime="500"></Effect>
+        <Effect label="3" startTime="500" endTime="750"></Effect>
+        <Effect label="4" startTime="750" endTime="1000"></Effect>
+        <Effect label="1" startTime="1000" endTime="1250"></Effect>
+        <Effect label="2" startTime="1250" endTime="1500"></Effect>
+        <Effect label="3" startTime="1500" endTime="1750"></Effect>
+        <Effect label="4" startTime="1750" endTime="2000"></Effect>
+        <Effect label="1" startTime="2000" endTime="2250"></Effect>
+        <Effect label="2" startTime="2250" endTime="2500"></Effect>
+        <Effect label="3" startTime="2500" endTime="2750"></Effect>
+        <Effect label="4" startTime="2750" endTime="3000"></Effect>
+        <Effect label="1" startTime="3000" endTime="3250"></Effect>
+        <Effect label="2" startTime="3250" endTime="3500"></Effect>
+        <Effect label="3" startTime="3500" endTime="3750"></Effect>
+        <Effect label="4" startTime="3750" endTime="4000"></Effect>
+        <Effect label="1" startTime="4000" endTime="4250"></Effect>
+        <Effect label="2" startTime="4250" endTime="4500"></Effect>
+        <Effect label="3" startTime="4500" endTime="4750"></Effect>
+        <Effect label="4" startTime="4750" endTime="5000"></Effect>
+        <Effect label="1" startTime="5000" endTime="5250"></Effect>
+        <Effect label="2" startTime="5250" endTime="5500"></Effect>
+        <Effect label="3" startTime="5500" endTime="5750"></Effect>
+        <Effect label="4" startTime="5750" endTime="6000"></Effect>
+        <Effect label="1" startTime="6000" endTime="6250"></Effect>
+        <Effect label="2" startTime="6250" endTime="6500"></Effect>
+        <Effect label="3" startTime="6500" endTime="6750"></Effect>
+        <Effect label="4" startTime="6750" endTime="7000"></Effect>
+        <Effect label="1" startTime="7000" endTime="7250"></Effect>
+        <Effect label="2" startTime="7250" endTime="7500"></Effect>
+        <Effect label="3" startTime="7500" endTime="7750"></Effect>
+        <Effect label="4" startTime="7750" endTime="8000"></Effect>
+        <Effect label="1" startTime="8000" endTime="8250"></Effect>
+        <Effect label="2" startTime="8250" endTime="8500"></Effect>
+        <Effect label="3" startTime="8500" endTime="8750"></Effect>
+        <Effect label="4" startTime="8750" endTime="9000"></Effect>
+        <Effect label="1" startTime="9000" endTime="9250"></Effect>
+        <Effect label="2" startTime="9250" endTime="9500"></Effect>
+        <Effect label="3" startTime="9500" endTime="9750"></Effect>
+        <Effect label="4" startTime="9750" endTime="10000"></Effect>
+        <Effect label="1" startTime="10000" endTime="10250"></Effect>
+        <Effect label="2" startTime="10250" endTime="10500"></Effect>
+        <Effect label="3" startTime="10500" endTime="10750"></Effect>
+        <Effect label="4" startTime="10750" endTime="11000"></Effect>
+        <Effect label="1" startTime="11000" endTime="11250"></Effect>
+        <Effect label="2" startTime="11250" endTime="11500"></Effect>
+        <Effect label="3" startTime="11500" endTime="11750"></Effect>
+        <Effect label="4" startTime="11750" endTime="12000"></Effect>
+        <Effect label="1" startTime="12000" endTime="12250"></Effect>
+        <Effect label="2" startTime="12250" endTime="12500"></Effect>
+        <Effect label="3" startTime="12500" endTime="12725"></Effect>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Tree- Tomato B1 Group (VW)">
       <EffectLayer/>
@@ -3369,7 +3440,7 @@
         <Effect ref="34" name="On" id="87" startTime="11850" endTime="11950" palette="8"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Eave Pixels 1 {L} Horiz (216)">
+    <Element type="model" name="Eave Pixels 1 {L} Horiz (221)">
       <EffectLayer>
         <Effect ref="36" name="Marquee" startTime="2900" endTime="5300" palette="19"/>
       </EffectLayer>
@@ -3379,12 +3450,12 @@
         <Effect ref="36" name="Marquee" startTime="2900" endTime="5300" palette="20"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Eave Pixels 3 {R} Diag (184)">
+    <Element type="model" name="Eave Pixels 3 {R} Diag (187)">
       <EffectLayer>
         <Effect ref="37" name="Marquee" startTime="2900" endTime="5300" palette="21"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Eave Pixels 4 {R} Horiz (250)">
+    <Element type="model" name="Eave Pixels 4 {R} Horiz (254)">
       <EffectLayer>
         <Effect ref="37" name="Marquee" startTime="2900" endTime="5300" palette="13"/>
       </EffectLayer>
@@ -10799,8 +10870,49 @@
     <Element type="model" name="Wreath- Rosa- Feathers Odd 1-15">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Matrix- P5 Tune-To Sign">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- Text- Donations (64X8)">
+      <EffectLayer>
+        <Effect ref="42" name="Text" selected="1" startTime="225" endTime="12250" palette="37"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row B By Color R G B W">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C Vio Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C Wht Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral Pixel with Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Spiral 1-4 (WWWG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Stubby (BG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tinsel 1 + 2 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Pink and Purple (PV) (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Snow 1 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Snow 2 (M)">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
-  <lastView>0</lastView>
+  <lastView>15</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>
