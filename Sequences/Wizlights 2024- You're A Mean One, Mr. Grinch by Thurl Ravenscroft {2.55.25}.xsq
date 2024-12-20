@@ -434,7 +434,7 @@
     <Effect>E_TEXTCTRL_Eff_On_End=0</Effect>
     <Effect>E_TEXTCTRL_Eff_On_Start=0</Effect>
     <Effect>E_TEXTCTRL_ColorWash_Cycles=10</Effect>
-    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.0</Effect>
+    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -782,6 +782,27 @@
     <Element collapsed="0" type="model" name="Bells (both) All 3 Bells" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- P5 Tune-To Sign" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Text- Donations (64X8)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C Vio Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C Wht Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Pencil 1-16 (Multi)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral Pixel with Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Willow (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Stubby (BG)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tinsel 1 + 2 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Pink and Purple (PV) (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Snow 1 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Snow 2 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Small Blue {L} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Small Purple- Dark (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Small Purple- Light (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr A and B ch1-32 Tomato Trees Row A" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr C ch33-48 Tomato Trees Row B" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr E ch65-80 Other Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr F ch81-96 Left Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr G ch97-112 Left Yard" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr N 12 Volt Stuff" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr M House Front and Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="xCtlr Q Right Bushes" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Bars (Whole notes, (4 Quarter notes))">
@@ -27670,6 +27691,69 @@
       <EffectLayer>
         <Effect ref="270" name="Text" selected="1" startTime="0" endTime="175550" palette="142"/>
       </EffectLayer>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C Vio Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C Wht Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Pencil 1-16 (Multi)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral Pixel with Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Willow (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Stubby (BG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tinsel 1 + 2 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Pink and Purple (PV) (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Snow 1 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Snow 2 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Small Blue {L} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Small Purple- Dark (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Small Purple- Light (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr A and B ch1-32 Tomato Trees Row A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr C ch33-48 Tomato Trees Row B">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr E ch65-80 Other Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr F ch81-96 Left Bushes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr G ch97-112 Left Yard">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr N 12 Volt Stuff">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr M House Front and Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="xCtlr Q Right Bushes">
+      <EffectLayer/>
     </Element>
   </ElementEffects>
   <lastView>15</lastView>

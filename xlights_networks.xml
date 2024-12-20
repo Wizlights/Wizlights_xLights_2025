@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Networks computer="ROTHARIN" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="">
+<Networks computer="WIZLIGHTS" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="">
   <suppressframes frames="20"/>
   <Controller Id="1" Name="Falcon F16v3" Description="" Type="Ethernet" Vendor="Falcon" Model="F16V3" Variant="One Expansion Board" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.12" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.12" BaudRate="1" NetworkType="DDP" MaxChannels="26375"/>
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.12" BaudRate="1" NetworkType="DDP" MaxChannels="22297"/>
   </Controller>
-  <Controller Id="21" Name="WLED Eth01 #1 (Matrix- Mega Triangle &amp; Star Wreath Topper)" Description="2105 Nodes- 5 strings of 400 (10 of 200) plus 105 on Star Wreath" Type="Ethernet" Vendor="WLED" Model="QuinLED-Dig-Octa" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.13" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
+  <Controller Id="21" Name="WLED Eth01 #1 (Matrix- Mega Triangle &amp; Star Wreath Topper)" Description="2105 Nodes- 5 strings of 400 (10 of 200) plus 105 on Star Wreath" Type="Ethernet" Vendor="WLED" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.13" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="0" ComPort="10.3.12.13" BaudRate="21" NetworkType="DDP" MaxChannels="6315"/>
   </Controller>
   <Controller Id="22" Name="WLED Eth01 #2 (Matrix- Text- Big)" Description="Big Text Matrix Rows  (16 X 72 Nodes = 288)" Type="Ethernet" Vendor="WLED" Model="QuinLED-Dig-Octa" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.14" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.14" BaudRate="22" NetworkType="DDP" MaxChannels="3456"/>
   </Controller>
-  <Controller Id="23" Name="WLED Eth01 #3" Description="" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.15" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.15" BaudRate="23" NetworkType="DDP" MaxChannels="1"/>
+  <Controller Id="23" Name="WLED Eth01 #3" Description="" Type="Ethernet" Vendor="WLED" Model="QuinLED-Dig-Octa" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.23" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.23" BaudRate="23" NetworkType="DDP" MaxChannels="1"/>
   </Controller>
-  <Controller Id="31" Name="WLED Wemos #1 (Star of Bethlehem)" Description="Star of Bethelehem (106 nodes)" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.16" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
+  <Controller Id="31" Name="WLED Wemos #1 (Star of Bethlehem)" Description="Star of Bethelehem (106 nodes)" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.16" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.16" BaudRate="31" NetworkType="DDP" MaxChannels="318"/>
   </Controller>
-  <Controller Id="32" Name="WLED Wemos #2 (Wheel of Dharma)" Description="Wheel of Dharma (136 Nodes)" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.17" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
+  <Controller Id="32" Name="WLED Wemos #2 (Wheel of Dharma)" Description="Wheel of Dharma (136 Nodes)" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.17" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.17" BaudRate="32" NetworkType="DDP" MaxChannels="408"/>
   </Controller>
-  <Controller Id="33" Name="WLED Wemos #3 (Ships Wheel)" Description="Ships Wheel" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.18" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
+  <Controller Id="33" Name="WLED Wemos #3 (Ships Wheel)" Description="Ships Wheel" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.18" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.18" BaudRate="33" NetworkType="DDP" MaxChannels="360"/>
   </Controller>
-  <Controller Id="34" Name="WLED Wemos #4 (Dreidel)" Description="Dreidel" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.19" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+  <Controller Id="34" Name="WLED Wemos #4 (Dreidel)" Description="Dreidel" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.19" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.19" BaudRate="34" NetworkType="DDP" MaxChannels="486"/>
   </Controller>
   <Controller Id="35" Name="WLED Wemos #5 (Matrix- Text- Small- Donations)" Description="Small Text Matrix Donations Sign (2 X (32 X 8) Nodes = 512)" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.20" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
@@ -31,7 +31,27 @@
   <Controller Id="36" Name="WLED Wemos #6 RBLs and Stars" Description="" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.21" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.21" BaudRate="36" NetworkType="DDP" MaxChannels="1"/>
   </Controller>
-  <Controller Id="-1" Name="ColorLight #1 Matrix P4 #1 Left" Description="P4 Matrix #1 128 X 128" Type="Ethernet" Vendor="FPP" Model="LED Panels" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="1" SuppressDuplicates="1" Monitor="1" IP="MULTICAST" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+  <Controller Id="2" Name="AlphaPix16" Description="AlphaPix 16 Classic 340 per output limit" Type="Ethernet" Vendor="HolidayCoro" Model="AlphaPix 16" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.22" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ComPort="10.3.12.22" BaudRate="101" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="102" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="103" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="104" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="105" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="106" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="107" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="108" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="109" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="110" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="111" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="112" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="113" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="114" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="115" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="116" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="117" NetworkType="E131" MaxChannels="510"/>
+    <network ComPort="10.3.12.22" BaudRate="118" NetworkType="E131" MaxChannels="510"/>
+  </Controller>
+  <Controller Id="-1" Name="ColorLight #1 Matrix P4 #1 Left" Description="P4 Matrix #1 128 X 128" Type="Ethernet" Vendor="FPP" Model="LED Panels" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="1" SuppressDuplicates="1" Monitor="1" IP="MULTICAST" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
     <network ComPort="MULTICAST" BaudRate="300" NetworkType="E131" MaxChannels="510"/>
     <network ComPort="MULTICAST" BaudRate="301" NetworkType="E131" MaxChannels="510"/>
     <network ComPort="MULTICAST" BaudRate="302" NetworkType="E131" MaxChannels="510"/>
@@ -130,7 +150,7 @@
     <network ComPort="MULTICAST" BaudRate="395" NetworkType="E131" MaxChannels="510"/>
     <network ComPort="MULTICAST" BaudRate="396" NetworkType="E131" MaxChannels="510"/>
   </Controller>
-  <Controller Id="-1" Name="ColorLight #2 Matrix P4 #2 Right" Description="P4 Matrix #2 128 X 128" Type="Ethernet" Vendor="FPP" Model="LED Panels" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="1" SuppressDuplicates="1" Monitor="1" IP="MULTICAST" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+  <Controller Id="-1" Name="ColorLight #2 Matrix P4 #2 Right" Description="P4 Matrix #2 128 X 128" Type="Ethernet" Vendor="FPP" Model="LED Panels" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="1" SuppressDuplicates="1" Monitor="1" IP="MULTICAST" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
     <network ComPort="MULTICAST" BaudRate="400" NetworkType="E131" MaxChannels="510"/>
     <network ComPort="MULTICAST" BaudRate="401" NetworkType="E131" MaxChannels="510"/>
     <network ComPort="MULTICAST" BaudRate="402" NetworkType="E131" MaxChannels="510"/>
@@ -229,7 +249,7 @@
     <network ComPort="MULTICAST" BaudRate="495" NetworkType="E131" MaxChannels="510"/>
     <network ComPort="MULTICAST" BaudRate="496" NetworkType="E131" MaxChannels="510"/>
   </Controller>
-  <Controller Id="-1" Name="ColorLight #3 Tune-To Sign" Description="P5 Matrix Tune To Freq. 64 X 32" Type="Ethernet" Vendor="FPP" Model="LED Panels" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="1" SuppressDuplicates="1" Monitor="1" IP="MULTICAST" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+  <Controller Id="-1" Name="ColorLight #3 Tune-To Sign" Description="P5 Matrix Tune To Freq. 64 X 32" Type="Ethernet" Vendor="FPP" Model="LED Panels" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="1" SuppressDuplicates="1" Monitor="1" IP="MULTICAST" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
     <network ComPort="MULTICAST" BaudRate="500" NetworkType="E131" MaxChannels="510"/>
     <network ComPort="MULTICAST" BaudRate="501" NetworkType="E131" MaxChannels="510"/>
     <network ComPort="MULTICAST" BaudRate="502" NetworkType="E131" MaxChannels="510"/>
@@ -245,7 +265,10 @@
     <network ComPort="MULTICAST" BaudRate="512" NetworkType="E131" MaxChannels="510"/>
   </Controller>
   <Controller Id="9999" Name="zNull or Retired Placeholder" Description="Placeholders for Null or Retired Props" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.253" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.253" BaudRate="9999" NetworkType="DDP" MaxChannels="134"/>
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.253" BaudRate="9999" NetworkType="DDP" MaxChannels="658"/>
+  </Controller>
+  <Controller Id="2" Name="Teensy OctoWS" Description="Teensy Pixel Pusher 32 output" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="10.3.12.15" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+    <network ComPort="10.3.12.15" BaudRate="200" NetworkType="E131" MaxChannels="510"/>
   </Controller>
   <testpreset name="LOR AND RGB DUMB">
     <channelr start="1" end="528"/>

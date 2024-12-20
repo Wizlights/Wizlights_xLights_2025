@@ -53,7 +53,7 @@
     </PlayListStep>
     <Schedule Name="Pre-Show" DOW="MonTueWedThuFriSatSun" StartDate="2023-11-10" EndDate="2099-11-30" StartTime="sunset" EndTime="23:00:00" Priority="3" NthDay="1" NthDayOffset="0" OnOffsetMins="0" OffOffsetMins="0" FireFrequency="Fire once" Loop="TRUE" Loops="0" Enabled="TRUE" EveryYear="TRUE" GracefullyInterrupt="TRUE"/>
   </PlayList>
-  <PlayList Name="Wizlights 2024 Christmas">
+  <PlayList Name="Wizlights 2024 Christmas Weekdays till 10">
     <PlayListStep Name="">
       <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Bumper- Welcome and Donate by Dr. Elf Wiz {1.22.55}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
     </PlayListStep>
@@ -67,26 +67,74 @@
       <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Kid On Christmas by Pentatonix feat. Meghan Trainor {3.22.62}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
     </PlayListStep>
     <PlayListStep Name="">
-      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Commercial- Manger Six by Tom Bodett {0.42.37}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Soundbite- Jesus Let His Hair Down (Edit) by Karen Walker (From Will &amp; Grace) {0.12.72}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
     </PlayListStep>
     <PlayListStep Name="">
       <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Light Of Christmas by TobyMac feat. Owl City {3.43.73}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
     </PlayListStep>
     <PlayListStep Name="">
-      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Soundbite- Jesus Let His Hair Down (Edit) by Karen Walker (From Will &amp; Grace) {0.12.72}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
-    </PlayListStep>
-    <PlayListStep Name="">
       <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- You Make It Feel Like Christmas by Gwen Stefani feat. Blake Shelton {2.36.81}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
     </PlayListStep>
     <PlayListStep Name="">
-      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- The Elf Song by Crowder (2.47.71).fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Bumper- Welcome and Donate by Dr. Elf Wiz {1.22.55}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- The Elf Song by Crowder (2.47.71).fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Soundbite- 64-Bit Video System Out of Wood by Santa's Elves {0.10.46}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
     </PlayListStep>
     <PlayListStep Name="">
       <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Mr. Grinch by Small Town Titans {2.24.42}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
     </PlayListStep>
     <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Commercial- Manger Six by Tom Bodett {0.42.37}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
       <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Sounding Joy by Ellie Holcomb (XLATW24) {3.50.00}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
     </PlayListStep>
-    <Schedule Name="Christmas 2024" DOW="MonTueWedThuFriSatSun" StartDate="2024-12-01" EndDate="2025-01-06" StartTime="17:30:00" EndTime="22:00:00" Priority="5" NthDay="1" NthDayOffset="0" OnOffsetMins="0" OffOffsetMins="0" FireFrequency="Fire once" Loop="TRUE" Loops="0" Enabled="TRUE"/>
+    <Schedule Name="Wizlights Weekdays 2024" DOW="MonTueWedThuSun" StartDate="2024-12-01" EndDate="2025-01-06" StartTime="17:30:00" EndTime="22:00:00" Priority="5" NthDay="1" NthDayOffset="0" OnOffsetMins="0" OffOffsetMins="0" FireFrequency="Fire once" Loop="TRUE" Loops="0" Enabled="TRUE"/>
+  </PlayList>
+  <PlayList Name="Wizlights 2024 Christmas Weekends till 11">
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Bumper- Welcome and Donate by Dr. Elf Wiz {1.22.55}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Soundbite- Is It Plugged In by The Griswolds {0.10.25}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- You're A Mean One, Mr. Grinch by Thurl Ravenscroft {2.55.25}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Kid On Christmas by Pentatonix feat. Meghan Trainor {3.22.62}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Soundbite- Jesus Let His Hair Down (Edit) by Karen Walker (From Will &amp; Grace) {0.12.72}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Light Of Christmas by TobyMac feat. Owl City {3.43.73}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- You Make It Feel Like Christmas by Gwen Stefani feat. Blake Shelton {2.36.81}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Bumper- Welcome and Donate by Dr. Elf Wiz {1.22.55}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- The Elf Song by Crowder (2.47.71).fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name="" Priority="1"/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Soundbite- 64-Bit Video System Out of Wood by Santa's Elves {0.10.46}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Mr. Grinch by Small Town Titans {2.24.42}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Commercial- Manger Six by Tom Bodett {0.42.37}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <PlayListStep Name="">
+      <PLIFSEQ FSEQFile="X:\2024\xLights\Wizlights\Fseq\Wizlights 2024- Sounding Joy by Ellie Holcomb (XLATW24) {3.50.00}.fseq" AudioDevice="" ApplyMethod="0" StartChannel="1" Channels="0" Delay="0" Name=""/>
+    </PlayListStep>
+    <Schedule Name="Wizlights Weekends 2024" DOW="FriSat" StartDate="2024-12-01" EndDate="2025-01-06" StartTime="17:30:00" EndTime="23:00:00" Priority="5" NthDay="1" NthDayOffset="0" OnOffsetMins="0" OffOffsetMins="0" FireFrequency="Fire once" Loop="TRUE" Loops="0" Enabled="TRUE"/>
   </PlayList>
 </xSchedule>

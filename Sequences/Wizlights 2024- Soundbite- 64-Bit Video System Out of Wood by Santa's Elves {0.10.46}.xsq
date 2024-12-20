@@ -20,6 +20,8 @@
   <Jukebox/>
   <ColorPalettes>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#59B300,C_BUTTON_Palette2=#FFFF00,C_BUTTON_Palette3=#FF0000,C_BUTTON_Palette4=#FF0080,C_BUTTON_Palette5=#C00000,C_BUTTON_Palette6=#A00000,C_BUTTON_Palette7=#58FF58,C_BUTTON_Palette8=#80FF60,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#A00000,C_BUTTON_Palette5=#00A000,C_BUTTON_Palette6=#808080,C_BUTTON_Palette7=#000000,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_COLOURPICKERCTRL_SparklesColour=#777777</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect></Effect>
@@ -27,13 +29,15 @@
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Mean One,E_CHOICE_Faces_TimingTrack=Lyrics- Elf 4</Effect>
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Boscoyo Singing Tree,E_CHOICE_Faces_TimingTrack=Lyrics- Elf 3</Effect>
     <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Boscoyo Singing Tree,E_CHOICE_Faces_TimingTrack=Lyrics- Elf 2</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=down,E_CHOICE_Scaling=Scale Keep Aspect Ratio,E_FILEPICKER_Pictures_Filename=X:\2024\xLights\Wizlights\Media\Images\ElfSong\GameController.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=15,E_SLIDER_Pictures_EndScale=2,E_SLIDER_Pictures_StartScale=2,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=2,E_TEXTCTRL_Bars_Cycles=3,T_TEXTCTRL_Fadein=.5</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="7471171" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="timing" name="Tenth Seconds 100ms" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="1"/>
-    <Element collapsed="0" type="timing" name="Lyrics- Lead Elf" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="0"/>
+    <Element collapsed="0" type="timing" name="Tenth Seconds 100ms" visible="1" views="Power Items + Usually On,Singing and Sound Effects,Matrixes" active="1"/>
+    <Element collapsed="0" type="timing" name="Lyrics- Lead Elf" visible="1" views="Power Items + Usually On,Singing and Sound Effects,Matrixes" active="0"/>
     <Element collapsed="0" type="timing" name="Lyrics- Elf 2" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="0"/>
     <Element collapsed="0" type="timing" name="Lyrics- Elf 3" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="0"/>
     <Element collapsed="0" type="timing" name="Lyrics- Elf 4" visible="1" views="Power Items + Usually On,Singing and Sound Effects" active="0"/>
@@ -84,6 +88,57 @@
     <Element collapsed="0" type="model" name="House+Yard Px- Whole- Pixels" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa" visible="1"/>
     <Element collapsed="0" type="model" name="House Px- Whole- Pixels with Eaves and Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- P4-1 Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- P4-2 Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- Text- Donations (64X8)" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- Text- Big (72X16=1152)" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- Dreidel" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix- Major Award" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row B By Tree 1-8 (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row B By Color R G B W" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C Vio Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C Wht Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Pencil 1-16 (Multi)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral Pixel with Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Spiral 1-4 (WWWG)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Willow (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Stubby (BG)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tinsel 1 + 2 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Rainbow (ROYGBV)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Pink and Purple (PV) (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Snow 1 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Snow 2 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Small Blue {L} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Small Purple- Dark (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Small Purple- Light (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixels- Absolutely All incl Singers" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixels House Front" visible="1"/>
+    <Element collapsed="0" type="model" name="Eave Pixels- All" visible="1"/>
+    <Element collapsed="0" type="model" name="Fence Swags- Odd 1357..." visible="1"/>
+    <Element collapsed="0" type="model" name="Fence Swags- Even 2468..." visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Edges Neon Rope Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Edges Neon Rope Right" visible="1"/>
+    <Element collapsed="0" type="model" name="Spinners and Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Big Pixel 1 Left Center" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree Star 1- Big Pixel 1 Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree Star 1- Big Pixel 1 Tree Star Center" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Big Pixel 2 Right Front" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree Star 2- Big Pixel 2 Tree Star Center" visible="1"/>
+    <Element collapsed="0" type="model" name="Wheel of Dharma" visible="1"/>
+    <Element collapsed="0" type="model" name="Sorcerers Apprentice" visible="1"/>
+    <Element collapsed="0" type="model" name="Calvin" visible="1"/>
+    <Element collapsed="0" type="model" name="Ornament- Star 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Ships Wheel" visible="1"/>
+    <Element collapsed="0" type="model" name="Star- of David Coro" visible="1"/>
+    <Element collapsed="0" type="model" name="Star- of David Wooden" visible="1"/>
+    <Element collapsed="0" type="model" name="Tri-Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="Whole House Pixels" visible="1"/>
+    <Element collapsed="0" type="model" name="Rainbow Rope Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Major Award with Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Bells (both) All 3 Bells" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Tenth Seconds 100ms">
@@ -406,17 +461,17 @@
     </Element>
     <Element type="model" name="Amplifier 12V">
       <EffectLayer>
-        <Effect ref="0" name="On" startTime="0" endTime="10775" palette="0"/>
+        <Effect ref="0" name="On" startTime="0" endTime="10475" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Transmitter 12V">
       <EffectLayer>
-        <Effect ref="0" name="On" startTime="0" endTime="10775" palette="0"/>
+        <Effect ref="0" name="On" startTime="0" endTime="10475" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="On The Air (R)">
       <EffectLayer>
-        <Effect ref="0" name="On" startTime="0" endTime="10775" palette="0"/>
+        <Effect ref="0" name="On" startTime="0" endTime="10475" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Nativity Jesus Joseph Mary">
@@ -454,7 +509,7 @@
     </Element>
     <Element type="model" name="Tree- Singing Male [Blake] {R}">
       <EffectLayer>
-        <Effect ref="4" name="Faces" selected="1" startTime="6925" endTime="10300" palette="0"/>
+        <Effect ref="4" name="Faces" startTime="6925" endTime="10300" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Roof Outline">
@@ -503,7 +558,9 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Matrix- Mega Triangle">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="5" name="Pictures" startTime="500" endTime="10075" palette="1"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Snowflakes- Big (2)">
       <EffectLayer/>
@@ -526,8 +583,163 @@
     <Element type="model" name="House Px- Whole- Pixels with Eaves and Roof">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Matrix- P4-1 Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- P4-2 Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- Text- Donations (64X8)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- Text- Big (72X16=1152)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- Dreidel">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix- Major Award">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row B By Tree 1-8 (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row B By Color R G B W">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C By Tree 1-8 (VW)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C Vio Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C Wht Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Pencil 1-16 (Multi)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral Pixel with Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Spiral 1-4 (WWWG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Willow (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Stubby (BG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tinsel 1 + 2 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Rainbow (ROYGBV)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Pink and Purple (PV) (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Snow 1 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Snow 2 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Small Blue {L} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Small Purple- Dark (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Small Purple- Light (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zMatrix- Test">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixels- Absolutely All incl Singers">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixels House Front">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eave Pixels- All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Fence Swags- Odd 1357...">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Fence Swags- Even 2468...">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof Edges Neon Rope Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Roof Edges Neon Rope Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Spinners and Snowflakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Big Pixel 1 Left Center">
+      <EffectLayer>
+        <Effect ref="6" name="Bars" selected="1" startTime="325" endTime="10425" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree Star 1- Big Pixel 1 Outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree Star 1- Big Pixel 1 Tree Star Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Big Pixel 2 Right Front">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree Star 2- Big Pixel 2 Outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree Star 2- Big Pixel 2 Tree Star Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Wheel of Dharma">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sorcerers Apprentice">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Calvin">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ornament- Star 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Ships Wheel">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star- of David Coro">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Star- of David Wooden">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tri-Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Whole House Pixels">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Rainbow Rope Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Major Award with Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bells (both) All 3 Bells">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
-  <lastView>0</lastView>
+  <lastView>5</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>
