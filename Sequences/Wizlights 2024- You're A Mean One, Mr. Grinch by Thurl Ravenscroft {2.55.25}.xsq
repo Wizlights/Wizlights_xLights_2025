@@ -384,7 +384,7 @@
     <Effect>T_TEXTCTRL_Fadein=3.00,T_TEXTCTRL_Fadeout=2.00</Effect>
     <Effect>T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.00</Effect>
     <Effect>T_TEXTCTRL_Fadein=3.0,T_TEXTCTRL_Fadeout=2.00</Effect>
-    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Elf,E_CHOICE_Faces_TimingTrack=,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=0.5,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_EyeBlinkFrequency=Normal,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Elf,E_CHOICE_Faces_Phoneme=(off),E_CHOICE_Faces_UseState=Elf-StaticState,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=0.5,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Morph_AutoRepeat=0,E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=Start,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=80,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=96,E_SLIDER_Morph_End_X2=53,E_SLIDER_Morph_End_Y1=49,E_SLIDER_Morph_End_Y2=1,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=53,E_SLIDER_Morph_Start_X2=53,E_SLIDER_Morph_Start_Y1=49,E_SLIDER_Morph_Start_Y2=49,T_CHOICE_LayerMethod=Average</Effect>
     <Effect>E_CHECKBOX_Morph_AutoRepeat=0,E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=Start,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=61,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=3,E_SLIDER_Morph_End_X2=3,E_SLIDER_Morph_End_Y1=99,E_SLIDER_Morph_End_Y2=99,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=3,E_SLIDER_Morph_Start_X2=46,E_SLIDER_Morph_Start_Y1=51,E_SLIDER_Morph_Start_Y2=99,T_CHOICE_LayerMethod=Average</Effect>
     <Effect>B_CHOICE_BufferStyle=Vertical Stack,B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=-2,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=142,E_SLIDER_Shockwave_End_Width=153,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=5</Effect>
@@ -434,7 +434,7 @@
     <Effect>E_TEXTCTRL_Eff_On_End=0</Effect>
     <Effect>E_TEXTCTRL_Eff_On_Start=0</Effect>
     <Effect>E_TEXTCTRL_ColorWash_Cycles=10</Effect>
-    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.0</Effect>
+    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Tune to 97.5 FM   Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -471,7 +471,7 @@
     <Element collapsed="0" type="model" name="Roof Edges Neon Rope Right" visible="1"/>
     <Element collapsed="0" type="model" name="Bells 2 {R}" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake 6 Big" visible="1"/>
-    <Element collapsed="0" type="timing" name="Seconds (1000ms)" visible="1" views="Matrixes" active="1"/>
+    <Element collapsed="0" type="timing" name="Seconds (1000ms)" visible="1" views="Matrixes,Power Items + Usually On" active="1"/>
     <Element collapsed="0" type="model" name="Spinner Mint 04 (22in Big)" visible="1"/>
     <Element collapsed="0" type="model" name="Spinner Mint 05 (22in Big)" visible="1"/>
     <Element collapsed="0" type="model" name="Wreath- Rosa" visible="1"/>
@@ -595,7 +595,7 @@
     <Element collapsed="0" type="model" name="Bushes 5 {R} (RGBWVM)" visible="0"/>
     <Element collapsed="0" type="model" name="Strobes- 5mm- Bushes {L} (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Strobes- C9- Bushes {L} (W)" visible="0"/>
-    <Element collapsed="0" type="model" name="Nativity Scene" visible="0"/>
+    <Element collapsed="0" type="model" name="Nativity Scene" visible="1"/>
     <Element collapsed="0" type="model" name="Menorah (B)" visible="0"/>
     <Element collapsed="0" type="model" name="Yule Log (O)" visible="0"/>
     <Element collapsed="0" type="model" name="Coexist Flag (MRGB)" visible="0"/>
@@ -684,7 +684,7 @@
     <Element collapsed="0" type="model" name="Swirlies- Nativity Stars" visible="0"/>
     <Element collapsed="0" type="model" name="Nativity Flood 1 {L} (RGB)" visible="0"/>
     <Element collapsed="0" type="model" name="Nativity Flood 2 {R} (RGB)" visible="0"/>
-    <Element collapsed="0" type="model" name="Snow Lake (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="Snow Lake (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Snowfall Projectors (WB)" visible="0"/>
     <Element collapsed="0" type="model" name="Snowmen (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Penguins" visible="0"/>
@@ -724,12 +724,12 @@
     <Element collapsed="0" type="model" name="Lasers- House Front (RGB)" visible="0"/>
     <Element collapsed="0" type="model" name="Laser- Streetlight (R)" visible="0"/>
     <Element collapsed="0" type="model" name="Swirlies- Happy Holidays" visible="0"/>
-    <Element collapsed="0" type="model" name="Big Nick Inside (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="Big Nick Inside (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Willow and Palm (GW)" visible="0"/>
-    <Element collapsed="0" type="model" name="Amplifier 12V" visible="0"/>
-    <Element collapsed="0" type="model" name="Transmitter 12V" visible="0"/>
+    <Element collapsed="0" type="model" name="Amplifier 12V" visible="1"/>
+    <Element collapsed="0" type="model" name="Transmitter 12V" visible="1"/>
     <Element collapsed="0" type="model" name="Swiriles- Candy Canes (RG)" visible="0"/>
-    <Element collapsed="0" type="model" name="On The Air (R)" visible="0"/>
+    <Element collapsed="0" type="model" name="On The Air (R)" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- C9- Pine" visible="0"/>
     <Element collapsed="0" type="model" name="z Yellow Snow (Y)" visible="0"/>
     <Element collapsed="0" type="model" name="Bushes 3.0 (RGBW)" visible="0"/>
@@ -803,6 +803,8 @@
     <Element collapsed="0" type="model" name="xCtlr N 12 Volt Stuff" visible="1"/>
     <Element collapsed="0" type="model" name="xCtlr M House Front and Roof" visible="1"/>
     <Element collapsed="0" type="model" name="xCtlr Q Right Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato- Whites" visible="1"/>
+    <Element collapsed="0" type="model" name="Menorah Bulbs" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Bars (Whole notes, (4 Quarter notes))">
@@ -20328,7 +20330,7 @@
     </Element>
     <Element type="model" name="Tree- Singing Male [Blake] {R}">
       <EffectLayer>
-        <Effect ref="266" name="Faces" startTime="11050" endTime="171275" palette="139"/>
+        <Effect ref="266" name="Faces" startTime="400" endTime="176000" palette="139"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Bushes (DMX)">
@@ -20822,12 +20824,12 @@
     </Element>
     <Element type="model" name="Amplifier 12V">
       <EffectLayer>
-        <Effect ref="37" name="On" startTime="0" endTime="174700" palette="140"/>
+        <Effect ref="37" name="On" startTime="0" endTime="177200" palette="140"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Transmitter 12V">
       <EffectLayer>
-        <Effect ref="37" name="On" startTime="0" endTime="174700" palette="140"/>
+        <Effect ref="37" name="On" startTime="0" endTime="177400" palette="140"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Swiriles- Candy Canes (RG)">
@@ -20835,7 +20837,7 @@
     </Element>
     <Element type="model" name="On The Air (R)">
       <EffectLayer>
-        <Effect ref="37" name="On" startTime="0" endTime="174700" palette="140"/>
+        <Effect ref="37" name="On" selected="1" startTime="0" endTime="176800" palette="140"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Strobes- C9- Pine">
@@ -27753,6 +27755,12 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="xCtlr Q Right Bushes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato- Whites">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Menorah Bulbs">
       <EffectLayer/>
     </Element>
   </ElementEffects>

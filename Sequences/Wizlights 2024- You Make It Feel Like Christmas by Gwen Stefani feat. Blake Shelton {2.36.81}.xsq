@@ -192,7 +192,7 @@
     <Effect>E_CHECKBOX_On_Shimmer=1</Effect>
     <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Color,T_TEXTCTRL_Fadein=.5,T_TEXTCTRL_Fadeout=.5</Effect>
     <Effect>E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=100,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
-    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.0</Effect>
+    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Tune to 97.5 FM   Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=2.0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -237,7 +237,7 @@
     <Element collapsed="0" type="model" name="Lasers- House Front (RGB)" visible="0"/>
     <Element collapsed="0" type="model" name="Roof Ridgeline (RGB)" visible="0"/>
     <Element collapsed="0" type="model" name="Disco Balls (M)" visible="0"/>
-    <Element collapsed="0" type="model" name="Big Nick Inside (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="Big Nick Inside (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies- Big Nick Fire (RO)" visible="0"/>
     <Element collapsed="0" type="model" name="Santa in the Window" visible="0"/>
     <Element collapsed="0" type="model" name="UFOs (RGB)" visible="0"/>
@@ -287,7 +287,7 @@
     <Element collapsed="0" type="model" name="Bushes 5 {R} (RGBWVM)" visible="0"/>
     <Element collapsed="0" type="model" name="Strobes- 5mm- Bushes {L} (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Strobes- C9- Bushes {L} (W)" visible="0"/>
-    <Element collapsed="0" type="model" name="Snow Lake (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="Snow Lake (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Snowmen (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Penguins" visible="0"/>
     <Element collapsed="0" type="model" name="Bushes 1 {S} Rainbow 1 (R)" visible="0"/>
@@ -370,9 +370,9 @@
     <Element collapsed="0" type="model" name="Tree- Spiral 1 {B} (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Tree- Spiral 3 {F} (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Power Items" visible="1"/>
-    <Element collapsed="0" type="model" name="On The Air (R)" visible="0"/>
-    <Element collapsed="0" type="model" name="Amplifier 12V" visible="0"/>
-    <Element collapsed="0" type="model" name="Transmitter 12V" visible="0"/>
+    <Element collapsed="0" type="model" name="On The Air (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Amplifier 12V" visible="1"/>
+    <Element collapsed="0" type="model" name="Transmitter 12V" visible="1"/>
     <Element collapsed="0" type="model" name="Work Together 1 (R)" visible="0"/>
     <Element collapsed="0" type="model" name="Work Together 2 (W)" visible="0"/>
     <Element collapsed="0" type="model" name="Work Together 3 (B)" visible="0"/>
@@ -507,7 +507,7 @@
     <Element collapsed="0" type="model" name="Trees- Tomato Row B By Color R G B W" visible="1"/>
     <Element collapsed="0" type="model" name="Trees- Tomato Rows A+B Wht Indiv Group" visible="1"/>
     <Element collapsed="0" type="model" name="All (nearly) Pixel Props And AC Props" visible="1"/>
-    <Element collapsed="0" type="model" name="Nativity Scene" visible="0"/>
+    <Element collapsed="0" type="model" name="Nativity Scene" visible="1"/>
     <Element collapsed="0" type="model" name="Nativity Animals" visible="0"/>
     <Element collapsed="0" type="model" name="Nativity Angels" visible="0"/>
     <Element collapsed="0" type="model" name="Swirlies- Nativity Stars" visible="0"/>
@@ -515,6 +515,18 @@
     <Element collapsed="0" type="model" name="Matrix- P4-2 Right" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- P5 Tune-To Sign" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Text- Donations (64X8)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C Vio Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Row C Wht Group" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Pencil 1-16 (Multi)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Spiral Pixel with Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tomato Stubby (BG)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Tinsel 1 + 2 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Trees- Pink and Purple (PV) (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Snow 1 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Snow 2 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Small Blue {L} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree- Small Purple- Light (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="Menorah Bulbs" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="model" name="Pixels- Absolutely All incl Singers">
@@ -25057,8 +25069,44 @@
         <Effect ref="109" name="Text" selected="1" startTime="1000" endTime="152000" palette="61"/>
       </EffectLayer>
     </Element>
+    <Element type="model" name="Trees- Tomato Row C Vio Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Row C Wht Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Pencil 1-16 (Multi)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Spiral Pixel with Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tomato Stubby (BG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Tinsel 1 + 2 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Trees- Pink and Purple (PV) (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Snow 1 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Snow 2 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Small Blue {L} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree- Small Purple- Light (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Menorah Bulbs">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
-  <lastView>15</lastView>
+  <lastView>13</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>

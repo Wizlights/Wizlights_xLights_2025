@@ -321,7 +321,7 @@
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=135,E_SLIDER_Shockwave_End_Width=15,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=81</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=1,E_SLIDER_Shockwave_End_Width=0,E_SLIDER_Shockwave_Start_Radius=135,E_SLIDER_Shockwave_Start_Width=42</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=135,E_SLIDER_Shockwave_End_Width=15,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=16</Effect>
-    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=5.0,T_TEXTCTRL_Fadeout=5.0</Effect>
+    <Effect>E_CHECKBOX_TextNoRepeat=0,E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_Color_PerWord=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=8-8x8 Thin,E_FONTPICKER_Text_Font='segoe ui' 8 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Tune to 9. FM   Please consider a donation to SAFE Animal Shelter&amp;comma; Thank You!,E_TEXTCTRL_Text_Speed=10,T_TEXTCTRL_Fadein=5.0,T_TEXTCTRL_Fadeout=5.0</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=27,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=27,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
     <Effect>B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=2D,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_Fade_Type=From Head,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_SingleStrand_FX=Fireworks 1D,E_CHOICE_SingleStrand_FX_Palette=* Colors Only,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=41,E_SLIDER_FX_Intensity=128,E_SLIDER_FX_Speed=128,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Offset=0.0,E_TEXTCTRL_Chase_Rotations=1,T_CHOICE_LayerMethod=Additive</Effect>
@@ -342,7 +342,7 @@
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="Tenth Seconds (100ms)" visible="1" views="Pixel Props,AC Lights in Logical Order,Trees (AC and Pixel),Matrixes" active="0"/>
-    <Element collapsed="0" type="timing" name="Seconds (1000ms)" visible="1" views="Pixel Props,AC Lights in Logical Order,Trees (AC and Pixel),Matrixes" active="1"/>
+    <Element collapsed="0" type="timing" name="Seconds (1000ms)" visible="1" views="Pixel Props,AC Lights in Logical Order,Trees (AC and Pixel),Matrixes,Power Items + Usually On" active="1"/>
     <Element collapsed="0" type="model" name="All (nearly) Pixel Props And AC Trees" visible="1"/>
     <Element collapsed="0" type="model" name="Pixels- Absolutely All incl Singers" visible="1"/>
     <Element collapsed="0" type="model" name="House Px- Whole- Pixels with Eaves and Roof" visible="1"/>
@@ -435,7 +435,7 @@
     <Element collapsed="0" type="model" name="Bushes (DMX)" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies Spinny Group (M) (DMX)" visible="1"/>
     <Element collapsed="0" type="model" name="Snow Group (DMX)" visible="1"/>
-    <Element collapsed="0" type="model" name="Nativity Scene" visible="0"/>
+    <Element collapsed="0" type="model" name="Nativity Scene" visible="1"/>
     <Element collapsed="0" type="model" name="Menorah (B)" visible="0"/>
     <Element collapsed="0" type="model" name="Yule Log (O)" visible="0"/>
     <Element collapsed="0" type="model" name="Coexist Flag (MRGB)" visible="0"/>
@@ -449,11 +449,11 @@
     <Element collapsed="0" type="model" name="Nativity Angels" visible="0"/>
     <Element collapsed="0" type="model" name="Swirlies- Nativity Stars" visible="0"/>
     <Element collapsed="0" type="model" name="Nativity Floods {LR} (RGB)" visible="0"/>
-    <Element collapsed="0" type="model" name="On The Air (R)" visible="0"/>
-    <Element collapsed="0" type="model" name="Amplifier 12V" visible="0"/>
-    <Element collapsed="0" type="model" name="Transmitter 12V" visible="0"/>
+    <Element collapsed="0" type="model" name="On The Air (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="Amplifier 12V" visible="1"/>
+    <Element collapsed="0" type="model" name="Transmitter 12V" visible="1"/>
     <Element collapsed="0" type="model" name="Laser- Streetlight (R)" visible="0"/>
-    <Element collapsed="0" type="model" name="Snow Lake (W)" visible="0"/>
+    <Element collapsed="0" type="model" name="Snow Lake (W)" visible="1"/>
     <Element collapsed="0" type="model" name="Snowfall Projectors (WB)" visible="0"/>
     <Element collapsed="0" type="model" name="Swirlies- Snowflakes (WB)" visible="0"/>
     <Element collapsed="0" type="model" name="Snowmen (W)" visible="0"/>
@@ -491,6 +491,8 @@
     <Element collapsed="0" type="model" name="Matrix- Text- Donations (64X8)" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Text- Big (72X16=1152)" visible="1"/>
     <Element collapsed="0" type="model" name="Matrix- Major Award" visible="1"/>
+    <Element collapsed="0" type="model" name="Menorah Bulbs" visible="1"/>
+    <Element collapsed="0" type="model" name="Big Nick Inside (W)" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="Tenth Seconds (100ms)">
@@ -9515,8 +9517,14 @@
     <Element type="model" name="Matrix- Major Award">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Menorah Bulbs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Big Nick Inside (W)">
+      <EffectLayer/>
+    </Element>
   </ElementEffects>
-  <lastView>15</lastView>
+  <lastView>13</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>
