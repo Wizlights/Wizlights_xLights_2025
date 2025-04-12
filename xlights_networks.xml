@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Networks computer="WIZLIGHTS" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="">
+<Networks computer="ROTHARIN" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="">
   <suppressframes frames="20"/>
   <Controller Id="1" Name="Falcon F16v3" Description="" Type="Ethernet" Vendor="Falcon" Model="F16V3" Variant="One Expansion Board" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.12" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.12" BaudRate="1" NetworkType="DDP" MaxChannels="22297"/>
@@ -265,7 +265,7 @@
     <network ComPort="MULTICAST" BaudRate="512" NetworkType="E131" MaxChannels="510"/>
   </Controller>
   <Controller Id="9999" Name="zNull or Retired Placeholder" Description="Placeholders for Null or Retired Props" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.253" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.253" BaudRate="9999" NetworkType="DDP" MaxChannels="658"/>
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.253" BaudRate="9999" NetworkType="DDP" MaxChannels="671"/>
   </Controller>
   <Controller Id="2" Name="Teensy OctoWS" Description="Teensy Pixel Pusher 32 output" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="10.3.12.15" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
     <network ComPort="10.3.12.15" BaudRate="200" NetworkType="E131" MaxChannels="510"/>
