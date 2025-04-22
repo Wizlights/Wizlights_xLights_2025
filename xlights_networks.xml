@@ -2,7 +2,7 @@
 <Networks computer="ROTHARIN" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="">
   <suppressframes frames="20"/>
   <Controller Id="1" Name="Falcon F16v3" Description="" Type="Ethernet" Vendor="Falcon" Model="F16V3" Variant="One Expansion Board" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.12" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.12" BaudRate="1" NetworkType="DDP" MaxChannels="22297"/>
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.12" BaudRate="1" NetworkType="DDP" MaxChannels="27448"/>
   </Controller>
   <Controller Id="21" Name="WLED Eth01 #1 (Matrix- Mega Triangle &amp; Star Wreath Topper)" Description="2105 Nodes- 5 strings of 400 (10 of 200) plus 105 on Star Wreath" Type="Ethernet" Vendor="WLED" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.13" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="0" ComPort="10.3.12.13" BaudRate="21" NetworkType="DDP" MaxChannels="6315"/>
@@ -17,13 +17,13 @@
     <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.16" BaudRate="31" NetworkType="DDP" MaxChannels="318"/>
   </Controller>
   <Controller Id="32" Name="WLED Wemos #2 (Wheel of Dharma)" Description="Wheel of Dharma (136 Nodes)" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.17" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.17" BaudRate="32" NetworkType="DDP" MaxChannels="408"/>
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.17" BaudRate="32" NetworkType="DDP" MaxChannels="1"/>
   </Controller>
   <Controller Id="33" Name="WLED Wemos #3 (Ships Wheel)" Description="Ships Wheel" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.18" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.18" BaudRate="33" NetworkType="DDP" MaxChannels="360"/>
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.18" BaudRate="33" NetworkType="DDP" MaxChannels="1"/>
   </Controller>
   <Controller Id="34" Name="WLED Wemos #4 (Dreidel)" Description="Dreidel" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.19" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.19" BaudRate="34" NetworkType="DDP" MaxChannels="486"/>
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.19" BaudRate="34" NetworkType="DDP" MaxChannels="300"/>
   </Controller>
   <Controller Id="35" Name="WLED Wemos #5 (Matrix- Text- Small- Donations)" Description="Small Text Matrix Donations Sign (2 X (32 X 8) Nodes = 512)" Type="Ethernet" Vendor="WLED" Model="WLED" Variant="Generic ESP8266" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.20" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
     <network ChannelsPerPacket="1440" KeepChannelNumbers="0" ComPort="10.3.12.20" BaudRate="35" NetworkType="DDP" MaxChannels="1536"/>
@@ -265,7 +265,7 @@
     <network ComPort="MULTICAST" BaudRate="512" NetworkType="E131" MaxChannels="510"/>
   </Controller>
   <Controller Id="9999" Name="zNull or Retired Placeholder" Description="Placeholders for Null or Retired Props" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="1" Monitor="1" IP="10.3.12.253" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="TRUE" UPS="FALSE" ForceLocalIP="">
-    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.253" BaudRate="9999" NetworkType="DDP" MaxChannels="671"/>
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="10.3.12.253" BaudRate="9999" NetworkType="DDP" MaxChannels="30085"/>
   </Controller>
   <Controller Id="2" Name="Teensy OctoWS" Description="Teensy Pixel Pusher 32 output" Type="Ethernet" Vendor="" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="Inactive" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="10.3.12.15" Protocol="E131" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
     <network ComPort="10.3.12.15" BaudRate="200" NetworkType="E131" MaxChannels="510"/>
