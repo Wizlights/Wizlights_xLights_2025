@@ -1,0 +1,387 @@
+false
+186
+#Star- of Bethlehem
+#Wreath- Rosa
+#Elf Singer
+#Grinch
+#Star- Triple 1 {L} (all 3 levels)
+#Star- Triple 2 {R} (all 3 levels)
+#Eave Pixels- All
+#Matrix- Mega Triangle
+#Star- Wreath Mega Triangle Topper
+#Spinners Mint 1-8 (22in Big) Horizontal Group
+#Matrix- Text- Big (72X16=1152)
+#Spinners and Snowflakes
+#Spinners Mint 1-8 (22in Big) Rings
+#Snowflakes and Spinners
+#Spinners Mint 9-12 (15in Small) Vertical Group
+#Tree- Singing Female [Gwen] {L}
+#Tree- Singing Male [Blake] {R}
+#Matrix- P4-1 Left
+#Matrix- P4-2 Right
+#Trees- Mini Pixel
+#Wreath- Rosa- Arrows 1-16
+#Wreath- Rosa- Outer Balls 1-16
+#Wreath- Rosa- Rings 1-8
+#Wreath- Rosa- Spokes 1-32
+#Fence Swags- All 01-21
+#Matrix- Text- Donations (64X8)
+$Tree- Big AC 1 (M)
+$Tree- Pencil 01- Red (R) {L}
+$Tree- Pencil 02- Green (G)
+$Tree- Pencil 03- Blue (B)
+$Tree- Pencil 04- Pink (P) {F}
+$Tree- Pencil 05- Silver (W)
+$Tree- Pencil 06- Rainbow (M) {CL}
+$Tree- Pencil 07- Italian (RWG) {CF}
+$Tree- Pencil 08- Gold (O)
+$Tree- Pencil 09- Gold (O)
+$Tree- Pencil 10- Italian (RWG) {CB}
+$Tree- Pencil 11- Rainbow (M) {CR}
+$Tree- Pencil 12- Silver (W)
+$Tree- Pencil 13- Pink (P) [B}
+$Tree- Pencil 14- Blue (B)
+$Tree- Pencil 15- Green (G)
+$Tree- Pencil 16- Red (R) {R}
+$Tree- Spiral 4 {L} (W)
+$Tree- Spiral 3 {F} (W)
+$Tree- Spiral 2 {R} (W)
+$Tree- Spiral 1 {B} (W)
+$Tree- Tinsel 1 {L} (R)
+$Tree- Tinsel 2 {R} (R)
+$Tree- Tomato A1.0 {L} (RGB}
+$Tree- Tomato A2.0 (RGB}
+$Tree- Tomato A3.0 (RGB}
+$Tree- Tomato A4.0 {CL} (RGB}
+$Tree- Tomato A5.0 {CR} (RGB}
+$Tree- Tomato A6.0 (RGB}
+$Tree- Tomato A7.0 (RGB}
+$Tree- Tomato A8.0 {R} (RGB}
+$Tree- Tomato B1.1 {L} (V)
+$Tree- Tomato B1.2 {L} (W)
+$Tree- Tomato B2.1 (V)
+$Tree- Tomato B2.2 (W)
+$Tree- Tomato B3.1 (V)
+$Tree- Tomato B3.2 (W)
+$Tree- Tomato B4.1 {CL} (V)
+$Tree- Tomato B4.2 {CL} (W)
+$Tree- Tomato B5.1 {CR} (V)
+$Tree- Tomato B5.2 {CR} (W)
+$Tree- Tomato B6.1 (V)
+$Tree- Tomato B6.2 (W)
+$Tree- Tomato B7.1 (V)
+$Tree- Tomato B7.2 (W)
+$Tree- Tomato B8.1 {R} (V)
+$Tree- Tomato B8.2 {R} (W)
+$Tree- Tomato A1.4 {L} (W)
+$Tree- Tomato A2.4 (W)
+$Tree- Tomato A3.4 (W)
+$Tree- Tomato A4.4 {CL} (W)
+$Tree- Tomato A5.4 {CR} (W)
+$Tree- Tomato A6.4 (W)
+$Tree- Tomato A7.4 (W)
+$Tree- Tomato A8.4 {R} (W)
+$Candy Canes 1 (R)
+$Candy Canes 2 (G)
+$Candy Canes 3 (R)
+$Candy Canes 4 (G)
+$Tree- Tomato A1.2 (L} (G)
+$Tree- Tomato A1.3 (L} (B)
+$Tree- Tomato A2.1 (R)
+$Tree- Tomato A2.2 (G)
+$Tree- Tomato A2.3 (B)
+$Tree- Tomato A3.1 (R)
+$Tree- Tomato A3.2 (G)
+$Tree- Tomato A3.3 (B)
+$Tree- Tomato A4.1 {CL} (R)
+$Tree- Tomato A4.2 {CL} (G)
+$Tree- Tomato A4.3 {CL} (B)
+$Tree- Tomato A5.1 {CR} (R)
+$Tree- Tomato A5.2 {CR} (G)
+$Tree- Tomato A5.3 {CR} (B)
+$Tree- Tomato A6.1 (R)
+$Tree- Tomato A6.2 (G)
+$Tree- Tomato A6.3 (B)
+$Tree- Tomato A7.1 (R)
+$Tree- Tomato A7.2 (G)
+$Tree- Tomato A7.3 (B)
+$Tree- Tomato A8.1 {R} (R)
+$Tree- Tomato A8.2 {R} (G)
+$Tree- Tomato A8.3 {R} (B)
+%Amplifier 12V
+%Big Nick Inside (W)
+%Bushes 1 {S} Rainbow (ROGBV)
+%Bushes 2.1 {L} (R)
+%Bushes 2.2 {L} (G)
+%Bushes 2.4 {L} (W)
+%Bushes 3.0 (RGBW)
+%Bushes 3.1 {C} (R)
+%Bushes 3.2 {C} (G)
+%Bushes 3.3 {C} (B)
+%Bushes 3.4 {C} (W)
+%Bushes 4.1 {D} (P)
+%Bushes 4.2 {D} (W)
+%Bushes 5.0 {R} (RGBW)
+%Bushes 5.1 {R} (R)
+%Bushes 5.2 {R} (G)
+%Bushes 5.3 {R} (B)
+%Bushes 5.4 {R} (W)
+%Bushes 5.5 {R} (V)
+%Bushes 5.6 {R} (M)
+%Candelabra
+%Coexist Flag (MRGB)
+%Countdown Timer (B)
+%Disco Balls (M)
+%Festivus Pole Flood (RGB)
+%Flying Spaghetti Monster (W)
+%Gingerbread House
+%Lamp Post Directions (O)
+%Lamp Posts (Y)
+%Lasers- Driveway (RG)
+%Lasers- House Front (RGB)
+%Lasers- Street (RG)
+%Mailboxes (Y)
+%Menorah (B)
+%Nativity Jesus Joseph Mary
+%Nativity Shepherds
+%Nativity Wisemen
+%Nativity Angels
+%Nativity Animals
+%Swirlies- Nativity Stars
+%Nativity Flood 1 {L} (RGB)
+%Nativity Flood 2 {R} (RGB)
+%On The Air (R)
+%Peace Sign (RGB)
+%Presents (M)
+%Rotating Beacons 1 {LF} (RGBO)
+%Rotating Beacons 2 {LB} (RGBO)
+%Rotating Beacons 3 {R} {BGO}
+%Snow Lake (W)
+%Snowmen (W)
+%Snowmen Lamp Inflatable
+%Penguins
+%Swirlies- Snowflakes (WB)
+%Snowfall Projectors (WB)
+%Strobes- C9- Bushes {BLC} (W)
+%Strobes- C9- Roof Bushes Trees {R} (W)
+%Strobes- C9- Trees {FC} (W)
+%Strobes- C9- Tree- Big Pixel {FC} (W)
+%Strobes- 5mm- Bushes {BLC} (W)
+%Swirlies- Big Nick Fire (RO)
+%Swiriles- Candy Canes (RG)
+%Swirlies- Driveway (RGB)
+%Swirlies- Oak (RGB)
+%Swirlies- Pine (GO)
+%Swirlies- Street (M)
+%Trees- Willow and Palm (GW)
+%Trees- Rainbow (ROYGBV)
+%Work Together 1 (R)
+%Work Together 2 (W)
+%Work Together 3 (B)
+%Work Together 4- Swirly Stars (RWB)
+%Wreath Berries (R)
+%Wreath Leaves (G)
+%UFOs 1 {L} (RGB)
+%UFOs 2 {CT} (RGB)
+%UFOs 3 {R} (RGB)
+%Yule Log (O)
+%Bushes 2.3 {L} (B)
+#Star- of Bethlehem			Star- of Bethlehem	white
+#Wreath- Rosa			Wreath- Rosa	white
+#Elf Singer			Elf Singer	white
+#Elf Singer	Hat Trim		Elf Singer/Hat Trim	white
+#Grinch				white
+#Grinch	OutlineBody		Grinch/OutlineBody	white
+#Grinch	Eyes		Grinch/Eyes	white
+#Grinch	Eyeballs		Grinch/Eyeballs	white
+#Grinch	Nose		Grinch/Nose	white
+#Grinch	Heart Inner		Grinch/Heart Inner	white
+#Grinch	Heart Outer		Grinch/Heart Outer	white
+#Grinch	Closed Mouth Smile Medium		Grinch/Closed Mouth Smile Medium	white
+#Grinch	BodyInner		Grinch/BodyInner	white
+#Grinch	FaceOutline		Grinch/FaceOutline	white
+#Grinch	Hair		Grinch/Hair	white
+#Star- Triple 1 {L} (all 3 levels)			Star- Triple 1 {L} (all 3 levels)	white
+#Star- Triple 2 {R} (all 3 levels)			Star- Triple 2 {R} (all 3 levels)	white
+#Eave Pixels- All			Eave Pixels- All	white
+#Matrix- Mega Triangle			Matrix- Mega Triangle	white
+#Star- Wreath Mega Triangle Topper			Star- Wreath Mega Triangle Topper	white
+#Spinners Mint 1-8 (22in Big) Horizontal Group			Spinners Mint 1-8 (22in Big) Horizontal Group	white
+#Matrix- Text- Big (72X16=1152)			Matrix- Text- Big (72X16=1152)	white
+#Spinners and Snowflakes			Spinners and Snowflakes	white
+#Spinners Mint 1-8 (22in Big) Rings			Spinners Mint 1-8 (22in Big) Rings	white
+#Snowflakes and Spinners			Snowflakes and Spinners	white
+#Spinners Mint 9-12 (15in Small) Vertical Group			Spinners Mint 9-12 (15in Small) Vertical Group	white
+#Tree- Singing Female [Gwen] {L}			Tree- Singing Female [Gwen] {L}	white
+#Tree- Singing Female [Gwen] {L}	Tree Outline		Tree- Singing Female [Gwen] {L}/Tree Outline	white
+#Tree- Singing Male [Blake] {R}			Tree- Singing Male [Blake] {R}	white
+#Tree- Singing Male [Blake] {R}	Tree Outline		Tree- Singing Male [Blake] {R}/Tree Outline	white
+#Matrix- P4-1 Left			Matrix- P4-1 Left	white
+#Matrix- P4-2 Right			Matrix- P4-2 Right	white
+#Trees- Mini Pixel			Trees- Mini Pixel	white
+#Wreath- Rosa- Arrows 1-16			Wreath- Rosa- Arrows 1-16	white
+#Wreath- Rosa- Outer Balls 1-16			Wreath- Rosa- Outer Balls 1-16	white
+#Wreath- Rosa- Rings 1-8			Wreath- Rosa- Rings 1-8	white
+#Wreath- Rosa- Spokes 1-32			Wreath- Rosa- Spokes 1-32	white
+#Fence Swags- All 01-21			Fence Swags- All 01-21	white
+#Matrix- Text- Donations (64X8)			Matrix- Text- Donations (64X8)	white
+$Tree- Big AC 1 (M)			Tree- Big AC 1 (M)	white
+$Tree- Pencil 01- Red (R) {L}			Tree- Pencil 01- Red (R) {L}	white
+$Tree- Pencil 02- Green (G)			Tree- Pencil 02- Green (G)	white
+$Tree- Pencil 03- Blue (B)			Tree- Pencil 03- Blue (B)	white
+$Tree- Pencil 04- Pink (P) {F}			Tree- Pencil 04- Pink (P) {F}	white
+$Tree- Pencil 05- Silver (W)			Tree- Pencil 05- Silver (W)	white
+$Tree- Pencil 06- Rainbow (M) {CL}			Tree- Pencil 06- Rainbow (M) {CL}	white
+$Tree- Pencil 07- Italian (RWG) {CF}			Tree- Pencil 07- Italian (RWG) {CF}	white
+$Tree- Pencil 08- Gold (O)			Tree- Pencil 08- Gold (O)	white
+$Tree- Pencil 09- Gold (O)			Tree- Pencil 09- Gold (O)	white
+$Tree- Pencil 10- Italian (RWG) {CB}			Tree- Pencil 10- Italian (RWG) {CB}	white
+$Tree- Pencil 11- Rainbow (M) {CR}			Tree- Pencil 11- Rainbow (M) {CR}	white
+$Tree- Pencil 12- Silver (W)			Tree- Pencil 12- Silver (W)	white
+$Tree- Pencil 13- Pink (P) [B}			Tree- Pencil 13- Pink (P) [B}	white
+$Tree- Pencil 14- Blue (B)			Tree- Pencil 14- Blue (B)	white
+$Tree- Pencil 15- Green (G)			Tree- Pencil 15- Green (G)	white
+$Tree- Pencil 16- Red (R) {R}			Tree- Pencil 16- Red (R) {R}	white
+$Tree- Spiral 4 {L} (W)			Tree- Tinsel 1 {L} (R)	white
+$Tree- Spiral 3 {F} (W)			Tree- Spiral 3 {F} (W)	white
+$Tree- Spiral 2 {R} (W)			Tree- Spiral 2 {R} (W)	white
+$Tree- Spiral 1 {B} (W)			Tree- Spiral 1 {B} (W)	white
+$Tree- Tinsel 1 {L} (R)			Tree- Tinsel 1 {L} (R)	white
+$Tree- Tinsel 2 {R} (R)			Tree- Tinsel 1 {L} (R)	white
+$Tree- Tomato A1.0 {L} (RGB}			Tree- Tomato A1.0 {L} (RGB}	white
+$Tree- Tomato A2.0 (RGB}			Tree- Tomato A2.0 (RGB}	white
+$Tree- Tomato A3.0 (RGB}			Tree- Tomato A3.0 (RGB}	white
+$Tree- Tomato A4.0 {CL} (RGB}			Tree- Tomato A4.0 {CL} (RGB}	white
+$Tree- Tomato A5.0 {CR} (RGB}			Tree- Tomato A5.0 {CR} (RGB}	white
+$Tree- Tomato A6.0 (RGB}			Tree- Tomato A6.0 (RGB}	white
+$Tree- Tomato A7.0 (RGB}			Tree- Tomato A7.0 (RGB}	white
+$Tree- Tomato A8.0 {R} (RGB}			Tree- Tomato A8.0 {R} (RGB}	white
+$Tree- Tomato B1.1 {L} (V)			Tree- Tomato B1.1 {L} (V)	white
+$Tree- Tomato B1.2 {L} (W)			Tree- Tomato B1.2 {L} (W)	white
+$Tree- Tomato B2.1 (V)			Tree- Tomato B2.1 (V)	white
+$Tree- Tomato B2.2 (W)			Tree- Tomato B2.2 (W)	white
+$Tree- Tomato B3.1 (V)			Tree- Tomato B3.1 (V)	white
+$Tree- Tomato B3.2 (W)			Tree- Tomato B3.2 (W)	white
+$Tree- Tomato B4.1 {CL} (V)			Tree- Tomato B4.1 {CL} (V)	white
+$Tree- Tomato B4.2 {CL} (W)			Tree- Tomato B4.2 {CL} (W)	white
+$Tree- Tomato B5.1 {CR} (V)			Tree- Tomato B5.1 {CR} (V)	white
+$Tree- Tomato B5.2 {CR} (W)			Tree- Tomato B5.2 {CR} (W)	white
+$Tree- Tomato B6.1 (V)			Tree- Tomato B6.1 (V)	white
+$Tree- Tomato B6.2 (W)			Tree- Tomato B6.2 (W)	white
+$Tree- Tomato B7.1 (V)			Tree- Tomato B7.1 (V)	white
+$Tree- Tomato B7.2 (W)			Tree- Tomato B7.2 (W)	white
+$Tree- Tomato B8.1 {R} (V)			Tree- Tomato B8.1 {R} (V)	white
+$Tree- Tomato B8.2 {R} (W)			Tree- Tomato B8.2 {R} (W)	white
+$Tree- Tomato A1.4 {L} (W)			Tree- Tomato A1.4 {L} (W)	white
+$Tree- Tomato A2.4 (W)			Tree- Tomato A2.4 (W)	white
+$Tree- Tomato A3.4 (W)			Tree- Tomato A3.4 (W)	white
+$Tree- Tomato A4.4 {CL} (W)			Tree- Tomato A4.4 {CL} (W)	white
+$Tree- Tomato A5.4 {CR} (W)			Tree- Tomato A5.4 {CR} (W)	white
+$Tree- Tomato A6.4 (W)			Tree- Tomato A6.4 (W)	white
+$Tree- Tomato A7.4 (W)			Tree- Tomato A7.4 (W)	white
+$Tree- Tomato A8.4 {R} (W)			Tree- Tomato A8.4 {R} (W)	white
+$Candy Canes 1 (R)			Candy Canes 1 (R)	white
+$Candy Canes 2 (G)			Candy Canes 2 (G)	white
+$Candy Canes 3 (R)			Candy Canes 3 (R)	white
+$Candy Canes 4 (G)			Candy Canes 4 (G)	white
+$Tree- Tomato A1.2 (L} (G)			Tree- Tomato A1.2 (L} (G)	white
+$Tree- Tomato A1.3 (L} (B)			Tree- Tomato A1.3 (L} (B)	white
+$Tree- Tomato A2.1 (R)			Tree- Tomato A2.1 (R)	white
+$Tree- Tomato A2.2 (G)			Tree- Tomato A2.2 (G)	white
+$Tree- Tomato A2.3 (B)			Tree- Tomato A2.3 (B)	white
+$Tree- Tomato A3.1 (R)			Tree- Tomato A3.1 (R)	white
+$Tree- Tomato A3.2 (G)			Tree- Tomato A3.2 (G)	white
+$Tree- Tomato A3.3 (B)			Tree- Tomato A3.3 (B)	white
+$Tree- Tomato A4.1 {CL} (R)			Tree- Tomato A4.1 {CL} (R)	white
+$Tree- Tomato A4.2 {CL} (G)			Tree- Tomato A4.2 {CL} (G)	white
+$Tree- Tomato A4.3 {CL} (B)			Tree- Tomato A4.3 {CL} (B)	white
+$Tree- Tomato A5.1 {CR} (R)			Tree- Tomato A5.1 {CR} (R)	white
+$Tree- Tomato A5.2 {CR} (G)			Tree- Tomato A5.2 {CR} (G)	white
+$Tree- Tomato A5.3 {CR} (B)			Tree- Tomato A5.3 {CR} (B)	white
+$Tree- Tomato A6.1 (R)			Tree- Tomato A6.1 (R)	white
+$Tree- Tomato A6.2 (G)			Tree- Tomato A6.2 (G)	white
+$Tree- Tomato A6.3 (B)			Tree- Tomato A6.3 (B)	white
+$Tree- Tomato A7.1 (R)			Tree- Tomato A7.1 (R)	white
+$Tree- Tomato A7.2 (G)			Tree- Tomato A7.2 (G)	white
+$Tree- Tomato A7.3 (B)			Tree- Tomato A7.3 (B)	white
+$Tree- Tomato A8.1 {R} (R)			Tree- Tomato A8.1 {R} (R)	white
+$Tree- Tomato A8.2 {R} (G)			Tree- Tomato A8.2 {R} (G)	white
+$Tree- Tomato A8.3 {R} (B)			Tree- Tomato A8.3 {R} (B)	white
+%Amplifier 12V			Amplifier 12V	white
+%Big Nick Inside (W)			Big Nick Inside (W)	white
+%Bushes 1 {S} Rainbow (ROGBV)			Bushes 1 {S} Rainbow (ROGBV)	white
+%Bushes 2.1 {L} (R)			Bushes 2.1 {L} (R)	white
+%Bushes 2.2 {L} (G)			Bushes 2.2 {L} (G)	white
+%Bushes 2.4 {L} (W)			Bushes 2.4 {L} (W)	white
+%Bushes 3.0 (RGBW)			Bushes 3.0 (RGBW)	white
+%Bushes 3.1 {C} (R)			Bushes 3.1 {C} (R)	white
+%Bushes 3.2 {C} (G)			Bushes 3.2 {C} (G)	white
+%Bushes 3.3 {C} (B)			Bushes 3.3 {C} (B)	white
+%Bushes 3.4 {C} (W)			Bushes 3.4 {C} (W)	white
+%Bushes 4.1 {D} (P)			Bushes 4.1 {D} (P)	white
+%Bushes 4.2 {D} (W)			Bushes 4.2 {D} (W)	white
+%Bushes 5.0 {R} (RGBW)			Bushes 5.0 {R} (RGBW)	white
+%Bushes 5.1 {R} (R)			Bushes 5.1 {R} (R)	white
+%Bushes 5.2 {R} (G)			Bushes 5.2 {R} (G)	white
+%Bushes 5.3 {R} (B)			Bushes 5.3 {R} (B)	white
+%Bushes 5.4 {R} (W)			Bushes 5.4 {R} (W)	white
+%Bushes 5.5 {R} (V)			Bushes 5.5 {R} (V)	white
+%Bushes 5.6 {R} (M)			Bushes 5.6 {R} (M)	white
+%Candelabra			Candelabra	white
+%Coexist Flag (MRGB)			Coexist Flag (MRGB)	white
+%Countdown Timer (B)			Countdown Timer (B)	white
+%Disco Balls (M)			Disco Balls (M)	white
+%Festivus Pole Flood (RGB)			Festivus Pole Flood (RGB)	white
+%Flying Spaghetti Monster (W)			Flying Spaghetti Monster (W)	white
+%Gingerbread House			Gingerbread House	white
+%Lamp Post Directions (O)			Lamp Post Directions (O)	white
+%Lamp Posts (Y)			Lamp Posts (Y)	white
+%Lasers- Driveway (RG)			Lasers- Driveway (RG)	white
+%Lasers- House Front (RGB)			Lasers- House Front (RGB)	white
+%Lasers- Street (RG)			Lasers- Street (RG)	white
+%Mailboxes (Y)			Mailboxes (Y)	white
+%Menorah (B)			Menorah (B)	white
+%Nativity Jesus Joseph Mary			Nativity Jesus Joseph Mary	white
+%Nativity Shepherds			Nativity Shepherds	white
+%Nativity Wisemen			Nativity Wisemen	white
+%Nativity Angels			Nativity Angels	white
+%Nativity Animals			Nativity Animals	white
+%Swirlies- Nativity Stars			Swirlies- Nativity Stars	white
+%Nativity Flood 1 {L} (RGB)			Nativity Flood 1 {L} (RGB)	white
+%Nativity Flood 2 {R} (RGB)			Nativity Flood 2 {R} (RGB)	white
+%On The Air (R)			On The Air (R)	white
+%Peace Sign (RGB)			Peace Sign (RGB)	white
+%Presents (M)			Presents (M)	white
+%Rotating Beacons 1 {LF} (RGBO)			Rotating Beacon 01 {F} (O)	white
+%Rotating Beacons 2 {LB} (RGBO)			Rotating Beacon 05 {B} (O)	white
+%Rotating Beacons 3 {R} {BGO}			Rotating Beacon 08 {R} (B)	white
+%Snow Lake (W)			Snow Lake (W)	white
+%Snowmen (W)			Snowmen (W)	white
+%Snowmen Lamp Inflatable			Snowmen Lamp Inflatable	white
+%Penguins			Penguins	white
+%Swirlies- Snowflakes (WB)			Swirlies- Snowflakes (WB)	white
+%Snowfall Projectors (WB)			Snowfall Projectors (WB)	white
+%Strobes- C9- Bushes {BLC} (W)			Strobes- C9- Bushes {BLC} (W)	white
+%Strobes- C9- Roof Bushes Trees {R} (W)			Strobes- C9- Roof Bushes Trees {R} (W)	white
+%Strobes- C9- Trees {FC} (W)			Strobes- C9- Trees {FC} (W)	white
+%Strobes- C9- Tree- Big Pixel {FC} (W)			Strobes- C9- Trees {FC} (W)	white
+%Strobes- 5mm- Bushes {BLC} (W)			Strobes- 5mm- Bushes {BLC} (W)	white
+%Swirlies- Big Nick Fire (RO)			Swirlies- Big Nick Fire (RO)	white
+%Swiriles- Candy Canes (RG)			Swiriles- Candy Canes (RG)	white
+%Swirlies- Driveway (RGB)			Swirlies- Driveway (RGB)	white
+%Swirlies- Oak (RGB)			Swirlies- Oak (RGB)	white
+%Swirlies- Pine (GO)			Swirlies- Pine (GO)	white
+%Swirlies- Street (M)			Swirlies- Street (M)	white
+%Trees- Willow and Palm (GW)			Trees- Willow and Palm (GW)	white
+%Trees- Rainbow (ROYGBV)			Trees- Rainbow (ROYGBV)	white
+%Work Together 1 (R)			Work Together 1 (R)	white
+%Work Together 2 (W)			Work Together 2 (W)	white
+%Work Together 3 (B)			Work Together 3 (B)	white
+%Work Together 4- Swirly Stars (RWB)			Work Together 4- Swirly Stars (RWB)	white
+%Wreath Berries (R)			Wreath Berries (R)	white
+%Wreath Leaves (G)			Wreath Leaves (G)	white
+%UFOs 1 {L} (RGB)			UFOs 1 {L} (RGB)	white
+%UFOs 2 {CT} (RGB)			UFOs 2 {CT} (RGB)	white
+%UFOs 3 {R} (RGB)			UFOs 3 {R} (RGB)	white
+%Yule Log (O)			Yule Log (O)	white
+%Bushes 2.3 {L} (B)			Bushes 2.3 {L} (B)	white

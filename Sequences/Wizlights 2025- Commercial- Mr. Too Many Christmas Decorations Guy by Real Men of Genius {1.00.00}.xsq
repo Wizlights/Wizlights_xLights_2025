@@ -3,17 +3,17 @@
   <head>
     <version>2025.05</version>
     <author>Doctor Wizard</author>
-    <author-email>wizar@wizlights.com</author-email>
+    <author-email>wizard@wizlights.com</author-email>
     <author-website>https://wizlights.com; https://facebook.com/wizlights</author-website>
-    <song>Twinkly Lights</song>
-    <artist>Bob&amp;apos;s Burgers, Todrick Hall, H. Jon Benjamin, Eugene Mirman, John Roberts, Kristen Schaal, Larry Murphy and Dan Mintz</artist>
-    <album>Christmas</album>
+    <song>Mr. Too Many Christmas Decorations Guy</song>
+    <artist>Real Men of Genius</artist>
+    <album></album>
     <MusicURL></MusicURL>
     <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>X:\2025\Audio\Twinkly Lights by Bob's Burgers (2.27.73).mp3</mediaFile>
-    <sequenceDuration>147.726</sequenceDuration>
+    <mediaFile>X:\2025\Audio\Commercial- Mr. Too Many Christmas Decorations Guy by Real Men of Genius {1.00.00}.mp3</mediaFile>
+    <sequenceDuration>59.994</sequenceDuration>
     <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
@@ -21,7 +21,7 @@
   <ColorPalettes/>
   <EffectDB/>
   <DataLayers>
-    <DataLayer lor_params="7471171" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+    <DataLayer lor_params="6357064" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Singing and Sound Effects,All Timings,Pixel Props,Matrixes,Trees (AC and Pixel),AC Lights in Logical Order,Basics,By Controller AC-DC in DMX order,White AC lights,Power Items + Usually On,Imported Master" active="1"/>

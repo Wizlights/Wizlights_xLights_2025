@@ -3,17 +3,17 @@
   <head>
     <version>2025.05</version>
     <author>Doctor Wizard</author>
-    <author-email>wizar@wizlights.com</author-email>
+    <author-email>wizard@wizlights.com</author-email>
     <author-website>https://wizlights.com; https://facebook.com/wizlights</author-website>
-    <song>Twinkly Lights</song>
-    <artist>Bob&amp;apos;s Burgers, Todrick Hall, H. Jon Benjamin, Eugene Mirman, John Roberts, Kristen Schaal, Larry Murphy and Dan Mintz</artist>
-    <album>Christmas</album>
+    <song>Toy Sack</song>
+    <artist>Bob Rivers</artist>
+    <album>More Twisted Christmas</album>
     <MusicURL></MusicURL>
     <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>X:\2025\Audio\Twinkly Lights by Bob's Burgers (2.27.73).mp3</mediaFile>
-    <sequenceDuration>147.726</sequenceDuration>
+    <mediaFile>X:\2025\Audio\Toy Sack by Bob Rivers {02.34}.mp3</mediaFile>
+    <sequenceDuration>153.808</sequenceDuration>
     <imageDir></imageDir>
   </head>
   <nextid>1</nextid>

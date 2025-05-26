@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2024.15</version>
-    <author></author>
-    <author-email></author-email>
-    <author-website></author-website>
+    <version>2025.05</version>
+    <author>Doctor Wizard</author>
+    <author-email>wizard@wizlights.com</author-email>
+    <author-website>https://wizlights.com; https://facebook.com/wizlights</author-website>
     <song>Fat Santa</song>
     <artist>Wealthy Elves</artist>
     <album>Superpop (Tis the Season)</album>
@@ -12,7 +12,7 @@
     <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>X:\2024\xLights\Wizlights\Audio\Fat Santa by Wealthy Elves (2.50.14).mp3</mediaFile>
+    <mediaFile>X:\2025\Audio\Fat Santa by Wealthy Elves (2.50.14).mp3</mediaFile>
     <sequenceDuration>170.136</sequenceDuration>
     <imageDir></imageDir>
   </head>
@@ -24,58 +24,1718 @@
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,AC Lights in Logical Order,Singing and Sound Effects,Basics,By Controller,Pixel Props,AC Lights in DMX Order,All Timings,White AC lights,FalconPropsTest,Import xTreme,LOR AC-DC DMX" active="1"/>
-    <Element collapsed="0" type="model" name="Trees" visible="1"/>
-    <Element collapsed="0" type="model" name="Candy Canes Seq Group (RGRG)" visible="1"/>
-    <Element collapsed="0" type="model" name="Religious Group" visible="1"/>
-    <Element collapsed="0" type="model" name="Dumb RGB Items Group" visible="1"/>
-    <Element collapsed="0" type="model" name="Oddballs Group" visible="1"/>
-    <Element collapsed="0" type="model" name="Power Items" visible="1"/>
-    <Element collapsed="0" type="model" name="Work Together Sign (RWB)" visible="1"/>
-    <Element collapsed="0" type="model" name="UFOs (RGB)" visible="1"/>
-    <Element collapsed="0" type="model" name="Bushes (DMX)" visible="1"/>
-    <Element collapsed="0" type="model" name="Swirlies Spinny Group (M) (DMX)" visible="1"/>
-    <Element collapsed="0" type="model" name="Snow Group (DMX)" visible="1"/>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Singing and Sound Effects,All Timings,Pixel Props,Matrixes,Trees (AC and Pixel),AC Lights in Logical Order,Basics,By Controller AC-DC in DMX order,White AC lights,Power Items + Usually On,Imported Master" active="1"/>
+    <Element collapsed="0" type="model" name="#All Pixel Props except Singers and Mega" visible="1"/>
+    <Element collapsed="0" type="model" name="#Pixels- Absolutely All incl Singers" visible="1"/>
+    <Element collapsed="0" type="model" name="#House+Yard Px- Whole- Pixels" visible="1"/>
+    <Element collapsed="0" type="model" name="#House Px Outline (Eaves + Roof Edges)" visible="1"/>
+    <Element collapsed="0" type="model" name="#House Px- Whole- Pixels with Eaves and Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="#Pixels House Front" visible="1"/>
+    <Element collapsed="0" type="model" name="#Whole House Pixels" visible="1"/>
+    <Element collapsed="0" type="model" name="#Roof Pixel Props Odd" visible="1"/>
+    <Element collapsed="0" type="model" name="#Roof Pixels Props Even" visible="1"/>
+    <Element collapsed="0" type="model" name="#Roof Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="#Eave Pixels- All" visible="1"/>
+    <Element collapsed="0" type="model" name="#Mega Triangle and Star Wreath" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners and Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes and Spinners" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes and Spinners Rings" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes and Spinners Outlines" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes and Spinners Legs" visible="1"/>
+    <Element collapsed="0" type="model" name="#House Px- Whole- Pixel Props no Eaves or Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 1-8 (22in Big) Horizontal Group" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint Left Big 1-4" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint Right Big 5-8" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 1-8 (22in Big) Submodels" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint Big Arms" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 1-8 (22in Big) Legs" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 1-8 (22in Big) Outlines" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 1-8 (22in Big) Rings" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 1-8 (22in Big) Spokes" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 1-12 (Big+Small)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes Small (4)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes- Big (2)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes All 1-6 (Small + Big)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes All 1-6 Submodels" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes Arms" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes Centers" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes Outlines" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes Rings" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes Spokes" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflakes Tips" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tri-Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="#Stars- Triple 1+2+David" visible="1"/>
+    <Element collapsed="0" type="model" name="#TriStar 1" visible="1"/>
+    <Element collapsed="0" type="model" name="#TriStar 2" visible="1"/>
+    <Element collapsed="0" type="model" name="#Stars- Triple 1+2 {L+R} (all arms all levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Stars- Triple 1+2 {L+R} Arms 1 Top (all 3 levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Stars- Triple 1+2 {L+R} Arms 3 Bottom Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Stars- Triple 1+2 {L+R} Arms 4 Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Stars- Triple 1+2 {L+R} Arms 5 Left (all 3 levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Stars- Triple 1+2 {L+R} Arms 2 Right (all 3 levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star Triple 1 {L} Arms 4 Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 1 {L} (all 3 levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 1 {L} Arms 1 Top (all 3 levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 1 {L} Arms 2 Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 1 {L} Arms 3 Bottom Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 1 {L} Arms 4 Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 1 {L} Arms 5 Left (all 3 levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 2 {R} (all 3 levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 2 {R} Arms 1 Top (all 3 levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 2 {R} Arms 2 Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 2 {R} Arms 3 Bottom Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 2 {R} Arms 4 Bottom Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 2 {R} Arms 5 Left (all 3 levels)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Bells (both) All 3 Bells" visible="1"/>
+    <Element collapsed="0" type="model" name="#Bells (both) Center Bell" visible="1"/>
+    <Element collapsed="0" type="model" name="#Bells (both) Left Bell" visible="1"/>
+    <Element collapsed="0" type="model" name="#Bells (both) Right Bell" visible="1"/>
+    <Element collapsed="0" type="model" name="#Yard Pixel Props" visible="1"/>
+    <Element collapsed="0" type="model" name="#Matrixes- P4" visible="1"/>
+    <Element collapsed="0" type="model" name="#Trees- Mini Pixel" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 9-12 (15in Small) Legs" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 9-12 (15in Small) Outlines" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 9-12 (15in Small) Rings" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 9-12 (15in Small) Spokes" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Small Spokes" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 9-12 (15in Small) Submodels" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint 9-12 (15in Small) Vertical Group" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint Small 9-12" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wreath- Rosa- Feathers 1-16" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wreath- Rosa- Feathers Odd 1-15" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wreath- Rosa- Feathers Even 2-16" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wreath- Rosa- Arrows 1-16" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wreath- Rosa- Outer Balls 1-16" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wreath- Rosa- Ribbons 1-16" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wreath- Rosa- Rings 1-8" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wreath- Rosa- Spokes 1-32" visible="1"/>
+    <Element collapsed="0" type="model" name="#Fence Swags- All 01-21" visible="1"/>
+    <Element collapsed="0" type="model" name="#Fence Swags- Left Half 01-11" visible="1"/>
+    <Element collapsed="0" type="model" name="#Fence Swags- Odd 1357..." visible="1"/>
+    <Element collapsed="0" type="model" name="#Fence Swags- Right Half 12-21" visible="1"/>
+    <Element collapsed="0" type="model" name="#Fence Swags- Left Side Only (5)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Fence Swags- Even 2468..." visible="1"/>
+    <Element collapsed="0" type="model" name="#Fence Swags- Front Only (10)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Fence Swags- Right and Diagonal Only (6)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Ornaments" visible="1"/>
+    <Element collapsed="0" type="model" name="#Ornaments Tops" visible="1"/>
+    <Element collapsed="0" type="model" name="#Ornaments Outlines" visible="1"/>
+    <Element collapsed="0" type="model" name="#Dreidel with Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="#Major Award with Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Spiral Pixel with Star" visible="1"/>
+    <Element collapsed="0" type="model" name="#Rainbow Rope Arch Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="#Matrix- Mega Triangle" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Wreath Mega Triangle Topper" visible="1"/>
+    <Element collapsed="0" type="model" name="#Matrix- Text- Big (72X16=1152)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Eave Pixels 1 {L} Horiz (221)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Eave Pixels 2 {L} Diag (186)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Eave Pixels 3 {R} Diag (187)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Eave Pixels 4 {R} Horiz (255)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Roof Edges Neon Rope Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Roof Edges Neon Rope Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 01 (22in Big) {L}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 02 (22in Big)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 03 (22in Big)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 04 (22in Big)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 05 (22in Big)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 06 (22in Big)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 07 (22in Big)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 08 (22in Big) {R}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflake 1 Arrow" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflake 2 Two-Prong" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflake 3 Three-Prong" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflake 4 Diamond" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflake 5 Big" visible="1"/>
+    <Element collapsed="0" type="model" name="#Snowflake 6 Big" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 1.1 Outer {L}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 1.2 Middle {L}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 1.3 Inner {L}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 2.1 Outer {R}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 2.2 Middle {R}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- Triple 2.3 Inner {R}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Bells 1 {L}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Bells 2 {R}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Singing Female [Gwen] {L}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Singing Male [Blake] {R}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Elf Singer" visible="1"/>
+    <Element collapsed="0" type="model" name="#Gnome" visible="1"/>
+    <Element collapsed="0" type="model" name="#Grinch" visible="1"/>
+    <Element collapsed="0" type="model" name="#Cindy Lou Who" visible="1"/>
+    <Element collapsed="0" type="model" name="#Max the Dog" visible="1"/>
+    <Element collapsed="0" type="model" name="#Toy Soldier" visible="1"/>
+    <Element collapsed="0" type="model" name="#Penguin (Pixel)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Calvin" visible="1"/>
+    <Element collapsed="0" type="model" name="#Sorcerers Apprentice" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wreath- Rosa" visible="1"/>
+    <Element collapsed="0" type="model" name="#Wheel of Dharma" visible="1"/>
+    <Element collapsed="0" type="model" name="#Ships Wheel" visible="1"/>
+    <Element collapsed="0" type="model" name="#Dreidel Outline" visible="1"/>
+    <Element collapsed="0" type="model" name="#Matrix- Dreidel" visible="1"/>
+    <Element collapsed="0" type="model" name="#Major Award Outline (New)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Matrix- Major Award" visible="1"/>
+    <Element collapsed="0" type="model" name="#Matrix- P4-1 Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Matrix- P4-2 Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Matrix- P5 Tune-To Sign" visible="1"/>
+    <Element collapsed="0" type="model" name="#Matrix- Text- Donations (64X8)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Ornament- Star" visible="1"/>
+    <Element collapsed="0" type="model" name="#Ornament- Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 09 (15in Small) {T}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 10 (15in Small)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 11 (15in Small)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinner Mint 12 (15in Small) {B}" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- of Bethlehem" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- of David Coro" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- of David Wooden" visible="1"/>
+    <Element collapsed="0" type="model" name="#Star- on Spiral Pixel Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Big Pixel 1 Left Center" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree Star 1- Big Pixel 1 Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree Star 1- Big Pixel 1 Tree Star Center" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Big Pixel 2 Right Front" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree Star 2- Big Pixel 2 Outside" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree Star 2- Big Pixel 2 Tree Star Center" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel A1 Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel A2" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel A3" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel A4 Center Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel A5 Center Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel A6" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel A7" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel A8 Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel B1 Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel B2" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel B3" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel B4 Center Left" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel B5 Center Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel B6" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel B7" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Mini Pixel B8 Right" visible="1"/>
+    <Element collapsed="0" type="model" name="#Tree- Spiral Pixel" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- All AC for sweeps" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Tomato- Whites" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Pencil 1-16 (Multi)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Candy Canes Seq Group (RGRG)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Candy Canes 1 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Candy Canes 2 (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Candy Canes 3 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Candy Canes 4 (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A1.0 {L} (RGB}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A1.1 (L} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A1.2 (L} (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A1.3 (L} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A1.4 {L} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A2.0 (RGB}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A2.1 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A2.2 (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A2.3 (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A2.4 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A3.0 (RGB}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A3.1 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A3.2 (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A3.3 (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A3.4 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A4.0 {CL} (RGB}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A4.1 {CL} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A4.2 {CL} (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A4.3 {CL} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A4.4 {CL} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A5.0 {CR} (RGB}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A5.1 {CR} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A5.2 {CR} (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A5.3 {CR} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A5.4 {CR} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A6.0 (RGB}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A6.1 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A6.2 (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A6.3 (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A6.4 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A7.0 (RGB}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A7.1 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A7.2 (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A7.3 (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A7.4 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A8.0 {R} (RGB}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A8.1 {R} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A8.2 {R} (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A8.3 {R} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato A8.4 {R} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B1.1 {L} (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B1.2 {L} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B2.1 (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B2.2 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B3.1 (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B3.2 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B4.1 {CL} (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B4.2 {CL} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B5.1 {CR} (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B5.2 {CR} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B6.1 (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B6.2 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B7.1 (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B7.2 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B8.1 {R} (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato B8.2 {R} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 01- Red (R) {L}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 02- Green (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 03- Blue (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 04- Pink (P) {F}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 05- Silver (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 06- Rainbow (M) {CL}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 07- Italian (RWG) {CF}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 08- Gold (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 09- Gold (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 10- Italian (RWG) {CB}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 11- Rainbow (M) {CR}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 12- Silver (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 13- Pink (P) [B}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 14- Blue (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 15- Green (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Pencil 16- Red (R) {R}" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Spiral 1-4 (WWWG)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Spiral 1 {B} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Spiral 2 {R} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Spiral 3 {F} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Spiral 4 {L} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Others Group" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- All DMX no Pixels" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Pink and Purple (PV) (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Tinsel 1 + 2 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tinsel 1 {L} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tinsel 2 {R} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato Stubby 1 {L} (BG)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Tomato Stubby 2 {R} (BG)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Big AC 1 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Small Blue {L} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Small Purple- Dark (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Small Purple- Light (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Amplifier 12V" visible="1"/>
+    <Element collapsed="0" type="model" name="%Big Nick Inside (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 1 {S} Rainbow (ROGBV)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 2.1 {L} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 2.2 {L} (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 2.4 {L} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 3.0 (RGBW)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 3.1 {C} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 3.2 {C} (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 3.3 {C} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 3.4 {C} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 4.1 {D} (P)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 4.2 {D} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 5.0 {R} (RGBW)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 5.1 {R} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 5.2 {R} (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 5.3 {R} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 5.4 {R} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 5.5 {R} (V)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 5.6 {R} (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Candelabra" visible="1"/>
+    <Element collapsed="0" type="model" name="%Coexist Flag (MRGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Countdown Timer (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Disco Balls (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Festivus Pole Flood (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Flying Spaghetti Monster (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Gingerbread House" visible="1"/>
+    <Element collapsed="0" type="model" name="%Lamp Post Directions (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Lamp Posts (Y)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Lasers- Driveway (RG)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Lasers- House Front (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Lasers- Street (RG)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Mailboxes (Y)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Menorah (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Nativity Jesus Joseph Mary" visible="1"/>
+    <Element collapsed="0" type="model" name="%Nativity Shepherds" visible="1"/>
+    <Element collapsed="0" type="model" name="%Nativity Wisemen" visible="1"/>
+    <Element collapsed="0" type="model" name="%Nativity Angels" visible="1"/>
+    <Element collapsed="0" type="model" name="%Nativity Animals" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Nativity Stars" visible="1"/>
+    <Element collapsed="0" type="model" name="%Nativity Floods {LR} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Nativity Flood 1 {L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Nativity Flood 2 {R} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%On The Air (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Peace Sign (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Presents (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Rotating Beacons {All} (RGBO)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Rotating Beacons 1 {LF} (RGBO)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Rotating Beacons 2 {LB} (RGBO)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Rotating Beacons 3 {R} {BGO}" visible="1"/>
+    <Element collapsed="0" type="model" name="%Snow Lake with Deer (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Snowmen (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Snowmen Lamp Inflatable" visible="1"/>
+    <Element collapsed="0" type="model" name="%Penguins" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Snowflakes (WB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Snowfall Projectors (WB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- C9- Bushes {BLC} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- C9- Roof Bushes Trees {R} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- 5mm- Bushes {BLC} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- C9- Trees {FC} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- C9- Pine" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- C9- Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Big Nick Fire (RO)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swiriles- Candy Canes (RG)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Happy Holidays" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Driveway (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Oak (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Pine (GO)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Street (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Transmitter 12V" visible="1"/>
+    <Element collapsed="0" type="model" name="%Trees- Willow and Palm (GW)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Trees- Rainbow (ROYGBV)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Work Together 1 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Work Together 2 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Work Together 3 (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Work Together 4- Swirly Stars (RWB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Wreath Berries (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Wreath Leaves (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="%UFOs (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%UFOs 1 {L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%UFOs 2 {CT} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%UFOs 3 {R} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Yule Log (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Snow Lake (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- C9- Tree- Big Pixel {FC} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Spinners Mint Big Spokes" visible="1"/>
+    <Element collapsed="0" type="model" name="zMatrix- Test" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Tomato Row B By Color R G B W" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Tomato Row B By Tree 1-8 (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Tomato Row C By Tree 1-8 (VW)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Tomato Row C Vio Group" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Tomato Row C Wht Group" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Tomato Stubby (BG)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Snow 1 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="$Tree- Snow 2 (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Trees- Willow (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="#Pixels- (nearly) ALL for Grinch Song" visible="1"/>
+    <Element collapsed="0" type="model" name="$Trees- Tomato Row B As String (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%House AC Front and Roof (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Oddballs Group" visible="1"/>
+    <Element collapsed="0" type="model" name="%Power Items" visible="1"/>
+    <Element collapsed="0" type="model" name="%Religious Group" visible="1"/>
+    <Element collapsed="0" type="model" name="%Snow Group (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies Spinny Group (M) (DMX)" visible="1"/>
+    <Element collapsed="0" type="model" name="x$Ctlr A and B ch1-32 Tomato Trees Row A" visible="1"/>
+    <Element collapsed="0" type="model" name="x$Ctlr C ch33-48 Tomato Trees Row B" visible="1"/>
+    <Element collapsed="0" type="model" name="x$Ctlr E ch65-80 Other Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="x%Ctlr F ch81-96 Left Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="x%Ctlr G ch97-112 Left Yard" visible="1"/>
+    <Element collapsed="0" type="model" name="x%Ctlr M House Front and Roof" visible="1"/>
+    <Element collapsed="0" type="model" name="x%Ctlr N 12 Volt Stuff" visible="1"/>
+    <Element collapsed="0" type="model" name="x%Ctlr Q Right Bushes" visible="1"/>
+    <Element collapsed="0" type="model" name="z Roof Ridgeline 2 {R} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="z Roof Ridgeline 1 {L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 1 (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 2 (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 3 (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="zEaves Chase 4 (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Bushes 2.3 {L} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Wreath 2 Berries (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Wreath 1 Leaves (G)" visible="1"/>
+    <Element collapsed="0" type="model" name="%UFOs 3 {R}{L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%UFOs 2 {CT}{L} (RGB)" visible="1"/>
+    <Element collapsed="0" type="model" name="$CandyCane01-R1" visible="1"/>
+    <Element collapsed="0" type="model" name="$CandyCane02-G2" visible="1"/>
+    <Element collapsed="0" type="model" name="$CandyCane03-R3" visible="1"/>
+    <Element collapsed="0" type="model" name="$CandyCane04-G4" visible="1"/>
+    <Element collapsed="0" type="model" name="%Laser- Streetlight (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Mailbox- Real (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Rotating Beacon 01 {F} (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Rotating Beacon 05 {B} (O)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Rotating Beacon 08 {R} (B)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- 5mm- Bushes {C} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- C9- Bushes {C} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- C9- Bushes {R} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Strobes- C9- Trees- Tomato- Row A {F} (W)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Candy Canes {L} (RG)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Swirlies- Snowflakes {L} (WB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Trees- Rainbow 1 {T} (R)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Disco Balls {L} (M)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Work Together Sign (RWB)" visible="1"/>
+    <Element collapsed="0" type="model" name="%Dumb RGB Items Group" visible="1"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Trees">
+    <Element type="model" name="#All Pixel Props except Singers and Mega">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Candy Canes Seq Group (RGRG)">
+    <Element type="model" name="#Pixels- Absolutely All incl Singers">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Religious Group">
+    <Element type="model" name="#House+Yard Px- Whole- Pixels">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Dumb RGB Items Group">
+    <Element type="model" name="#House Px Outline (Eaves + Roof Edges)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Oddballs Group">
+    <Element type="model" name="#House Px- Whole- Pixels with Eaves and Roof">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Power Items">
+    <Element type="model" name="#Pixels House Front">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Work Together Sign (RWB)">
+    <Element type="model" name="#Whole House Pixels">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="UFOs (RGB)">
+    <Element type="model" name="#Roof Pixel Props Odd">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Bushes (DMX)">
+    <Element type="model" name="#Roof Pixels Props Even">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Swirlies Spinny Group (M) (DMX)">
+    <Element type="model" name="#Roof Outline">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Snow Group (DMX)">
+    <Element type="model" name="#Eave Pixels- All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Mega Triangle and Star Wreath">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners and Snowflakes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes and Spinners">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes and Spinners Rings">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes and Spinners Outlines">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes and Spinners Legs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#House Px- Whole- Pixel Props no Eaves or Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 1-8 (22in Big) Horizontal Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint Left Big 1-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint Right Big 5-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 1-8 (22in Big) Submodels">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint Big Arms">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 1-8 (22in Big) Legs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 1-8 (22in Big) Outlines">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 1-8 (22in Big) Rings">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 1-8 (22in Big) Spokes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 1-12 (Big+Small)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes Small (4)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes- Big (2)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes All 1-6 (Small + Big)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes All 1-6 Submodels">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes Arms">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes Centers">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes Outlines">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes Rings">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes Spokes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflakes Tips">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tri-Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Stars- Triple 1+2+David">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#TriStar 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#TriStar 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Stars- Triple 1+2 {L+R} (all arms all levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Stars- Triple 1+2 {L+R} Arms 1 Top (all 3 levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Stars- Triple 1+2 {L+R} Arms 3 Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Stars- Triple 1+2 {L+R} Arms 4 Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Stars- Triple 1+2 {L+R} Arms 5 Left (all 3 levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Stars- Triple 1+2 {L+R} Arms 2 Right (all 3 levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star Triple 1 {L} Arms 4 Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 1 {L} (all 3 levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 1 {L} Arms 1 Top (all 3 levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 1 {L} Arms 2 Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 1 {L} Arms 3 Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 1 {L} Arms 4 Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 1 {L} Arms 5 Left (all 3 levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 2 {R} (all 3 levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 2 {R} Arms 1 Top (all 3 levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 2 {R} Arms 2 Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 2 {R} Arms 3 Bottom Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 2 {R} Arms 4 Bottom Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 2 {R} Arms 5 Left (all 3 levels)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Bells (both) All 3 Bells">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Bells (both) Center Bell">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Bells (both) Left Bell">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Bells (both) Right Bell">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Yard Pixel Props">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Matrixes- P4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Trees- Mini Pixel">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 9-12 (15in Small) Legs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 9-12 (15in Small) Outlines">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 9-12 (15in Small) Rings">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 9-12 (15in Small) Spokes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Small Spokes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 9-12 (15in Small) Submodels">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint 9-12 (15in Small) Vertical Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint Small 9-12">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wreath- Rosa- Feathers 1-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wreath- Rosa- Feathers Odd 1-15">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wreath- Rosa- Feathers Even 2-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wreath- Rosa- Arrows 1-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wreath- Rosa- Outer Balls 1-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wreath- Rosa- Ribbons 1-16">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wreath- Rosa- Rings 1-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wreath- Rosa- Spokes 1-32">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Fence Swags- All 01-21">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Fence Swags- Left Half 01-11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Fence Swags- Odd 1357...">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Fence Swags- Right Half 12-21">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Fence Swags- Left Side Only (5)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Fence Swags- Even 2468...">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Fence Swags- Front Only (10)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Fence Swags- Right and Diagonal Only (6)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Ornaments">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Ornaments Tops">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Ornaments Outlines">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Dreidel with Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Major Award with Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Spiral Pixel with Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Rainbow Rope Arch Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Matrix- Mega Triangle">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Wreath Mega Triangle Topper">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Matrix- Text- Big (72X16=1152)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Eave Pixels 1 {L} Horiz (221)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Eave Pixels 2 {L} Diag (186)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Eave Pixels 3 {R} Diag (187)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Eave Pixels 4 {R} Horiz (255)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Roof Edges Neon Rope Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Roof Edges Neon Rope Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 01 (22in Big) {L}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 02 (22in Big)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 03 (22in Big)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 04 (22in Big)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 05 (22in Big)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 06 (22in Big)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 07 (22in Big)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 08 (22in Big) {R}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflake 1 Arrow">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflake 2 Two-Prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflake 3 Three-Prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflake 4 Diamond">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflake 5 Big">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Snowflake 6 Big">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 1.1 Outer {L}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 1.2 Middle {L}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 1.3 Inner {L}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 2.1 Outer {R}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 2.2 Middle {R}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- Triple 2.3 Inner {R}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Bells 1 {L}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Bells 2 {R}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Singing Female [Gwen] {L}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Singing Male [Blake] {R}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Elf Singer">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Gnome">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Grinch">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Cindy Lou Who">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Max the Dog">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Toy Soldier">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Penguin (Pixel)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Calvin">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Sorcerers Apprentice">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wreath- Rosa">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Wheel of Dharma">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Ships Wheel">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Dreidel Outline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Matrix- Dreidel">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Major Award Outline (New)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Matrix- Major Award">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Matrix- P4-1 Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Matrix- P4-2 Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Matrix- P5 Tune-To Sign">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Matrix- Text- Donations (64X8)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Ornament- Star">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Ornament- Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 09 (15in Small) {T}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 10 (15in Small)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 11 (15in Small)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinner Mint 12 (15in Small) {B}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- of Bethlehem">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- of David Coro">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- of David Wooden">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Star- on Spiral Pixel Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Big Pixel 1 Left Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree Star 1- Big Pixel 1 Outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree Star 1- Big Pixel 1 Tree Star Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Big Pixel 2 Right Front">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree Star 2- Big Pixel 2 Outside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree Star 2- Big Pixel 2 Tree Star Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel A1 Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel A2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel A3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel A4 Center Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel A5 Center Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel A6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel A7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel A8 Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel B1 Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel B2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel B3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel B4 Center Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel B5 Center Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel B6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel B7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Mini Pixel B8 Right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Tree- Spiral Pixel">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- All AC for sweeps">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Tomato- Whites">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Pencil 1-16 (Multi)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Candy Canes Seq Group (RGRG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Candy Canes 1 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Candy Canes 2 (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Candy Canes 3 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Candy Canes 4 (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A1.0 {L} (RGB}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A1.1 (L} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A1.2 (L} (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A1.3 (L} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A1.4 {L} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A2.0 (RGB}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A2.1 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A2.2 (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A2.3 (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A2.4 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A3.0 (RGB}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A3.1 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A3.2 (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A3.3 (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A3.4 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A4.0 {CL} (RGB}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A4.1 {CL} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A4.2 {CL} (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A4.3 {CL} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A4.4 {CL} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A5.0 {CR} (RGB}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A5.1 {CR} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A5.2 {CR} (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A5.3 {CR} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A5.4 {CR} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A6.0 (RGB}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A6.1 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A6.2 (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A6.3 (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A6.4 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A7.0 (RGB}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A7.1 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A7.2 (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A7.3 (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A7.4 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A8.0 {R} (RGB}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A8.1 {R} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A8.2 {R} (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A8.3 {R} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato A8.4 {R} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B1.1 {L} (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B1.2 {L} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B2.1 (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B2.2 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B3.1 (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B3.2 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B4.1 {CL} (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B4.2 {CL} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B5.1 {CR} (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B5.2 {CR} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B6.1 (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B6.2 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B7.1 (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B7.2 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B8.1 {R} (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato B8.2 {R} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 01- Red (R) {L}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 02- Green (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 03- Blue (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 04- Pink (P) {F}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 05- Silver (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 06- Rainbow (M) {CL}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 07- Italian (RWG) {CF}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 08- Gold (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 09- Gold (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 10- Italian (RWG) {CB}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 11- Rainbow (M) {CR}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 12- Silver (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 13- Pink (P) [B}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 14- Blue (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 15- Green (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Pencil 16- Red (R) {R}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Spiral 1-4 (WWWG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Spiral 1 {B} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Spiral 2 {R} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Spiral 3 {F} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Spiral 4 {L} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Others Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- All DMX no Pixels">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Pink and Purple (PV) (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Tinsel 1 + 2 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tinsel 1 {L} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tinsel 2 {R} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato Stubby 1 {L} (BG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Tomato Stubby 2 {R} (BG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Big AC 1 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Small Blue {L} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Small Purple- Dark (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Small Purple- Light (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Amplifier 12V">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Big Nick Inside (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 1 {S} Rainbow (ROGBV)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 2.1 {L} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 2.2 {L} (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 2.4 {L} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 3.0 (RGBW)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 3.1 {C} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 3.2 {C} (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 3.3 {C} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 3.4 {C} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 4.1 {D} (P)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 4.2 {D} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 5.0 {R} (RGBW)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 5.1 {R} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 5.2 {R} (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 5.3 {R} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 5.4 {R} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 5.5 {R} (V)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 5.6 {R} (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Candelabra">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Coexist Flag (MRGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Countdown Timer (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Disco Balls (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Festivus Pole Flood (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Flying Spaghetti Monster (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Gingerbread House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Lamp Post Directions (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Lamp Posts (Y)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Lasers- Driveway (RG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Lasers- House Front (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Lasers- Street (RG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Mailboxes (Y)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Menorah (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Nativity Jesus Joseph Mary">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Nativity Shepherds">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Nativity Wisemen">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Nativity Angels">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Nativity Animals">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Nativity Stars">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Nativity Floods {LR} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Nativity Flood 1 {L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Nativity Flood 2 {R} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%On The Air (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Peace Sign (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Presents (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Rotating Beacons {All} (RGBO)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Rotating Beacons 1 {LF} (RGBO)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Rotating Beacons 2 {LB} (RGBO)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Rotating Beacons 3 {R} {BGO}">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Snow Lake with Deer (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Snowmen (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Snowmen Lamp Inflatable">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Penguins">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Snowflakes (WB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Snowfall Projectors (WB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- C9- Bushes {BLC} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- C9- Roof Bushes Trees {R} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- 5mm- Bushes {BLC} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- C9- Trees {FC} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- C9- Pine">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- C9- Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Big Nick Fire (RO)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swiriles- Candy Canes (RG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Happy Holidays">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Driveway (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Oak (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Pine (GO)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Street (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Transmitter 12V">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Trees- Willow and Palm (GW)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Trees- Rainbow (ROYGBV)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Work Together 1 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Work Together 2 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Work Together 3 (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Work Together 4- Swirly Stars (RWB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Wreath Berries (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Wreath Leaves (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%UFOs (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%UFOs 1 {L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%UFOs 2 {CT} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%UFOs 3 {R} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Yule Log (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Snow Lake (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- C9- Tree- Big Pixel {FC} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Spinners Mint Big Spokes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zMatrix- Test">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Tomato Row B By Color R G B W">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Tomato Row B By Tree 1-8 (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Tomato Row C By Tree 1-8 (VW)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Tomato Row C Vio Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Tomato Row C Wht Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Tomato Stubby (BG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Snow 1 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Tree- Snow 2 (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Trees- Willow (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="#Pixels- (nearly) ALL for Grinch Song">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$Trees- Tomato Row B As String (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%House AC Front and Roof (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Oddballs Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Power Items">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Religious Group">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Snow Group (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies Spinny Group (M) (DMX)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="x$Ctlr A and B ch1-32 Tomato Trees Row A">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="x$Ctlr C ch33-48 Tomato Trees Row B">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="x$Ctlr E ch65-80 Other Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="x%Ctlr F ch81-96 Left Bushes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="x%Ctlr G ch97-112 Left Yard">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="x%Ctlr M House Front and Roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="x%Ctlr N 12 Volt Stuff">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="x%Ctlr Q Right Bushes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="z Roof Ridgeline 2 {R} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="z Roof Ridgeline 1 {L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zEaves Chase 1 (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zEaves Chase 2 (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zEaves Chase 3 (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="zEaves Chase 4 (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Bushes 2.3 {L} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Wreath 2 Berries (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Wreath 1 Leaves (G)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%UFOs 3 {R}{L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%UFOs 2 {CT}{L} (RGB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$CandyCane01-R1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$CandyCane02-G2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$CandyCane03-R3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="$CandyCane04-G4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Laser- Streetlight (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Mailbox- Real (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Rotating Beacon 01 {F} (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Rotating Beacon 05 {B} (O)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Rotating Beacon 08 {R} (B)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- 5mm- Bushes {C} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- C9- Bushes {C} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- C9- Bushes {R} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Strobes- C9- Trees- Tomato- Row A {F} (W)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Candy Canes {L} (RG)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Swirlies- Snowflakes {L} (WB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Trees- Rainbow 1 {T} (R)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Disco Balls {L} (M)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Work Together Sign (RWB)">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="%Dumb RGB Items Group">
       <EffectLayer/>
     </Element>
   </ElementEffects>
-  <lastView>1</lastView>
+  <lastView>11</lastView>
   <TimingTags>
     <Tag number="0" position="-1"/>
     <Tag number="1" position="-1"/>
